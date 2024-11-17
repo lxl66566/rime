@@ -9,70 +9,95 @@
 #
 # 虽然文本码表编辑较为方便，但不适合导入大量条目
 
-中州韵输入法引擎	rime	2
-https://rime.im/	rime	1
-Rime	rime	3
-⌘	cmd
-⌘	command
-⌃	ctl
-⌃	control
-⌥	opt
-⌥	option
-⇧	shift
+
+吧	b	1
+把	ba	1
+的	d	1
+呃	e	1
+额	e	2
+呃	ee	1
+个	g	1
+哈	h	1
+了	l	1
+樂	le	1
+吗	ma	1
+喵	mn	1
+妙	mn	2
+只	vi	1
+我	w	1
+摆烂	bdlj	1
+登录	dglu	1
+对齐	dvqi	1
+呃呃	eeee	1
+华东	hxds	1
+诚意	igyi	1
+长按	ihan	1
+基操	jicc	1
+几点	jidm	1
+萝莉	loli	2
+没开	mwkd	1
+媚药	mwyc	1
+内联	nwlm	1
+内敛	nwlm	2
+声明	ugmk	1
+生命	ugmk	2
+使我	uiwo	1
+兽交	uzjn	1
+振荡	vfdh	1
+知道	vidc	1
+直到	vidc	2
+指导	vidc	3
+治愈	viyu	1
+致郁	viyu	2
+信工	xbgs	1
+响应	xlyk	1
+相应	xlyk	2
+小时	xnui	1
+消失	xnui	1
+音游	ybyz	1
+以为	yiww	1
+一下	yixx	1
+以下	yixx	2
+眼睛	yjjk	1
+眼镜	yjjk	2
+原神	yruf	1
+运维	yyww	1
+韵味	yyww	2
+总之	zsvi	1
+爱心屋	aixbwu	1
+偏特化	pmtehx	1
+
 
 Android	android
+Apple	ID	appleid
 Apple	apple
-Apple ID	appleid
+CSS	css
 Clash	clash
 Cloudflare	cloudflare
-Cloudflare Workers	cloudflareworkers
-CSS	css
-Dropbox	dropbox
 Docker	docker
+Dropbox	dropbox
 GBK	gbk
 GitHub	github
 Google	google
-Linux linux
 HTML	html
-iCloud	icloud
-iMac	imac
-iOS	ios
-iPad	ipad
-iPad	ipad
-iPhone	iphone
-iPhone Xʀ	iphonexr
-iPod	ipod
 IPTV	iptv
 IPv4	ipv
 IPv6	ipv
-iTunes	itunes
 Java	java
 JavaScript	javascript
-jQuery	jquery
+Linux	linux
 Linux	linux
 Mac	mac
-Mac App Store	mas
 MacBook	macbook
-MacBook Air	mba
-MacBook Pro	mbp
-macOS	macos	8
-macOS Sequoia	macos	7
-macOS Sonoma	macos	6
-macOS Ventura	macos	5
-macOS Monterey	macos	4
-macOS Catalina	macos	3
-macOS Mojave	macos	2
-macOS High Sierra	macos	1
 Magisk	magisk
 Minecraft	minecraft
 MySQL	mysql
 Objective-C	ojbc
 OneDrive	onedrive
-OS X	osx
 Pixel	pixel
 Python	python
-QQ 邮箱	qqyzxl
 Quantumult	quantumult
+Rime	rime	1
 Ruby	ruby
 Rust	rust
 SQL	sql
@@ -81,17 +106,39 @@ Surge	surge
 Swift	swift
 Tailscale	tailscale
 TypeScript	typescript
-T恤	txu
 UTF-8	utfba
-U盘	upj
 WeChat	wechat
 Wi-Fi	wifi
 Windows	win
 Windows	windows
 X-Ray	xray
 Xbox	xbox
-Xbox One	xboxone
 YouTube	youtube
 ZeroTier	zerotier
-又双叒叕	yyy
-又双叒叕	yzyzyz
+git	git	1
+iCloud	icloud
+iMac	imac
+iOS	ios
+iPad	ipad
+iPad	ipad
+iPhone	iphone
+iPod	ipod
+iTunes	itunes
+jQuery	jquery
+loli	loli	1
+rust	rust	1
+
+
+QQ邮箱	qqyzxl
+T恤	txu
+U盘	upj
+
+
+⌘	cmd
+⌘	command
+⌃	ctl
+⌃	control
+⌥	opt
+⌥	option
+⇧	shift
+¿	em	1
