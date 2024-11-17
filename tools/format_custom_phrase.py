@@ -1,6 +1,7 @@
 # 格式化 custom_phrase.txt 文件，排序 + 分组
 
 import re
+from collections import Counter
 from pathlib import Path
 from typing import override
 
@@ -20,11 +21,17 @@ def is_chinese_alphanumeric(s: str):
     return bool(re.fullmatch(r"[\u4e00-\u9fa5a-zA-Z0-9-_]+", s))
 
 
+def find_duplicates(arr):
+    counter = Counter(arr)
+    duplicates = [item for item, count in counter.items() if count > 1]
+    return duplicates
+
+
 class Word:
     def __init__(self, hanzi: str, duyin: str, quanzhong: str | None = None):
         self.main: str = hanzi
         self.spell: str = duyin
-        self.rank: str | None = quanzhong
+        self.rank: int | None = int(quanzhong) if quanzhong is not None else None
 
     def __lt__(self, other: "Word") -> bool:
         """
@@ -52,7 +59,7 @@ class Word:
             return False
         if other.rank is None:
             return True
-        return self.rank < other.rank
+        return self.rank > other.rank
 
     @override
     def __eq__(self, other) -> bool:
@@ -69,6 +76,10 @@ class Word:
     @override
     def __str__(self):
         return self.__repr__()
+
+    @override
+    def __hash__(self) -> int:
+        return hash(self.spell) + (self.rank or 0)
 
 
 # 分组
@@ -113,6 +124,11 @@ for line in text.splitlines():
         quanzhong = spl[2]
     word = Word(hanzi, duyin, quanzhong)
     classify_push(word)
+
+for arr in [chinese, english, mixed, farra]:
+    duplicates = find_duplicates(arr)
+    if duplicates:
+        print(f"Duplicates: {duplicates}")
 
 new_texts: list[str] = []
 new_texts.extend(comment)

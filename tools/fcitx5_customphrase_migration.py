@@ -14,7 +14,8 @@ with open("custom_phrase.txt", "a", encoding="utf-8") as f:
         if not line:
             continue
         duyin, rest = map(str.strip, line.split(","))
-        quanzhong, hanzi  = map(str.strip, rest.split("="))
+        quanzhong, hanzi = map(str.strip, rest.split("="))
         if not hanzi or not duyin or not quanzhong:
             continue
+        quanzhong = 10000 // int(quanzhong)  # fcitx5 的是次序，而 rime 是频率，负相关
         _ = f.write(f"{hanzi} {duyin} {quanzhong}\n")

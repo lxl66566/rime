@@ -10,79 +10,91 @@
 # 虽然文本码表编辑较为方便，但不适合导入大量条目
 
 
-吧	b	1
-把	ba	1
-的	d	1
-呃	e	1
-额	e	2
-呃	ee	1
-而	er	1
-个	g	1
-哈	h	1
-纯	iy	1
-了	l	1
-樂	le	1
-吗	ma	1
-喵	mn	1
-妙	mn	2
-只	vi	1
-我	w	1
-在	zd	1
-再	zd	2
-摆烂	bdlj	1
-登录	dglu	1
-对齐	dvqi	1
-呃呃	eeee	1
-华东	hxds	1
-诚意	igyi	1
-长按	ihan	1
-基操	jicc	1
-几点	jidm	1
-萝莉	loli	2
-暮年	munm	1
-没开	mwkd	1
-媚药	mwyc	1
-内联	nwlm	1
-内敛	nwlm	2
-声明	ugmk	1
-生命	ugmk	2
-使我	uiwo	1
-兽交	uzjn	1
-振荡	vfdh	1
-知道	vidc	1
-知道	vidc	1
-指导	vidc	2
-直到	vidc	2
-直到	vidc	3
-指导	vidc	3
-治愈	viyu	1
-致郁	viyu	2
-玩意	wjyi	1
-万一	wjyi	2
-信工	xbgs	1
-响应	xlyk	1
-相应	xlyk	2
-小时	xnui	1
-消失	xnui	1
-音游	ybyz	1
-以为	yiww	1
-一下	yixx	1
-以下	yixx	2
-眼睛	yjjk	1
-眼镜	yjjk	2
-原神	yruf	1
-运维	yyww	1
-韵味	yyww	2
-总之	zsvi	1
-爱心屋	aixbwu	1
-候选项	hzxrxl	1
-偏特化	pmtehx	1
-挺好用	tkhcys	1
-这玩意	vewjyi	1
+吧	b	10000
+把	ba	10000
+的	d	10000
+呃	e	10000
+额	e	5000
+呃	ee	10000
+而	er	10000
+个	g	10000
+哈	h	10000
+纯	iy	10000
+了	l	10000
+樂	le	10000
+吗	ma	10000
+喵	mn	10000
+妙	mn	5000
+只	vi	10000
+我	w	10000
+又	yz	10000
+有	yz	5000
+在	zd	10000
+再	zd	5000
+摆烂	bdlj	10000
+倒是	dcui	10000
+登录	dglu	10000
+当时	dhui	10000
+对齐	dvqi	10000
+呃呃	eeee	10000
+挂了	gxle	10000
+华东	hxds	10000
+花了	hxle	10000
+诚意	igyi	10000
+长按	ihan	10000
+尝鲜	ihxm	10000
+基操	jicc	10000
+几点	jidm	10000
+老早	lczc	10000
+力气	liqi	10000
+戾气	liqi	5000
+萝莉	loli	5000
+暮年	munm	10000
+没开	mwkd	10000
+媚药	mwyc	10000
+内联	nwlm	10000
+内敛	nwlm	5000
+声明	ugmk	10000
+生命	ugmk	5000
+使我	uiwo	10000
+实在	uizd	10000
+兽交	uzjn	10000
+振荡	vfdh	10000
+知道	vidc	10000
+直到	vidc	5000
+指导	vidc	3333
+指导	vidc	3300
+治愈	viyu	10000
+致郁	viyu	5000
+玩意	wjyi	10000
+万一	wjyi	5000
+信工	xbgs	10000
+响应	xlyk	10000
+相应	xlyk	5000
+小时	xnui	10000
+消失	xnui	5000
+音游	ybyz	10000
+以为	yiww	10000
+一下	yixx	10000
+以下	yixx	5000
+眼睛	yjjk	10000
+眼镜	yjjk	5000
+原神	yruf	10000
+运维	yyww	10000
+韵味	yyww	5000
+总之	zsvi	10000
+爱心屋	aixbwu	10000
+负相关	fuxlgr	10000
+候选项	hzxrxl	10000
+偏特化	pmtehx	10000
+挺好用	tkhcys	10000
+这玩意	vewjyi	10000
+整明白	vgmkbd	10000
+一上午	yiuhwu	10000
+不需要	不需要	10000
 
 
 Android	android
-Apple	ID	appleid
 Apple	apple
 CSS	css
 Clash	clash
@@ -94,24 +106,23 @@ GitHub	github
 Google	google
 HTML	html
 IPTV	iptv
-IPv4	ipv
-IPv6	ipv
+IPv4	ipv	1001
+IPv6	ipv	1000
 Java	java
 JavaScript	javascript
-Linux	linux
 Linux	linux
 Mac	mac
 MacBook	macbook
 Magisk	magisk
 Minecraft	minecraft
 MySQL	mysql
-NixOS	nixos	1
+NixOS	nixos	10000
 Objective-C	ojbc
 OneDrive	onedrive
 Pixel	pixel
 Python	python
 Quantumult	quantumult
-Rime	rime	1
+Rime	rime	10000
 Ruby	ruby
 Rust	rust
 SQL	sql
@@ -129,18 +140,17 @@ X-Ray	xray
 Xbox	xbox
 YouTube	youtube
 ZeroTier	zerotier
-git	git	1
+git	git	10000
 iCloud	icloud
 iMac	imac
 iOS	ios
-iPad	ipad
 iPad	ipad
 iPhone	iphone
 iPod	ipod
 iTunes	itunes
 jQuery	jquery
-loli	loli	1
-rust	rust	1
+loli	loli	10000
+rust	rust	10000
 
 
 QQ邮箱	qqyzxl
@@ -155,4 +165,4 @@ U盘	upj
 ⌥	opt
 ⌥	option
 ⇧	shift
-¿	em	1
+¿	em	10000
