@@ -16,8 +16,10 @@
 呃	e	1
 额	e	2
 呃	ee	1
+而	er	1
 个	g	1
 哈	h	1
+纯	iy	1
 了	l	1
 樂	le	1
 吗	ma	1
@@ -25,6 +27,8 @@
 妙	mn	2
 只	vi	1
 我	w	1
+在	zd	1
+再	zd	2
 摆烂	bdlj	1
 登录	dglu	1
 对齐	dvqi	1
@@ -35,6 +39,7 @@
 基操	jicc	1
 几点	jidm	1
 萝莉	loli	2
+暮年	munm	1
 没开	mwkd	1
 媚药	mwyc	1
 内联	nwlm	1
@@ -45,10 +50,15 @@
 兽交	uzjn	1
 振荡	vfdh	1
 知道	vidc	1
+知道	vidc	1
+指导	vidc	2
 直到	vidc	2
+直到	vidc	3
 指导	vidc	3
 治愈	viyu	1
 致郁	viyu	2
+玩意	wjyi	1
+万一	wjyi	2
 信工	xbgs	1
 响应	xlyk	1
 相应	xlyk	2
@@ -65,7 +75,10 @@
 韵味	yyww	2
 总之	zsvi	1
 爱心屋	aixbwu	1
+候选项	hzxrxl	1
 偏特化	pmtehx	1
+挺好用	tkhcys	1
+这玩意	vewjyi	1
 
 
 Android	android
@@ -92,6 +105,7 @@ MacBook	macbook
 Magisk	magisk
 Minecraft	minecraft
 MySQL	mysql
+NixOS	nixos	1
 Objective-C	ojbc
 OneDrive	onedrive
 Pixel	pixel

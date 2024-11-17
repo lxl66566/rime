@@ -66,8 +66,8 @@ key_binder:
 
     # . / , 翻页
     # 需要注释掉部分冲突的正则匹配才可用，详情见: https://github.com/LufsX/rime/issues/15#issuecomment-1496011933
-    # - { when: paging, accept: period, send: Page_Down } # 句号向下翻页
-    # - { when: paging, accept: comma, send: Page_Up } # 逗号向上翻页
+    - { when: paging, accept: period, send: Page_Down } # 句号向下翻页
+    - { when: paging, accept: comma, send: Page_Up } # 逗号向上翻页
 
     # ] / [ 翻页
     # 失效设置，可通过关闭/更改 lua 选词的快捷键恢复
@@ -77,7 +77,8 @@ key_binder:
     # 候选操作
     # ; 二选 ' 三选
     - { when: has_menu, accept: semicolon, send: 2 } # 输入时「;」二选
-    # - { when: has_menu, accept: apostrophe, send: 3 } # 输入时「'」三选
+    - { when: has_menu, accept: apostrophe, send: 3 } # 输入时「'」三选
+
 
     # Rime key bindings
     # numbered mode switch
