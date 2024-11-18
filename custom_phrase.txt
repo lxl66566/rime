@@ -32,6 +32,7 @@
 在	zd	10000
 再	zd	5000
 摆烂	bdlj	10000
+并发	bkfa	10000
 倒是	dcui	10000
 登录	dglu	10000
 当时	dhui	10000
@@ -49,11 +50,13 @@
 力气	liqi	10000
 戾气	liqi	5000
 萝莉	loli	5000
+萌娘	mgnl	10000
 暮年	munm	10000
 没开	mwkd	10000
 媚药	mwyc	10000
 内联	nwlm	10000
 内敛	nwlm	5000
+群友	qyyz	10000
 声明	ugmk	10000
 生命	ugmk	5000
 使我	uiwo	10000
@@ -66,6 +69,7 @@
 指导	vidc	3300
 治愈	viyu	10000
 致郁	viyu	5000
+问个	wfge	10000
 玩意	wjyi	10000
 万一	wjyi	5000
 信工	xbgs	10000
@@ -85,11 +89,13 @@
 总之	zsvi	10000
 爱心屋	aixbwu	10000
 负相关	fuxlgr	10000
+还以为	hdyiww	10000
 候选项	hzxrxl	10000
 偏特化	pmtehx	10000
 挺好用	tkhcys	10000
 这玩意	vewjyi	10000
 整明白	vgmkbd	10000
+笑死了	xnsile	10000
 一上午	yiuhwu	10000
 不需要	不需要	10000
 
