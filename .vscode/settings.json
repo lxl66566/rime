@@ -1,0 +1,9 @@
+{
+  "anyformatter": {
+    "txt": {
+      "command": "python tools/format_custom_phrase.py",
+      "file": true,
+      "format_on_save": true
+    }
+  }
+}

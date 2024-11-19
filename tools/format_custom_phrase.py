@@ -1,6 +1,7 @@
 # 格式化 custom_phrase.txt 文件，排序 + 分组
 
 import re
+import sys
 from collections import Counter
 from pathlib import Path
 from typing import override
@@ -103,7 +104,9 @@ def classify_push(word: Word):
 
 
 # 读取 custom_phrase.txt 文件
-file = Path("custom_phrase.txt")
+filepath = sys.argv[1] if len(sys.argv) > 1 else "custom_phrase.txt"
+assert filepath.endswith(".txt")
+file = Path(filepath)
 text = file.read_text(encoding="utf-8")
 
 

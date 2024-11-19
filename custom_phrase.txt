@@ -54,6 +54,7 @@
 暮年	munm	10000
 没开	mwkd	10000
 媚药	mwyc	10000
+难用	njys	10000
 内联	nwlm	10000
 内敛	nwlm	5000
 群友	qyyz	10000
@@ -93,6 +94,7 @@
 候选项	hzxrxl	10000
 偏特化	pmtehx	10000
 挺好用	tkhcys	10000
+试了下	uilexx	10000
 这玩意	vewjyi	10000
 整明白	vgmkbd	10000
 笑死了	xnsile	10000
