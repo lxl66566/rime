@@ -46,6 +46,7 @@
 尝鲜	ihxm	10000
 基操	jicc	10000
 几点	jidm	10000
+即食	jiui	10000
 老早	lczc	10000
 力气	liqi	10000
 戾气	liqi	5000
@@ -57,7 +58,10 @@
 难用	njys	10000
 内联	nwlm	10000
 内敛	nwlm	5000
+青柠	qknk	10000
 群友	qyyz	10000
+塞牙	sdya	10000
+填饱	tmbc	10000
 声明	ugmk	10000
 生命	ugmk	5000
 使我	uiwo	10000
@@ -73,6 +77,7 @@
 问个	wfge	10000
 玩意	wjyi	10000
 万一	wjyi	5000
+无糖	wuth	10000
 信工	xbgs	10000
 响应	xlyk	10000
 相应	xlyk	5000

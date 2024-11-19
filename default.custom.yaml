@@ -1,6 +1,6 @@
 patch:
   menu:
-    page_size: 8 # 调大候选项
+    page_size: 10 # 调大候选项
   key_binder:
     bindings:
       # https://www.mintimate.cc/zh/guide/shortcutKeys.html#快捷键映射
