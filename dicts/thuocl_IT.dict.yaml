@@ -10,8 +10,7 @@
 name: IT
 version: "2016-12-24"
 sort: by_weight
-...
-
+---
 字符串	zi fu chuan	395499
 初始化	chu shi hua	372767
 数组	shu zu	357924
@@ -935,7 +934,6 @@ sort: by_weight
 类型参数	lei xing can shu	8314
 错误码	cuo wu ma	8300
 代码分析	dai ma fen xi	8297
-程序猿	cheng xu yuan	8288
 类变量	lei bian liang	8262
 动态代理	dong tai dai li	8248
 对象名	dui xiang ming	8216
