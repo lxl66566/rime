@@ -1,4 +1,8 @@
+#!/usr/bin/env python3
 # 格式化 custom_phrase.txt 文件，排序 + 分组
+# 使用方法：`python format_custom_phrase.py <file_path>` 格式化指定文件
+#         `python format_custom_phrase.py` 格式化 custom_phrase.txt 文件
+#         `python format_custom_phrase.py -` 格式化 stdin，并写入 stdout
 
 import re
 import sys
@@ -103,49 +107,57 @@ def classify_push(word: Word):
         farra.append(word)
 
 
-# 读取 custom_phrase.txt 文件
-filepath = sys.argv[1] if len(sys.argv) > 1 else "custom_phrase.txt"
-assert filepath.endswith(".txt")
-file = Path(filepath)
-text = file.read_text(encoding="utf-8")
+if __name__ == "__main__":
+    file = None
+    # 读取文件
+    filepath = sys.argv[1] if len(sys.argv) > 1 else "custom_phrase.txt"
+    if filepath.strip() != "-":
+        assert filepath.endswith(".txt")
+        file = Path(filepath)
 
+    if file is not None:
+        text = file.read_text(encoding="utf-8")
+    else:
+        text = sys.stdin.read()
 
-for line in text.splitlines():
-    if line.startswith("#"):
-        if comment_flag:
-            comment.append(line)
-        continue
-    line = line.strip()
-    if not line:
-        comment_flag = False
-        continue
-    spl = line.split()
-    hanzi = spl[0]
-    duyin = spl[1]
-    quanzhong = None
-    if len(spl) > 2:
-        quanzhong = spl[2]
-    word = Word(hanzi, duyin, quanzhong)
-    classify_push(word)
+    for line in text.splitlines():
+        if line.startswith("#"):
+            if comment_flag:
+                comment.append(line)
+            continue
+        line = line.strip()
+        if not line:
+            comment_flag = False
+            continue
+        spl = line.split()
+        hanzi = spl[0]
+        duyin = spl[1]
+        quanzhong = None
+        if len(spl) > 2:
+            quanzhong = spl[2]
+        word = Word(hanzi, duyin, quanzhong)
+        classify_push(word)
 
-for arr in [chinese, english, mixed, farra]:
-    duplicates = find_duplicates(arr)
-    if duplicates:
-        print(f"Duplicates: {duplicates}")
+    for arr in [chinese, english, mixed, farra]:
+        duplicates = find_duplicates(arr)
+        if duplicates:
+            print(f"Duplicates: {duplicates}")
 
-new_texts: list[str] = []
-new_texts.extend(comment)
-new_texts.extend(["\n"])
-new_texts.extend(map(str, sorted(chinese)))
-new_texts.extend(["\n"])
-new_texts.extend(map(str, sorted(english)))
-new_texts.extend(["\n"])
-new_texts.extend(map(str, sorted(mixed)))
-new_texts.extend(["\n"])
-new_texts.extend(map(str, farra))
+    new_texts: list[str] = []
+    new_texts.extend(comment)
+    new_texts.extend(["\n"])
+    new_texts.extend(map(str, sorted(chinese)))
+    new_texts.extend(["\n"])
+    new_texts.extend(map(str, sorted(english)))
+    new_texts.extend(["\n"])
+    new_texts.extend(map(str, sorted(mixed)))
+    new_texts.extend(["\n"])
+    new_texts.extend(map(str, farra))
 
-new_text = "\n".join(new_texts)
+    new_text = "\n".join(new_texts)
 
-# 写入文件
-file = Path("custom_phrase.txt")
-_ = file.write_text(new_text, encoding="utf-8")
+    if file is not None:
+        # 写入文件
+        _ = file.write_text(new_text, encoding="utf-8")
+    else:
+        _ = sys.stdout.write(new_text)

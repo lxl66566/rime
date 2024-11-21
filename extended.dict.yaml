@@ -18,12 +18,13 @@ import_tables:
   - dicts/thuocl_renmingdiming # 人名地名
 
   - dicts/simp-ext # 原字表中除单字外部分
-  - dicts/sogou_net # 网络流行语
 
   # 一点点小小的私货，不需要的可以自行关闭~
-  # - dicts/sogou_genshin # 原神
   - dicts/sogou_minecraft # Minecraft 词条
   - dicts/sogou_touhou # 东方 Project
+
+  # 我自己的词库
+  - dicts/absx # 我的词库
 
 
   # emoji 中的词库

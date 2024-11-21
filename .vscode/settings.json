@@ -4,6 +4,20 @@
       "command": "python tools/format_custom_phrase.py",
       "file": true,
       "format_on_save": true
+    },
+    "yaml": {
+      "command": "python tools/format_dict.py -"
+      // "file": true,
+      // "format_on_save": true
     }
-  }
+  },
+  "[plaintext]": {
+    "editor.unicodeHighlight.ambiguousCharacters": true,
+    "editor.unicodeHighlight.invisibleCharacters": true
+  },
+  "[yaml]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "lxl66566.anyformatter-vscode"
+  },
+  "stylua.targetReleaseVersion": "latest"
 }

@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # 从 fcitx5_pinyin_customphrase.txt 迁移到 rime 的 custom_phrase.txt
 
 from pathlib import Path
