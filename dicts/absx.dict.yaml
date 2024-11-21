@@ -30,6 +30,7 @@ sort: by_weight
 的	de	999999
 登录	deng lu	10000
 对齐	dui qi	10000
+多项式	duo xiang shi	10000
 呃	e	10000
 额	e	5000
 呃	ee	10000
@@ -51,6 +52,7 @@ sort: by_weight
 樂	le	10000
 力气	li qi	10000
 戾气	li qi	5000
+流向	liu xiang	1000
 萝莉	luo li	5000
 吗	ma	30000
 没开	mei kai	10000
@@ -68,6 +70,7 @@ sort: by_weight
 披萨	pi sa	10000
 偏特化	pian te hua	10000
 其	qi	10000
+切分	qie fen	10000
 青柠	qing ning	10000
 全拼	quan pin	10000
 群友	qun you	10000
@@ -98,6 +101,10 @@ sort: by_weight
 信工	xin gong	10000
 眼睛	yan jing	10000
 眼镜	yan jing	5000
+也	ye	999999
+一个	yi ge	10000
+异格	yi ge	1000
+异或	yi huo	10000
 一上午	yi shang wu	10000
 以为	yi wei	10000
 一下	yi xia	10000
@@ -106,6 +113,7 @@ sort: by_weight
 有	you	10000
 又	you	5000
 有栈协程	you zhan xie cheng	10000
+余数	yu shu	10000
 原神	yuan shen	10000
 运维	yun wei	10000
 韵味	yun wei	5000
@@ -122,5 +130,6 @@ sort: by_weight
 至于	zhi yu	10000
 治愈	zhi yu	10000
 致郁	zhi yu	5000
+子弹	zi dan	10000
 总之	zong zhi	10000
 

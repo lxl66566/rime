@@ -18,6 +18,7 @@
 哈	h	10000
 了	l	10000
 我	w	10000
+给我	gww	20000
 
 
 Android	android
@@ -66,6 +67,7 @@ X-Ray	xray
 Xbox	xbox
 YouTube	youtube
 ZeroTier	zerotier
+bash	bash	10000
 git	git	10000
 iCloud	icloud
 iMac	imac
