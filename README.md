@@ -1,13 +1,6 @@
 # [Rime](https://blog.isteed.cc/post/rime-2022/)
 
-# 预览
-
-<img src="https://cdn.isteed.cc/img/rime-2022/p1.png" width="50%" /><img src="https://cdn.isteed.cc/img/rime-2022/p2.png" width="50%" />
-<img src="https://cdn.isteed.cc/img/rime-2022/p3.png" width="50%" /><img src="https://cdn.isteed.cc/img/rime-2022/p4.png" width="50%" />
-<img src="https://cdn.isteed.cc/img/rime-2022/p5.png" width="50%" />
-
-<img src="https://cdn.isteed.cc/img/rime-2022/f1.png" width="50%" /><img src="https://cdn.isteed.cc/img/rime-2022/f2.png" width="50%" />
-<img src="https://cdn.isteed.cc/img/rime-2022/f3.png" width="50%" /><img src="https://cdn.isteed.cc/img/rime-2022/f4.png" width="50%" />
+fork 自 https://github.com/LufsX/rime，并添加自己的设置与方案。
 
 # 使用
 
@@ -50,7 +43,6 @@
 - 自带长句模型
 - 全简体词库
 - THUOCL 词库
-- 部分搜狗词库
 - 支持自定义词典（自造词）
 
 # 待办
@@ -82,4 +74,3 @@
 - [rime/rime-prelude](https://github.com/rime/rime-prelude)
 - [rime/squirrel](https://github.com/rime/squirrel)
 - [thunlp/THUOCL](https://github.com/thunlp/THUOCL)
-- [搜狗词库](https://pinyin.sogou.com/dict/)
