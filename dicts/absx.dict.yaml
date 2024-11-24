@@ -34,6 +34,9 @@ sort: by_weight
 呃	ee	10000
 呃呃	ee	10000
 而	er	99999
+反杀	fan sha	999999
+分割	fen ge	10000
+分隔	fen ge	7000
 负相关	fu xiang guan	10000
 个	ge	10000
 格子	ge zi	2500
@@ -58,6 +61,9 @@ sort: by_weight
 萝莉	luo li	5000
 落絮	luo xu	10000
 吗	ma	30000
+吗	ma	10000
+嘛 	ma	8000
+码 	ma	2000
 没开	mei kai	10000
 媚药	mei yao	10000
 萌娘	meng niang	10000
@@ -87,6 +93,7 @@ sort: by_weight
 实在	shi zai	10000
 兽交	shou jiao	10000
 数位板	shu wei ban	10000
+题解	ti jie	10000
 填饱	tian bao	10000
 填报	tian bao	7000
 挺好用	ting hao yong	10000
@@ -94,6 +101,7 @@ sort: by_weight
 玩意	wan yi	10000
 万一	wan yi	5000
 未读	wei du	4000
+伪随机	wei sui ji	10000
 问个	wen ge	10000
 我	wo	999999
 无糖	wu tang	10000
@@ -115,10 +123,12 @@ sort: by_weight
 异格	yi ge	1000
 异或	yi huo	10000
 一上午	yi shang wu	10000
+一万步	yi wan bu	10000
 以为	yi wei	10000
 一下	yi xia	10000
 以下	yi xia	5000
 音游	yi yong	10000
+一直	yi zhi	99999
 有	you	10000
 又	you	5000
 由于	you yu	10000
@@ -133,6 +143,7 @@ sort: by_weight
 这玩意	zhe wan yi	10000
 振荡	zhen dang	10000
 整明白	zheng ming bai	10000
+正式工	zheng shi gong	10000
 只	zhi	10000
 知道	zhi dao	10000
 直到	zhi dao	5000

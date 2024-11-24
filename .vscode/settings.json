@@ -1,10 +1,8 @@
 {
-  "[plaintext]": {
+  "[custom-phrase]": {
+    "editor.defaultFormatter": "lxl66566.rime-formatter",
     "editor.unicodeHighlight.ambiguousCharacters": true,
     "editor.unicodeHighlight.invisibleCharacters": true
-  },
-  "[custom-phrase]": {
-    "editor.defaultFormatter": "lxl66566.rime-formatter"
   },
   "[dict-yaml]": {
     "editor.defaultFormatter": "lxl66566.rime-formatter"
