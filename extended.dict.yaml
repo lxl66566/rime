@@ -8,9 +8,12 @@ version: "2023-08-28"
 import_tables:
   # 我自己的词库
   - dicts/absx # 我的词库
+  - dicts/CEDICT
+  - dicts/Galgame
   
   # 覆盖词频
   - dicts/simp # 最小拼音词典
+  - dicts/simp-ext # 原字表中除单字外部分
 
   - dicts/thuocl_animal # 动物
   - dicts/thuocl_caijing # 财经
@@ -20,14 +23,9 @@ import_tables:
   - dicts/thuocl_medical # 医学
   - dicts/thuocl_renmingdiming # 人名地名
 
-  - dicts/simp-ext # 原字表中除单字外部分
 
   # 一点点小小的私货，不需要的可以自行关闭~
   - dicts/sogou_minecraft # Minecraft 词条
   - dicts/sogou_touhou # 东方 Project
   - dicts/moegirl # 萌娘百科
 
-
-
-  # emoji 中的词库
-  # - dicts/emoji

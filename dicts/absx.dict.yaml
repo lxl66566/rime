@@ -16,7 +16,7 @@ sort: by_weight
 哔哔	bi bi	10000
 并发	bing fa	10000
 波粒二象性	bo li er xiang xing	10000
-不会	bu hui	10000
+不会	bu hui	9999999
 不兼容	bu jian rong	10000
 不需要	bu xu yao	10000
 长按	chang an	10000
@@ -49,6 +49,7 @@ sort: by_weight
 候选项	hou xuan xiang	10000
 华东	hua dong	10000
 花了	hua le	10000
+及	ji	999999
 几点	ji dian	10000
 即食	ji shi	10000
 既视	ji shi	1000
@@ -56,6 +57,7 @@ sort: by_weight
 降序	jiang xu	10000
 基操	jicao	10000
 居中	ju zhong	500
+看番	kan fan	999999
 老早	lao zao	10000
 了	le	999999
 樂	le	10000
@@ -151,7 +153,7 @@ sort: by_weight
 振荡	zhen dang	10000
 整明白	zheng ming bai	10000
 正式工	zheng shi gong	10000
-只	zhi	10000
+只	zhi	9999999
 知道	zhi dao	10000
 直到	zhi dao	5000
 指导	zhi dao	3333
