@@ -1,0 +1,16 @@
+patch:
+  menu:
+    page_size: 10 # 调大候选项
+  key_binder:
+    bindings:
+      # https://www.mintimate.cc/zh/guide/shortcutKeys.html#快捷键映射
+      - { when: has_menu, accept: KP_Enter, send: Return } # 小键盘回车
+      - { when: has_menu, accept: equal, send: Page_Down } # = 向下翻页
+      - { when: has_menu, accept: minus, send: Page_Up } # - 向上翻页
+  ascii_composer:
+    switch_key:
+      Shift_L: commit_code # Shift 切换中英输入
+      Shift_R: commit_code
+  switcher:
+    hotkeys:
+      - F1 # 默认 F2 切换方案，但是我 F2 有用。

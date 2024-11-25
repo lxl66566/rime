@@ -1,0 +1,14 @@
+{
+  "[custom-phrase]": {
+    "editor.defaultFormatter": "lxl66566.rime-formatter",
+    "editor.unicodeHighlight.ambiguousCharacters": true,
+    "editor.unicodeHighlight.invisibleCharacters": true
+  },
+  "[dict-yaml]": {
+    "editor.defaultFormatter": "lxl66566.rime-formatter"
+  },
+  "stylua.targetReleaseVersion": "latest"
+  // "rime-formatter": {
+  //   "sort_by": "weight"
+  // }
+}

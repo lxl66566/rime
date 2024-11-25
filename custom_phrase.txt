@@ -1,0 +1,96 @@
+# Rime table
+# coding: utf-8
+#
+# 请将该文件以UTF-8编码保存为
+# Rime用户文件夹/custom_phrase.txt
+#
+# 码表各字段以制表符（Tab）分隔
+# 顺序为：文字、编码、权重（决定重码的次序、可选）
+#
+# 虽然文本码表编辑较为方便，但不适合导入大量条目
+
+
+吧	b	10000
+并	bk	9999999
+的	d	10000
+呃	e	10000
+额	e	5000
+个	g	10000
+哈	h	10000
+了	l	10000
+我	w	10000
+给我	gww	20000
+
+
+Android	android
+Apple	apple
+CSS	css
+Clash	clash
+Cloudflare	cloudflare
+Docker	docker
+Dropbox	dropbox
+GBK	gbk
+GitHub	github
+Google	google
+HTML	html
+IPTV	iptv
+IPv4	ipv	1001
+IPv6	ipv	1000
+Java	java
+JavaScript	javascript
+Linux	linux
+Mac	mac
+MacBook	macbook
+Magisk	magisk
+Minecraft	minecraft
+MySQL	mysql
+NixOS	nixos	10000
+Objective-C	ojbc
+OneDrive	onedrive
+Pixel	pixel
+Python	python
+Quantumult	quantumult
+Rime	rime	10000
+Ruby	ruby
+Rust	rust
+SQL	sql
+Stash	stash
+Surge	surge
+Swift	swift
+Tailscale	tailscale
+TypeScript	typescript
+UTF-8	utfba
+WeChat	wechat
+Wi-Fi	wifi
+Windows	win
+Windows	windows
+X-Ray	xray
+Xbox	xbox
+YouTube	youtube
+ZeroTier	zerotier
+bash	bash	10000
+git	git	10000
+iCloud	icloud
+iMac	imac
+iOS	ios
+iPad	ipad
+iPhone	iphone
+iPod	ipod
+iTunes	itunes
+jQuery	jquery
+loli	loli	10000
+rust	rust	10000
+
+
+QQ邮箱	qqyzxl
+T恤	txu
+U盘	upj
+
+
+⌘	command
+⌃	ctl
+⌃	control
+⌥	opt
+⌥	option
+⇧	shift
+¿	em	10000
