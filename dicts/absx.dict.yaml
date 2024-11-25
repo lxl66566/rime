@@ -17,6 +17,7 @@ sort: by_weight
 并发	bing fa	10000
 波粒二象性	bo li er xiang xing	10000
 不会	bu hui	10000
+不兼容	bu jian rong	10000
 不需要	bu xu yao	10000
 长按	chang an	10000
 尝鲜	chang xian	10000
@@ -52,6 +53,7 @@ sort: by_weight
 即食	ji shi	10000
 既视	ji shi	1000
 既视感	ji shi gan	999999
+降序	jiang xu	10000
 基操	jicao	10000
 居中	ju zhong	500
 老早	lao zao	10000
@@ -91,6 +93,7 @@ sort: by_weight
 删了	shan le	10000
 声明	sheng ming	10000
 生命	sheng ming	5000
+升序	sheng xu	10000
 试了下	shi le xia	10000
 使我	shi wo	10000
 实在	shi zai	10000
@@ -158,4 +161,5 @@ sort: by_weight
 致郁	zhi yu	5000
 主观	zhu guan	10000
 子弹	zi dan	10000
+字典序	zi dian xu	10000
 总之	zong zhi	10000
