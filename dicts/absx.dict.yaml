@@ -40,7 +40,9 @@ sort: by_weight
 反杀	fan sha	999999
 分割	fen ge	10000
 分隔	fen ge	7000
+赋分	fu fen	10000
 负相关	fu xiang guan	10000
+搞个	gao ge	100000
 个	ge	10000
 格子	ge zi	2500
 挂了	gua le	10000
@@ -63,6 +65,8 @@ sort: by_weight
 樂	le	10000
 力气	li qi	10000
 戾气	li qi	5000
+立直	li zhi	200
+立直棒	li zhi bang	10000
 流向	liu xiang	1000
 萝莉	luo li	5000
 落絮	luo xu	10000
@@ -101,6 +105,7 @@ sort: by_weight
 实在	shi zai	10000
 兽交	shou jiao	10000
 数位板	shu wei ban	10000
+双缝干涉	shuang feng gan she	10000
 题解	ti jie	10000
 填饱	tian bao	10000
 填报	tian bao	7000
@@ -132,6 +137,7 @@ sort: by_weight
 异格	yi ge	1000
 异或	yi huo	10000
 一上午	yi shang wu	10000
+一时爽	yi shi shuang	10000
 一万步	yi wan bu	10000
 以为	yi wei	10000
 一下	yi xia	10000
@@ -147,8 +153,8 @@ sort: by_weight
 原神	yuan shen	10000
 运维	yun wei	10000
 韵味	yun wei	5000
-在	zai	10000
-再	zai	5000
+在	zai	999999
+再	zai	99999
 这玩意	zhe wan yi	10000
 振荡	zhen dang	10000
 整明白	zheng ming bai	10000
