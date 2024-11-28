@@ -9,165 +9,165 @@ version: "2024-11-21"
 sort: by_weight
 ...
 
-爱心屋	ai xin wu	10000
+爱心屋	ai xin wu	999999
 吧	ba	999999
-把	ba	10000
-摆烂	bai lan	10000
-哔哔	bi bi	10000
-并发	bing fa	10000
-波粒二象性	bo li er xiang xing	10000
+把	ba	999999
+摆烂	bai lan	999999
+哔哔	bi bi	999999
+并发	bing fa	999999
+波粒二象性	bo li er xiang xing	999999
 不会	bu hui	9999999
-不兼容	bu jian rong	10000
-不需要	bu xu yao	10000
-长按	chang an	10000
-尝鲜	chang xian	10000
-诚意	cheng yi	10000
-纯	chun	10000
-词频	ci pin	7000
-当时	dang shi	10000
-倒是	dao shi	10000
-到时候	dao shi hou	10000
-打字	dazi	10000
+不兼容	bu jian rong	999999
+不需要	bu xu yao	999999
+长按	chang an	999999
+尝鲜	chang xian	999999
+诚意	cheng yi	999999
+纯	chun	999999
+词频	ci pin	70000
+当时	dang shi	999999
+倒是	dao shi	999999
+到时候	dao shi hou	999999
+打字	dazi	999999
 的	de	999999
-登录	deng lu	10000
-对齐	dui qi	10000
-多项式	duo xiang shi	10000
-呃	e	10000
-额	e	5000
-呃	ee	10000
-呃呃	ee	10000
+登录	deng lu	999999
+独立	du li	999999
+独立开发	du li kai fa	999999
+对齐	dui qi	999999
+多项式	duo xiang shi	999999
 而	er	99999
 反杀	fan sha	999999
-分割	fen ge	10000
-分隔	fen ge	7000
-赋分	fu fen	10000
-负相关	fu xiang guan	10000
-搞个	gao ge	100000
-个	ge	10000
+分割	fen ge	999999
+分隔	fen ge	70000
+赋分	fu fen	999999
+负相关	fu xiang guan	999999
+搞个	gao ge	9999990
+个	ge	999999
 格子	ge zi	2500
-挂了	gua le	10000
-哈	h	999999
-还以为	hai yi wei	10000
-候选项	hou xuan xiang	10000
-华东	hua dong	10000
-花了	hua le	10000
+挂了	gua le	999999
+还以为	hai yi wei	999999
+候选项	hou xuan xiang	999999
+华东	hua dong	999999
+花了	hua le	999999
 及	ji	999999
-几点	ji dian	10000
-即食	ji shi	10000
-既视	ji shi	1000
+几点	ji dian	999999
+即食	ji shi	999999
+既视	ji shi	10000
 既视感	ji shi gan	999999
-降序	jiang xu	10000
-基操	jicao	10000
+降序	jiang xu	999999
+基操	jicao	999999
 居中	ju zhong	500
 看番	kan fan	999999
-老早	lao zao	10000
+老早	lao zao	999999
 了	le	999999
-樂	le	10000
-力气	li qi	10000
-戾气	li qi	5000
+樂	le	999999
+力气	li qi	999999
+戾气	li qi	50000
 立直	li zhi	200
-立直棒	li zhi bang	10000
-流向	liu xiang	1000
-萝莉	luo li	5000
-落絮	luo xu	10000
-吗	ma	30000
-吗	ma	10000
-嘛 	ma	8000
-码 	ma	2000
-没开	mei kai	10000
-媚药	mei yao	10000
-萌娘	meng niang	10000
-喵	miao	50000
-妙	miao	5000
-暮年	mu nian	10000
-那	na	10000
-哪	na	9000
-拿	na	5000
-难用	nan yong	10000
-内联	nei lian	10000
-内敛	nei lian	5000
-披萨	pi sa	10000
-偏特化	pian te hua	10000
-偏置	pian zhi	2000
-其	qi	10000
-切分	qie fen	10000
-青柠	qing ning	10000
-全连接	quan lian jie	10000
-全拼	quan pin	10000
-群友	qun you	10000
-塞牙	sai ya	10000
-删了	shan le	10000
-声明	sheng ming	10000
-生命	sheng ming	5000
-升序	sheng xu	10000
-试了下	shi le xia	10000
-使我	shi wo	10000
-实在	shi zai	10000
-兽交	shou jiao	10000
-数位板	shu wei ban	10000
-双缝干涉	shuang feng gan she	10000
-题解	ti jie	10000
-填饱	tian bao	10000
-填报	tian bao	7000
-挺好用	ting hao yong	10000
+立直棒	li zhi bang	999999
+流向	liu xiang	10000
+萝莉	luo li	50000
+落絮	luo xu	999999
+吗	ma	999999
+嘛 	ma	80000
+码 	ma	20000
+没开	mei kai	999999
+媚药	mei yao	999999
+萌娘	meng niang	999999
+喵	miao	500000
+妙	miao	50000
+暮年	mu nian	999999
+那	na	999999
+哪	na	90000
+拿	na	50000
+难用	nan yong	999999
+内联	nei lian	999999
+内敛	nei lian	50000
+披萨	pi sa	999999
+偏特化	pian te hua	999999
+偏置	pian zhi	20000
+其	qi	999999
+切分	qie fen	999999
+青柠	qing ning	999999
+全彩	quan cai	999999
+全连接	quan lian jie	999999
+全拼	quan pin	999999
+群友	qun you	999999
+塞牙	sai ya	999999
+删了	shan le	999999
+声明	sheng ming	999999
+生命	sheng ming	50000
+省赛	sheng sai	99999
+升序	sheng xu	999999
+试了下	shi le xia	999999
+使我	shi wo	999999
+实在	shi zai	999999
+兽交	shou jiao	999999
+数位板	shu wei ban	999999
+双缝干涉	shuang feng gan she	999999
+题解	ti jie	999999
+填饱	tian bao	999999
+填报	tian bao	70000
+挺好用	ting hao yong	999999
 吐槽	tu cao	999999
-玩意	wan yi	10000
-万一	wan yi	5000
-未读	wei du	4000
-伪随机	wei sui ji	10000
-问个	wen ge	10000
+玩意	wan yi	999999
+万一	wan yi	50000
+未读	wei du	40000
+伪随机	wei sui ji	999999
+微信	wei xin	999999
+问个	wen ge	999999
 我	wo	999999
-无糖	wu tang	10000
-瞎写	xia xie	10000
-响应	xiang ying	10000
-相应	xiang ying	5000
-笑掉	xiao diao	10000
-小鹤双拼	xiao he shuang pin	10000
-小时	xiao shi	10000
-消失	xiao shi	5000
-笑死了	xiao si le	10000
-信工	xin gong	10000
-信噪比	xin zao bi	10000
-薛定谔	xue ding e	10000
-眼睛	yan jing	10000
-眼镜	yan jing	5000
+无糖	wu tang	999999
+瞎写	xia xie	999999
+响应	xiang ying	999999
+相应	xiang ying	50000
+笑掉	xiao diao	999999
+小鹤双拼	xiao he shuang pin	999999
+小时	xiao shi	999999
+消失	xiao shi	50000
+笑死了	xiao si le	999999
+信工	xin gong	999999
+信噪比	xin zao bi	999999
+薛定谔	xue ding e	999999
+眼睛	yan jing	999999
+眼镜	yan jing	50000
 也	ye	999999
-也算	ye suan	10000
-一个	yi ge	10000
-异格	yi ge	1000
-异或	yi huo	10000
-一上午	yi shang wu	10000
-一时爽	yi shi shuang	10000
-一万步	yi wan bu	10000
-以为	yi wei	10000
-一下	yi xia	10000
-以下	yi xia	5000
-音游	yi yong	10000
+也算	ye suan	999999
+一个	yi ge	999999
+异格	yi ge	10000
+异或	yi huo	999999
+一上午	yi shang wu	999999
+一时爽	yi shi shuang	999999
+一万步	yi wan bu	999999
+以为	yi wei	999999
+一下	yi xia	999999
+以下	yi xia	50000
+音游	yi yong	999999
 一直	yi zhi	99999
-有	you	10000
-又	you	5000
-由于	you yu	10000
-犹豫 	you yu	8000
-有栈协程	you zhan xie cheng	10000
-余数	yu shu	10000
-原神	yuan shen	10000
-运维	yun wei	10000
-韵味	yun wei	5000
+有	you	999999
+又	you	50000
+由于	you yu	999999
+犹豫 	you yu	80000
+有栈协程	you zhan xie cheng	999999
+余数	yu shu	999999
+原神	yuan shen	999999
+运维	yun wei	999999
+韵味	yun wei	50000
 在	zai	999999
 再	zai	99999
-这玩意	zhe wan yi	10000
-振荡	zhen dang	10000
-整明白	zheng ming bai	10000
-正式工	zheng shi gong	10000
+早都	zao dou	999999
+这玩意	zhe wan yi	999999
+振荡	zhen dang	999999
+整明白	zheng ming bai	999999
+正式工	zheng shi gong	999999
 只	zhi	9999999
-知道	zhi dao	10000
-直到	zhi dao	5000
+知道	zhi dao	999999
+直到	zhi dao	50000
 指导	zhi dao	3333
 指导	zhi dao	3300
-至于	zhi yu	10000
-治愈	zhi yu	10000
-致郁	zhi yu	5000
-主观	zhu guan	10000
-子弹	zi dan	10000
-字典序	zi dian xu	10000
-总之	zong zhi	10000
+至于	zhi yu	999999
+治愈	zhi yu	999999
+致郁	zhi yu	50000
+主观	zhu guan	999999
+子弹	zi dan	999999
+字典序	zi dian xu	999999
+总之	zong zhi	999999
