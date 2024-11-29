@@ -11,9 +11,13 @@ sort: by_weight
 
 爱心屋	ai xin wu	999999
 吧	ba	999999
-把	ba	999999
+把	ba	999990
 摆烂	bai lan	999999
+白毛	bai mao	4000
 哔哔	bi bi	999999
+编译	bian yi	999999
+变异	bian yi	8000
+贬义	bian yi	5000
 并发	bing fa	999999
 波粒二象性	bo li er xiang xing	999999
 不会	bu hui	9999999
@@ -50,11 +54,13 @@ sort: by_weight
 花了	hua le	999999
 及	ji	999999
 几点	ji dian	999999
+几分钟	ji fen zhong	999999
 即食	ji shi	999999
 既视	ji shi	10000
 既视感	ji shi gan	999999
 降序	jiang xu	999999
 基操	jicao	999999
+句末	ju muo
 居中	ju zhong	500
 看番	kan fan	999999
 老早	lao zao	999999
@@ -65,6 +71,7 @@ sort: by_weight
 立直	li zhi	200
 立直棒	li zhi bang	999999
 流向	liu xiang	10000
+乱交	luan jiao	50000
 萝莉	luo li	50000
 落絮	luo xu	999999
 吗	ma	999999
@@ -165,7 +172,6 @@ sort: by_weight
 知道	zhi dao	999999
 直到	zhi dao	50000
 指导	zhi dao	3333
-指导	zhi dao	3300
 至于	zhi yu	999999
 治愈	zhi yu	999999
 致郁	zhi yu	50000
