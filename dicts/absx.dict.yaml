@@ -135,11 +135,14 @@ sort: by_weight
 笑死了	xiao si le	999999
 信工	xin gong	999999
 信噪比	xin zao bi	999999
+行了	xing le	90000
+醒了	xing le	80000
 薛定谔	xue ding e	999999
 眼睛	yan jing	999999
 眼镜	yan jing	50000
 也	ye	999999
 也算	ye suan	999999
+移动端	yi dong duan	999999
 一个	yi ge	999999
 异格	yi ge	10000
 异或	yi huo	999999
@@ -176,6 +179,7 @@ sort: by_weight
 治愈	zhi yu	999999
 致郁	zhi yu	50000
 主观	zhu guan	999999
+桌面端	zhuo mian duan	999999
 子弹	zi dan	999999
 字典序	zi dian xu	999999
 总之	zong zhi	999999
