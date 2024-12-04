@@ -26,6 +26,7 @@ sort: by_weight
 长按	chang an	999999
 尝鲜	chang xian	999999
 诚意	cheng yi	999999
+吃啥	chi sha	999999
 纯	chun	999999
 词频	ci pin	70000
 当时	dang shi	999999
@@ -106,6 +107,7 @@ sort: by_weight
 生命	sheng ming	50000
 省赛	sheng sai	99999
 升序	sheng xu	999999
+是的	shi de	999999
 试了下	shi le xia	999999
 使我	shi wo	999999
 实在	shi zai	999999
@@ -124,6 +126,7 @@ sort: by_weight
 微信	wei xin	999999
 问个	wen ge	999999
 我	wo	999999
+无奖竞猜	wu jiang jing cai	999999
 无糖	wu tang	999999
 瞎写	xia xie	999999
 响应	xiang ying	999999
@@ -133,6 +136,7 @@ sort: by_weight
 小时	xiao shi	999999
 消失	xiao shi	50000
 笑死了	xiao si le	999999
+校招	xiao zhao	999999
 信工	xin gong	999999
 信噪比	xin zao bi	999999
 行了	xing le	90000
@@ -183,3 +187,4 @@ sort: by_weight
 子弹	zi dan	999999
 字典序	zi dian xu	999999
 总之	zong zhi	999999
+最近邻	zui jin lin	999999
