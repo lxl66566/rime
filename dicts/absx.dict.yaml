@@ -22,6 +22,7 @@ sort: by_weight
 波粒二象性	bo li er xiang xing	999999
 不会	bu hui	9999999
 不兼容	bu jian rong	999999
+不容易	bu rong yi	999999
 不需要	bu xu yao	999999
 长按	chang an	999999
 尝鲜	chang xian	999999
@@ -72,6 +73,7 @@ sort: by_weight
 立直	li zhi	200
 立直棒	li zhi bang	999999
 流向	liu xiang	10000
+录播	lu bo	999999
 乱交	luan jiao	50000
 萝莉	luo li	50000
 落絮	luo xu	999999
@@ -83,6 +85,8 @@ sort: by_weight
 萌娘	meng niang	999999
 喵	miao	500000
 妙	miao	50000
+墨水屏	mo shui ping	35000
+墨水瓶	mo shui ping	25000
 暮年	mu nian	999999
 那	na	999999
 哪	na	90000
@@ -101,6 +105,7 @@ sort: by_weight
 全连接	quan lian jie	999999
 全拼	quan pin	999999
 群友	qun you	999999
+日轻	ri qing	999999
 塞牙	sai ya	999999
 删了	shan le	999999
 声明	sheng ming	999999
@@ -113,6 +118,7 @@ sort: by_weight
 实在	shi zai	999999
 兽交	shou jiao	999999
 数位板	shu wei ban	999999
+书源	shu yuan	10000
 双缝干涉	shuang feng gan she	999999
 题解	ti jie	999999
 填饱	tian bao	999999
@@ -128,7 +134,9 @@ sort: by_weight
 我	wo	999999
 无奖竞猜	wu jiang jing cai	999999
 无糖	wu tang	999999
+洗盘子	xi pan zi	10000
 瞎写	xia xie	999999
+相性	xiang xing	99999
 响应	xiang ying	999999
 相应	xiang ying	50000
 笑掉	xiao diao	999999
@@ -142,6 +150,7 @@ sort: by_weight
 行了	xing le	90000
 醒了	xing le	80000
 薛定谔	xue ding e	999999
+学了	xue le	999999
 眼睛	yan jing	999999
 眼镜	yan jing	50000
 也	ye	999999
@@ -158,6 +167,7 @@ sort: by_weight
 以下	yi xia	50000
 音游	yi yong	999999
 一直	yi zhi	99999
+音游	yin you	999999
 有	you	999999
 又	you	50000
 由于	you yu	999999
@@ -170,6 +180,7 @@ sort: by_weight
 在	zai	999999
 再	zai	99999
 早都	zao dou	999999
+找不到	zhao bu dao	999999
 这玩意	zhe wan yi	999999
 这只是	zhe zhi shi	999999
 振荡	zhen dang	999999
