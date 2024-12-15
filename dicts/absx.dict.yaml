@@ -25,6 +25,7 @@ sort: by_weight
 补全	bu quan	999999
 不容易	bu rong yi	999999
 不需要	bu xu yao	999999
+查文档	cha wen dang	9999
 长按	chang an	999999
 尝鲜	chang xian	999999
 诚意	cheng yi	999999
@@ -32,6 +33,7 @@ sort: by_weight
 纯	chun	999999
 词频	ci pin	70000
 大版本	da ban ben	999999
+打得过	da de guo	100000
 当时	dang shi	999999
 倒是	dao shi	999999
 到时候	dao shi hou	999999
@@ -46,6 +48,7 @@ sort: by_weight
 多项式	duo xiang shi	999999
 而	er	99999
 反杀	fan sha	999999
+泛用	fan yong	999999
 分割	fen ge	999999
 分隔	fen ge	70000
 赋分	fu fen	999999
@@ -58,6 +61,7 @@ sort: by_weight
 候选项	hou xuan xiang	999999
 华东	hua dong	999999
 花了	hua le	999999
+混用	hun yong	99999
 及	ji	999999
 几点	ji dian	999999
 几分钟	ji fen zhong	999999
@@ -85,8 +89,13 @@ sort: by_weight
 吗	ma	999999
 嘛 	ma	80000
 码 	ma	20000
+没讲	mei jiang	9000
 没开	mei kai	999999
+没路	mei lu	1250
+煤炉	mei lu	990
 媚药	mei yao	999999
+每一个	mei yi ge	35000
+没一个	mei yi ge	10000
 萌娘	meng niang	999999
 喵	miao	500000
 妙	miao	50000
@@ -105,6 +114,8 @@ sort: by_weight
 偏特化	pian te hua	999999
 偏置	pian zhi	20000
 其	qi	999999
+嵌套	qian tao	999999
+潜逃	qian tao	999
 切分	qie fen	999999
 青柠	qing ning	999999
 全彩	quan cai	999999
@@ -122,6 +133,7 @@ sort: by_weight
 试了下	shi le xia	999999
 使我	shi wo	999999
 实在	shi zai	999999
+实在是	shi zai shi	99999
 兽交	shou jiao	999999
 数位板	shu wei ban	999999
 书源	shu yuan	10000
@@ -189,6 +201,7 @@ sort: by_weight
 在	zai	999999
 再	zai	99999
 早都	zao dou	999999
+战损	zhan sun	999999
 找不到	zhao bu dao	999999
 这玩意	zhe wan yi	999999
 这只是	zhe zhi shi	999999
