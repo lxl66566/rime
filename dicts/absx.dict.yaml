@@ -34,6 +34,7 @@ sort: by_weight
 词频	ci pin	70000
 大版本	da ban ben	999999
 打得过	da de guo	100000
+大小核	da xiao he	999999
 当时	dang shi	999999
 倒是	dao shi	999999
 到时候	dao shi hou	999999
@@ -58,6 +59,7 @@ sort: by_weight
 格子	ge zi	2500
 挂了	gua le	999999
 还以为	hai yi wei	999999
+红温	hong wen	999999
 候选项	hou xuan xiang	999999
 华东	hua dong	999999
 花了	hua le	999999
@@ -74,6 +76,8 @@ sort: by_weight
 居中	ju zhong	500
 卡了	ka le	999999
 看番	kan fan	999999
+科研	ke yan	9999
+可言	ke yan	9994
 老早	lao zao	999999
 了	le	999999
 樂	le	999999
@@ -99,16 +103,20 @@ sort: by_weight
 萌娘	meng niang	999999
 喵	miao	500000
 妙	miao	50000
+默认情况	mo ren qing kuang	999999
 墨水屏	mo shui ping	35000
 墨水瓶	mo shui ping	25000
 暮年	mu nian	999999
 那	na	999999
 哪	na	90000
 拿	na	50000
+那你	na ni	9999
+纳尼	na ni	8000
 难用	nan yong	999999
 内联	nei lian	999999
 内敛	nei lian	50000
 你校	ni xiao	999999
+酿成大祸	niang cheng da huo	9999
 披萨	pi sa	999999
 偏多	pian duo	99999
 偏特化	pian te hua	999999
@@ -123,6 +131,7 @@ sort: by_weight
 全拼	quan pin	999999
 群友	qun you	999999
 日轻	ri qing	999999
+入坑	ru keng	999999
 塞牙	sai ya	999999
 删了	shan le	999999
 声明	sheng ming	999999
@@ -145,6 +154,7 @@ sort: by_weight
 填报	tian bao	70000
 挺好用	ting hao yong	999999
 挺满意	ting man yi	999999
+同一个	tong yi ge	999999
 吐槽	tu cao	999999
 玩意	wan yi	999999
 万一	wan yi	50000
@@ -182,6 +192,7 @@ sort: by_weight
 异或	yi huo	999999
 一上午	yi shang wu	999999
 一时爽	yi shi shuang	999999
+已失效	yi shi xiao	99999
 一万步	yi wan bu	999999
 以为	yi wei	999999
 一下	yi xia	999999
@@ -189,6 +200,9 @@ sort: by_weight
 音游	yi yong	999999
 一直	yi zhi	99999
 音游	yin you	999999
+用	yong	999999
+用了	yong le	99999
+永乐	yong le	50
 有	you	999999
 又	you	50000
 由于	you yu	999999
