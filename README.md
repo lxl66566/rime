@@ -1,5 +1,7 @@
 # [Rime](https://blog.isteed.cc/post/rime-2022/)
 
+![GitHub repo size](https://img.shields.io/github/repo-size/lxl66566/rime)
+
 自用 rime 配置：fork 自 <https://github.com/LufsX/rime> ，并添加自己的设置，方案，词库。Rime 的部署教程网上到处都是，我这里就不说得太详细了。
 
 本配置支持的方案（切换方案请按 F1 键）：
