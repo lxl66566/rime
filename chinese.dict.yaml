@@ -1,0 +1,33 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: chinese
+version: "2023-08-28"
+
+import_tables:
+  # 我自己的词库
+  - dicts/absx # 我的词库
+
+  # 覆盖词频
+  - dicts/simp # 最小拼音词典
+  - dicts/simp-ext # 原字表中除单字外部分
+  
+  - dicts/zhwiki # 维基百科
+  - dicts/CEDICT # CEDICT
+  - dicts/Galgame
+
+  - dicts/thuocl_animal # 动物
+  - dicts/thuocl_caijing # 财经
+  - dicts/thuocl_food # 饮食
+  - dicts/thuocl_idiom # 成语俗语
+  - dicts/thuocl_IT # IT
+  - dicts/thuocl_medical # 医学
+  - dicts/thuocl_renmingdiming # 人名地名
+
+
+  # 一点点小小的私货，不需要的可以自行关闭~
+  - dicts/sogou_minecraft # Minecraft 词条
+  - dicts/sogou_touhou # 东方 Project
+  - dicts/moegirl # 萌娘百科
+

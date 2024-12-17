@@ -134,7 +134,7 @@ speller:
     # - derive/^([csz])h/h$1/ # hc、hs、hz -> ch、sh、zh
 
 translator:
-  dictionary: extended
+  dictionary: chinese
   contextual_suggestions: true
   enable_completion: false
   max_homophones: 7

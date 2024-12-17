@@ -150,7 +150,7 @@ speller:
     - abbrev/^(.).+$/$1/
 
 translator:
-  dictionary: extended
+  dictionary: chinese
   contextual_suggestions: true
   enable_completion: false
   max_homophones: 7

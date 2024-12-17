@@ -1,6 +1,11 @@
 patch:
   menu:
     page_size: 10 # 调大候选项
+  # 支持多个方案
+  schema_list:
+    - { schema: lufs_flypy }
+    - { schema: lufs_pinyin }
+    - { schema: japanese }
   key_binder:
     bindings:
       # https://www.mintimate.cc/zh/guide/shortcutKeys.html#快捷键映射
