@@ -15,6 +15,7 @@ sort: by_weight
 摆烂	bai lan	999999
 白毛	bai mao	4000
 哔哔	bi bi	999999
+变量名	bian liang ming	999999
 编译	bian yi	999999
 变异	bian yi	8000
 贬义	bian yi	5000
@@ -35,6 +36,7 @@ sort: by_weight
 大版本	da ban ben	999999
 打得过	da de guo	100000
 大小核	da xiao he	999999
+大赢特赢	da ying te ying	999999
 当时	dang shi	999999
 倒是	dao shi	999999
 到时候	dao shi hou	999999
@@ -101,6 +103,7 @@ sort: by_weight
 每一个	mei yi ge	35000
 没一个	mei yi ge	10000
 萌娘	meng niang	999999
+面试题	mian shi ti	999999
 喵	miao	500000
 妙	miao	50000
 默认情况	mo ren qing kuang	999999
@@ -156,6 +159,7 @@ sort: by_weight
 挺满意	ting man yi	999999
 同一个	tong yi ge	999999
 吐槽	tu cao	999999
+弯弯绕绕	wan wan rao rao	999999
 玩意	wan yi	999999
 万一	wan yi	50000
 未读	wei du	40000
@@ -210,6 +214,7 @@ sort: by_weight
 有栈协程	you zhan xie cheng	999999
 余数	yu shu	999999
 原神	yuan shen	999999
+原味鸡	yuan wei ji	999999
 运维	yun wei	999999
 韵味	yun wei	50000
 在	zai	999999
@@ -230,6 +235,7 @@ sort: by_weight
 治愈	zhi yu	999999
 致郁	zhi yu	50000
 主观	zhu guan	999999
+注音	zhu yin	999999
 桌面端	zhuo mian duan	999999
 子弹	zi dan	999999
 字典序	zi dian xu	999999

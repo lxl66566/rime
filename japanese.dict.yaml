@@ -4,7 +4,7 @@
 name: japanese
 version: "v0.2-20180411"
 import_tables:
-  - dicts-jap/japanese.mozc
+  # - dicts-jap/japanese.mozc
   - dicts-jap/japanese.jmdict
   - dicts-jap/japanese.kana
 ...
