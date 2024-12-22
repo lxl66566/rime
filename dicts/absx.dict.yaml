@@ -14,7 +14,9 @@ sort: by_weight
 把	ba	999990
 摆烂	bai lan	999999
 白毛	bai mao	4000
+倍速	bei su	999999
 哔哔	bi bi	999999
+哔哩哔哩	bi li	9990
 变量名	bian liang ming	999999
 编译	bian yi	999999
 变异	bian yi	8000
@@ -50,6 +52,7 @@ sort: by_weight
 对齐	dui qi	999999
 多项式	duo xiang shi	999999
 而	er	99999
+二食堂	er shi tang	999
 反杀	fan sha	999999
 泛用	fan yong	999999
 分割	fen ge	999999
@@ -124,6 +127,8 @@ sort: by_weight
 偏多	pian duo	99999
 偏特化	pian te hua	999999
 偏置	pian zhi	20000
+评价	ping jia	999999
+平价	ping jia	8000
 其	qi	999999
 嵌套	qian tao	999999
 潜逃	qian tao	999
@@ -136,6 +141,7 @@ sort: by_weight
 日轻	ri qing	999999
 入坑	ru keng	999999
 塞牙	sai ya	999999
+三食堂	san shi tang	999
 删了	shan le	999999
 声明	sheng ming	999999
 生命	sheng ming	50000
@@ -152,6 +158,7 @@ sort: by_weight
 双缝干涉	shuang feng gan she	999999
 死活	si huo	12000
 私货	si huo	8000
+四食堂	si shi tang	999
 题解	ti jie	999999
 填饱	tian bao	999999
 填报	tian bao	70000
@@ -179,6 +186,7 @@ sort: by_weight
 小时	xiao shi	999999
 消失	xiao shi	50000
 笑死了	xiao si le	999999
+校园卡	xiao yuan ka	999999
 校招	xiao zhao	999999
 信工	xin gong	999999
 信噪比	xin zao bi	999999
@@ -196,7 +204,9 @@ sort: by_weight
 异或	yi huo	999999
 一上午	yi shang wu	999999
 一时爽	yi shi shuang	999999
+一食堂	yi shi tang	999
 已失效	yi shi xiao	99999
+依托答辩	yi tuo da bian
 一万步	yi wan bu	999999
 以为	yi wei	999999
 一下	yi xia	999999
