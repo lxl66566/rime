@@ -12,6 +12,8 @@ sort: by_weight
 爱心屋	ai xin wu	999999
 吧	ba	999999
 把	ba	999990
+把我	ba wo	99999
+把握	ba wo	5000
 摆烂	bai lan	999999
 白毛	bai mao	4000
 倍速	bei su	999999
@@ -27,6 +29,8 @@ sort: by_weight
 不兼容	bu jian rong	999999
 补全	bu quan	999999
 不容易	bu rong yi	999999
+不是	bu shi	9999999
+不玩了	bu wan le	999999
 不需要	bu xu yao	999999
 查文档	cha wen dang	9999
 长按	chang an	999999
@@ -46,6 +50,10 @@ sort: by_weight
 的	de	999999
 等会	deng hui	9999999
 登录	deng lu	999999
+第二个	di er ge	999999
+第三个	di san ge	999999
+第四个	di si ge	999999
+第一个	di yi ge	999999
 东方绀珠传	dong fang gan zhu zhuan	999999
 独立	du li	999999
 独立开发	du li kai fa	999999
@@ -75,6 +83,7 @@ sort: by_weight
 即食	ji shi	999999
 既视	ji shi	10000
 既视感	ji shi gan	999999
+加一个	jia yi ge	9999
 降序	jiang xu	999999
 基操	jicao	999999
 句末	ju muo
@@ -102,6 +111,7 @@ sort: by_weight
 没开	mei kai	999999
 没路	mei lu	1250
 煤炉	mei lu	990
+没网	mei wang	8888
 媚药	mei yao	999999
 每一个	mei yi ge	35000
 没一个	mei yi ge	10000
@@ -123,6 +133,7 @@ sort: by_weight
 内敛	nei lian	50000
 你校	ni xiao	999999
 酿成大祸	niang cheng da huo	9999
+牛客	niu ke	9999
 披萨	pi sa	999999
 偏多	pian duo	99999
 偏特化	pian te hua	999999
@@ -130,6 +141,7 @@ sort: by_weight
 评价	ping jia	999999
 平价	ping jia	8000
 其	qi	999999
+起止	qi zhi	50
 嵌套	qian tao	999999
 潜逃	qian tao	999
 切分	qie fen	999999
@@ -192,6 +204,7 @@ sort: by_weight
 信噪比	xin zao bi	999999
 行了	xing le	90000
 醒了	xing le	80000
+选择器	xuan ze qi	9999
 薛定谔	xue ding e	999999
 学了	xue le	999999
 眼睛	yan jing	999999
@@ -238,6 +251,7 @@ sort: by_weight
 整明白	zheng ming bai	999999
 正式工	zheng shi gong	999999
 只	zhi	9999999
+指出来	zhi chu lai	88888
 知道	zhi dao	999999
 直到	zhi dao	50000
 指导	zhi dao	3333
