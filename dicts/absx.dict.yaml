@@ -27,6 +27,7 @@ sort: by_weight
 波粒二象性	bo li er xiang xing	999999
 不会	bu hui	9999999
 不兼容	bu jian rong	999999
+补课班	bu ke ban	8999
 补全	bu quan	999999
 不容易	bu rong yi	999999
 不是	bu shi	9999999
@@ -57,6 +58,7 @@ sort: by_weight
 东方绀珠传	dong fang gan zhu zhuan	999999
 独立	du li	999999
 独立开发	du li kai fa	999999
+对的	dui de	99999
 对齐	dui qi	999999
 多项式	duo xiang shi	999999
 而	er	99999
@@ -66,20 +68,25 @@ sort: by_weight
 分割	fen ge	999999
 分隔	fen ge	70000
 赋分	fu fen	999999
+复试	fu shi	99999
 负相关	fu xiang guan	999999
 搞个	gao ge	9999990
 个	ge	999999
 格子	ge zi	2500
 挂了	gua le	999999
+管培	guan pei	9999
+管培生	guan pei sheng	9999
 还以为	hai yi wei	999999
 红温	hong wen	999999
 候选项	hou xuan xiang	999999
 华东	hua dong	999999
 花了	hua le	999999
+挥拍	hui pai	9999
 混用	hun yong	99999
 及	ji	999999
 几点	ji dian	999999
 几分钟	ji fen zhong	999999
+寄寄	ji ji	950
 即食	ji shi	999999
 既视	ji shi	10000
 既视感	ji shi gan	999999
@@ -88,6 +95,7 @@ sort: by_weight
 基操	jicao	999999
 句末	ju muo
 居中	ju zhong	500
+卷王	juan wang	99999
 卡了	ka le	999999
 看番	kan fan	999999
 科研	ke yan	9999
@@ -99,6 +107,7 @@ sort: by_weight
 戾气	li qi	50000
 立直	li zhi	200
 立直棒	li zhi bang	999999
+量级	liang ji	9999
 流向	liu xiang	10000
 录播	lu bo	999999
 乱交	luan jiao	50000
@@ -144,6 +153,7 @@ sort: by_weight
 起止	qi zhi	50
 嵌套	qian tao	999999
 潜逃	qian tao	999
+前些天	qian xie tian	99989
 切分	qie fen	999999
 青柠	qing ning	999999
 全彩	quan cai	999999
@@ -153,6 +163,7 @@ sort: by_weight
 日轻	ri qing	999999
 入坑	ru keng	999999
 塞牙	sai ya	999999
+三件套	san jian tao	9999
 三食堂	san shi tang	999
 删了	shan le	999999
 声明	sheng ming	999999
@@ -189,6 +200,7 @@ sort: by_weight
 无奖竞猜	wu jiang jing cai	999999
 无糖	wu tang	999999
 洗盘子	xi pan zi	10000
+洗碗	xi wan	999999
 瞎写	xia xie	999999
 相性	xiang xing	99999
 响应	xiang ying	999999
@@ -204,6 +216,7 @@ sort: by_weight
 信噪比	xin zao bi	999999
 行了	xing le	90000
 醒了	xing le	80000
+兴趣班	xing qu ban	9999
 选择器	xuan ze qi	9999
 薛定谔	xue ding e	999999
 学了	xue le	999999
@@ -211,6 +224,7 @@ sort: by_weight
 眼镜	yan jing	50000
 也	ye	999999
 也算	ye suan	999999
+已存在	yi cun zai	9999
 移动端	yi dong duan	999999
 一个	yi ge	999999
 异格	yi ge	10000
@@ -232,6 +246,7 @@ sort: by_weight
 永乐	yong le	50
 有	you	999999
 又	you	50000
+有用	you yong	999999
 由于	you yu	999999
 犹豫 	you yu	80000
 有栈协程	you zhan xie cheng	999999
