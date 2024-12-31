@@ -33,7 +33,9 @@ sort: by_weight
 不是	bu shi	9999999
 不玩了	bu wan le	999999
 不需要	bu xu yao	999999
+不也	bu ye	999999
 查文档	cha wen dang	9999
+查资料	cha zi liao	999999
 长按	chang an	999999
 尝鲜	chang xian	999999
 诚意	cheng yi	999999
@@ -45,6 +47,7 @@ sort: by_weight
 大小核	da xiao he	999999
 大赢特赢	da ying te ying	999999
 当时	dang shi	999999
+到岗	dao gang	8999
 倒是	dao shi	999999
 到时候	dao shi hou	999999
 打字	dazi	999999
@@ -63,6 +66,7 @@ sort: by_weight
 多项式	duo xiang shi	999999
 而	er	99999
 二食堂	er shi tang	999
+翻牌	fan pai	99999
 反杀	fan sha	999999
 泛用	fan yong	999999
 分割	fen ge	999999
@@ -70,13 +74,16 @@ sort: by_weight
 赋分	fu fen	999999
 复试	fu shi	99999
 负相关	fu xiang guan	999999
+刚	gang	99999
 搞个	gao ge	9999990
 个	ge	999999
 格子	ge zi	2500
+够了	gou le	9999999
 挂了	gua le	999999
 管培	guan pei	9999
 管培生	guan pei sheng	9999
 还以为	hai yi wei	999999
+好早	hao zao	99999
 红温	hong wen	999999
 候选项	hou xuan xiang	999999
 华东	hua dong	999999
@@ -87,10 +94,12 @@ sort: by_weight
 几点	ji dian	999999
 几分钟	ji fen zhong	999999
 寄寄	ji ji	950
+几块钱	ji kuai qian	99999
 即食	ji shi	999999
 既视	ji shi	10000
 既视感	ji shi gan	999999
 加一个	jia yi ge	9999
+简单易用	jian dan yi yong	9999
 降序	jiang xu	999999
 基操	jicao	999999
 句末	ju muo
@@ -98,8 +107,10 @@ sort: by_weight
 卷王	juan wang	99999
 卡了	ka le	999999
 看番	kan fan	999999
+课设	ke she	8888
 科研	ke yan	9999
 可言	ke yan	9994
+快递站	kuai di zhan	99999
 老早	lao zao	999999
 了	le	999999
 樂	le	999999
@@ -140,6 +151,8 @@ sort: by_weight
 难用	nan yong	999999
 内联	nei lian	999999
 内敛	nei lian	50000
+内射	nei she	9999
+内设	nei she	350
 你校	ni xiao	999999
 酿成大祸	niang cheng da huo	9999
 牛客	niu ke	9999
@@ -159,6 +172,7 @@ sort: by_weight
 全彩	quan cai	999999
 全连接	quan lian jie	999999
 全拼	quan pin	999999
+全栈	quan zhan	999999
 群友	qun you	999999
 日轻	ri qing	999999
 入坑	ru keng	999999
@@ -179,9 +193,11 @@ sort: by_weight
 数位板	shu wei ban	999999
 书源	shu yuan	10000
 双缝干涉	shuang feng gan she	999999
+睡了	shui le	9999999
 死活	si huo	12000
 私货	si huo	8000
 四食堂	si shi tang	999
+锁屏	suo pin	999999
 题解	ti jie	999999
 填饱	tian bao	999999
 填报	tian bao	70000
@@ -207,11 +223,13 @@ sort: by_weight
 相应	xiang ying	50000
 笑掉	xiao diao	999999
 小鹤双拼	xiao he shuang pin	999999
+小姐姐	xiao jie jie	999999
 小时	xiao shi	999999
 消失	xiao shi	50000
 笑死了	xiao si le	999999
 校园卡	xiao yuan ka	999999
 校招	xiao zhao	999999
+写代码	xie dai ma	9999
 信工	xin gong	999999
 信噪比	xin zao bi	999999
 行了	xing le	90000
@@ -252,11 +270,15 @@ sort: by_weight
 有栈协程	you zhan xie cheng	999999
 余数	yu shu	999999
 原神	yuan shen	999999
+原题	yuan ti	999999
 原味鸡	yuan wei ji	999999
 运维	yun wei	999999
+运维	yun wei	99999
 韵味	yun wei	50000
+韵味	yun wei	999
 在	zai	999999
 再	zai	99999
+在干嘛	zai gan ma	99999
 早都	zao dou	999999
 战损	zhan sun	999999
 找不到	zhao bu dao	999999
