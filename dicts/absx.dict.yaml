@@ -32,14 +32,17 @@ sort: by_weight
 不容易	bu rong yi	999999
 不是	bu shi	9999999
 不玩了	bu wan le	999999
+不希望	bu xi wang	999999
 不需要	bu xu yao	999999
 不也	bu ye	999999
+草	cao	9999999
 查文档	cha wen dang	9999
 查资料	cha zi liao	999999
 长按	chang an	999999
 尝鲜	chang xian	999999
 诚意	cheng yi	999999
 吃啥	chi sha	999999
+传值	chuan zhi	9999
 纯	chun	999999
 词频	ci pin	70000
 大版本	da ban ben	999999
@@ -85,6 +88,7 @@ sort: by_weight
 还以为	hai yi wei	999999
 好早	hao zao	99999
 红温	hong wen	999999
+后文	hou wen	999999
 候选项	hou xuan xiang	999999
 华东	hua dong	999999
 花了	hua le	999999
@@ -148,11 +152,14 @@ sort: by_weight
 拿	na	50000
 那你	na ni	9999
 纳尼	na ni	8000
+那我	na wo	999999
 难用	nan yong	999999
+脑裂	nao lie	88888
 内联	nei lian	999999
 内敛	nei lian	50000
 内射	nei she	9999
 内设	nei she	350
+你去	ni qu	999999
 你校	ni xiao	999999
 酿成大祸	niang cheng da huo	9999
 牛客	niu ke	9999
@@ -165,7 +172,7 @@ sort: by_weight
 其	qi	999999
 起止	qi zhi	50
 嵌套	qian tao	999999
-潜逃	qian tao	999
+潜逃	qian tao	9999
 前些天	qian xie tian	99989
 切分	qie fen	999999
 青柠	qing ning	999999
@@ -175,6 +182,7 @@ sort: by_weight
 全栈	quan zhan	999999
 群友	qun you	999999
 日轻	ri qing	999999
+入参	ru can	5000
 入坑	ru keng	999999
 塞牙	sai ya	999999
 三件套	san jian tao	9999
@@ -218,6 +226,7 @@ sort: by_weight
 洗盘子	xi pan zi	10000
 洗碗	xi wan	999999
 瞎写	xia xie	999999
+相同	xiang tong	99999
 相性	xiang xing	99999
 响应	xiang ying	999999
 相应	xiang ying	50000
@@ -229,6 +238,7 @@ sort: by_weight
 笑死了	xiao si le	999999
 校园卡	xiao yuan ka	999999
 校招	xiao zhao	999999
+写代码	xie dai ma	999999
 写代码	xie dai ma	9999
 信工	xin gong	999999
 信噪比	xin zao bi	999999
@@ -275,11 +285,11 @@ sort: by_weight
 运维	yun wei	999999
 运维	yun wei	99999
 韵味	yun wei	50000
-韵味	yun wei	999
 在	zai	999999
 再	zai	99999
 在干嘛	zai gan ma	99999
 早都	zao dou	999999
+占比	zhan bi	999999
 战损	zhan sun	999999
 找不到	zhao bu dao	999999
 这玩意	zhe wan yi	999999
@@ -292,11 +302,14 @@ sort: by_weight
 知道	zhi dao	999999
 直到	zhi dao	50000
 指导	zhi dao	3333
+制卡	zhi ka	88
 至于	zhi yu	999999
 治愈	zhi yu	999999
 致郁	zhi yu	50000
 主观	zhu guan	999999
+助记	zhu ji
 注音	zhu yin	999999
+装个	zhuang ge	1000
 桌面端	zhuo mian duan	999999
 子弹	zi dan	999999
 字典序	zi dian xu	999999
