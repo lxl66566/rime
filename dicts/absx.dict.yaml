@@ -40,6 +40,7 @@ sort: by_weight
 查资料	cha zi liao	999999
 长按	chang an	999999
 尝鲜	chang xian	999999
+抄作业	chao zuo ye	889999
 诚意	cheng yi	999999
 吃啥	chi sha	999999
 传值	chuan zhi	9999
@@ -49,6 +50,7 @@ sort: by_weight
 打得过	da de guo	100000
 大小核	da xiao he	999999
 大赢特赢	da ying te ying	999999
+大语言	da yu yan	99999
 当时	dang shi	999999
 到岗	dao gang	8999
 倒是	dao shi	999999
@@ -77,6 +79,7 @@ sort: by_weight
 赋分	fu fen	999999
 复试	fu shi	99999
 负相关	fu xiang guan	999999
+父元素	fu yuan su	999999
 刚	gang	99999
 搞个	gao ge	9999990
 个	ge	999999
@@ -118,6 +121,7 @@ sort: by_weight
 老早	lao zao	999999
 了	le	999999
 樂	le	999999
+类名	lei ming	9999
 力气	li qi	999999
 戾气	li qi	50000
 立直	li zhi	200
@@ -154,6 +158,7 @@ sort: by_weight
 纳尼	na ni	8000
 那我	na wo	999999
 难用	nan yong	999999
+男主	nan zhu	999999
 脑裂	nao lie	88888
 内联	nei lian	999999
 内敛	nei lian	50000
@@ -167,6 +172,7 @@ sort: by_weight
 偏多	pian duo	99999
 偏特化	pian te hua	999999
 偏置	pian zhi	20000
+拼手速	pin shou su	200
 评价	ping jia	999999
 平价	ping jia	8000
 其	qi	999999
@@ -178,6 +184,7 @@ sort: by_weight
 青柠	qing ning	999999
 全彩	quan cai	999999
 全连接	quan lian jie	999999
+全篇	quan pian	999999
 全拼	quan pin	999999
 全栈	quan zhan	999999
 群友	qun you	999999
@@ -188,20 +195,24 @@ sort: by_weight
 三件套	san jian tao	9999
 三食堂	san shi tang	999
 删了	shan le	999999
+身兼多职	shen jian duo zhi	99
 声明	sheng ming	999999
 生命	sheng ming	50000
 省赛	sheng sai	99999
 升序	sheng xu	999999
 是的	shi de	999999
 试了下	shi le xia	999999
+失了智	shi le zhi	999
 使我	shi wo	999999
 实在	shi zai	999999
 实在是	shi zai shi	99999
 兽交	shou jiao	999999
+手速	shou su	999999
 数位板	shu wei ban	999999
 书源	shu yuan	10000
 双缝干涉	shuang feng gan she	999999
 睡了	shui le	9999999
+说一说	shuo yi shuo	9999
 死活	si huo	12000
 私货	si huo	8000
 四食堂	si shi tang	999
@@ -225,6 +236,7 @@ sort: by_weight
 无糖	wu tang	999999
 洗盘子	xi pan zi	10000
 洗碗	xi wan	999999
+洗洗睡	xi xi shui	99999
 瞎写	xia xie	999999
 相同	xiang tong	99999
 相性	xiang xing	99999
@@ -274,6 +286,7 @@ sort: by_weight
 永乐	yong le	50
 有	you	999999
 又	you	50000
+有吗	you ma	999999
 有用	you yong	999999
 由于	you yu	999999
 犹豫 	you yu	80000
