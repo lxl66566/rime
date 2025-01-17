@@ -33,6 +33,7 @@ sort: by_weight
 不是	bu shi	9999999
 不玩了	bu wan le	999999
 不希望	bu xi wang	999999
+不新鲜	bu xin xian	99999
 不需要	bu xu yao	999999
 不也	bu ye	999999
 草	cao	9999999
@@ -65,6 +66,7 @@ sort: by_weight
 底力	di li	500
 第三个	di san ge	999999
 第四个	di si ge	999999
+低延迟	di yan chi	9999
 第一个	di yi ge	999999
 东方绀珠传	dong fang gan zhu zhuan	999999
 独立	du li	999999
@@ -88,6 +90,7 @@ sort: by_weight
 搞个	gao ge	9999990
 个	ge	999999
 格子	ge zi	2500
+勾八	gou ba	999999
 够了	gou le	9999999
 挂了	gua le	999999
 管培	guan pei	9999
@@ -101,6 +104,7 @@ sort: by_weight
 华东	hua dong	999999
 花了	hua le	999999
 会啊	hui a	999999
+回来了	hui lai le	9999
 挥拍	hui pai	9999
 混用	hun yong	99999
 及	ji	999999
@@ -114,8 +118,10 @@ sort: by_weight
 记为	ji wei	99
 加一个	jia yi ge	9999
 简单易用	jian dan yi yong	9999
+捡垃圾	jian la ji	999999
 降序	jiang xu	999999
 基操	jicao	999999
+静置	jing zhi	999
 句末	ju muo
 居中	ju zhong	500
 卷王	juan wang	99999
@@ -190,6 +196,7 @@ sort: by_weight
 潜逃	qian tao	9999
 前些天	qian xie tian	99989
 切分	qie fen	999999
+切图	qie tu	999999
 青柠	qing ning	999999
 全彩	quan cai	999999
 全连接	quan lian jie	999999
@@ -210,6 +217,7 @@ sort: by_weight
 省赛	sheng sai	99999
 升序	sheng xu	999999
 是的	shi de	999999
+试过了	shi guo le	999999
 试了下	shi le xia	999999
 失了智	shi le zhi	999
 使我	shi wo	999999
@@ -225,6 +233,7 @@ sort: by_weight
 死活	si huo	12000
 私货	si huo	8000
 四食堂	si shi tang	999
+算力	suan li	9999999
 锁屏	suo pin	999999
 谈薪	tan xin	9999
 题解	ti jie	999999
@@ -240,6 +249,7 @@ sort: by_weight
 万一	wan yi	50000
 未读	wei du	40000
 伪随机	wei sui ji	999999
+未完结	wei wan jie	9999
 微信	wei xin	999999
 问个	wen ge	999999
 我	wo	999999
@@ -249,6 +259,7 @@ sort: by_weight
 洗碗	xi wan	999999
 洗洗睡	xi xi shui	99999
 瞎写	xia xie	999999
+闲鱼	xian yu	999999
 相同	xiang tong	99999
 相性	xiang xing	99999
 响应	xiang ying	999999
@@ -293,6 +304,7 @@ sort: by_weight
 音游	yi yong	999999
 一直	yi zhi	99999
 音游	yin you	999999
+硬控	ying kong	999999
 用	yong	999999
 用了	yong le	99999
 永乐	yong le	50
@@ -325,6 +337,7 @@ sort: by_weight
 这玩意	zhe wan yi	999999
 这只是	zhe zhi shi	999999
 振荡	zhen dang	999999
+真高	zhen gao	99999
 整明白	zheng ming bai	999999
 正式工	zheng shi gong	999999
 只	zhi	9999999
@@ -337,6 +350,7 @@ sort: by_weight
 至于	zhi yu	999999
 治愈	zhi yu	999999
 致郁	zhi yu	50000
+中心化	zhong xin hua	999999
 主观	zhu guan	999999
 助记	zhu ji
 注音	zhu yin	999999
