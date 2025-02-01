@@ -16,6 +16,7 @@ sort: by_weight
 把握	ba wo	5000
 摆烂	bai lan	999999
 白毛	bai mao	4000
+爆仓	bao cang	999999
 倍速	bei su	999999
 哔哔	bi bi	999999
 哔哩哔哩	bi li	9990
@@ -53,6 +54,7 @@ sort: by_weight
 大版本	da ban ben	999999
 打得过	da de guo	100000
 大满足	da man zu	999999
+大模型	da mo xing	999999
 大小核	da xiao he	999999
 大赢特赢	da ying te ying	999999
 大语言	da yu yan	99999
@@ -101,6 +103,7 @@ sort: by_weight
 管培生	guan pei sheng	9999
 还以为	hai yi wei	999999
 好早	hao zao	99999
+横评	heng ping	999999
 红温	hong wen	999999
 后文	hou wen	999999
 候选项	hou xuan xiang	999999
@@ -127,7 +130,9 @@ sort: by_weight
 简评	jian ping	999999
 降序	jiang xu	999999
 基操	jicao	999999
+惊喜	jing xi	999999
 静置	jing zhi	999
+巨根	ju gen	99999
 句末	ju muo
 居中	ju zhong	500
 卷王	juan wang	99999
@@ -207,6 +212,7 @@ sort: by_weight
 切分	qie fen	999999
 切图	qie tu	999999
 青柠	qing ning	999999
+区块链	qu kuai lian	9999999
 全彩	quan cai	999999
 全连接	quan lian jie	999999
 全篇	quan pian	999999
@@ -258,12 +264,14 @@ sort: by_weight
 玩意	wan yi	999999
 万一	wan yi	50000
 未读	wei du	40000
+未经测试	wei jing ce shi	99
 伪随机	wei sui ji	999999
 未完结	wei wan jie	9999
 微信	wei xin	999999
 问个	wen ge	999999
 我	wo	999999
 无奖竞猜	wu jiang jing cai	999999
+无脑	wu nao	999999
 无糖	wu tang	999999
 洗盘子	xi pan zi	10000
 洗碗	xi wan	999999
@@ -328,6 +336,7 @@ sort: by_weight
 由于	you yu	999999
 犹豫 	you yu	80000
 有栈协程	you zhan xie cheng	999999
+余额宝	yu e bao	999999
 余数	yu shu	999999
 原神	yuan shen	999999
 原题	yuan ti	999999
@@ -345,6 +354,7 @@ sort: by_weight
 占比	zhan bi	999999
 战损	zhan sun	999999
 找不到	zhao bu dao	999999
+找了	zhao le	999999
 折叠屏	zhe die ping	99999
 这玩意	zhe wan yi	999999
 这只是	zhe zhi shi	999999
