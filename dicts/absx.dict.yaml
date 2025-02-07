@@ -88,6 +88,7 @@ sort: by_weight
 分割	fen ge	999999
 分隔	fen ge	70000
 赋分	fu fen	999999
+附身	fu shen	999
 复试	fu shi	99999
 负相关	fu xiang guan	999999
 父元素	fu yuan su	999999
@@ -138,6 +139,7 @@ sort: by_weight
 卷王	juan wang	99999
 卡顿	ka dun	9999999
 卡了	ka le	999999
+卡死	ka si	9999999
 看番	kan fan	999999
 课设	ke she	8888
 科研	ke yan	9999
@@ -152,6 +154,7 @@ sort: by_weight
 戾气	li qi	50000
 立直	li zhi	200
 立直棒	li zhi bang	999999
+联机	lian ji	999999
 量级	liang ji	9999
 流式	liu shi	99999
 流向	liu xiang	10000
@@ -174,6 +177,8 @@ sort: by_weight
 面试题	mian shi ti	999999
 喵	miao	500000
 妙	miao	50000
+摸金	mo jin	999999
+魔禁	mo jin	99999
 默认情况	mo ren qing kuang	999999
 墨水屏	mo shui ping	35000
 墨水瓶	mo shui ping	25000
@@ -241,6 +246,7 @@ sort: by_weight
 实在是	shi zai shi	99999
 兽交	shou jiao	999999
 手速	shou su	999999
+熟了	shu le	999999
 数位板	shu wei ban	999999
 书源	shu yuan	10000
 双缝干涉	shuang feng gan she	999999
@@ -268,6 +274,7 @@ sort: by_weight
 伪随机	wei sui ji	999999
 未完结	wei wan jie	9999
 微信	wei xin	999999
+未知原因	wei zhi yuan yin	999
 问个	wen ge	999999
 我	wo	999999
 无奖竞猜	wu jiang jing cai	999999
@@ -330,6 +337,7 @@ sort: by_weight
 永乐	yong le	50
 有	you	999999
 又	you	50000
+有迹可循	you ji ke xun	999999
 有吗	you ma	999999
 有权限	you quan xian	9999
 有用	you yong	999999
