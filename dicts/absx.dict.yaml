@@ -79,6 +79,7 @@ sort: by_weight
 独立开发	du li kai fa	999999
 对的	dui de	99999
 对齐	dui qi	999999
+多说无益	duo shuo wu yi	99999
 多项式	duo xiang shi	999999
 而	er	99999
 二食堂	er shi tang	999
@@ -97,7 +98,10 @@ sort: by_weight
 刚	gang	99999
 搞个	gao ge	9999990
 个	ge	999999
+个人线	ge ren xian	9999
 格子	ge zi	2500
+共通线	gong tong xian	99999
+共通线	gong tong xian	9999
 勾八	gou ba	999999
 够了	gou le	9999999
 固源岩	gu yuan yan	9999
@@ -144,6 +148,7 @@ sort: by_weight
 卡顿	ka dun	9999999
 卡了	ka le	999999
 卡死	ka si	9999999
+卡死	ka si	999999
 看番	kan fan	999999
 课设	ke she	8888
 科研	ke yan	9999
@@ -169,6 +174,7 @@ sort: by_weight
 吗	ma	999999
 嘛 	ma	80000
 码 	ma	20000
+没改	mei gai	999999
 没讲	mei jiang	9000
 没开	mei kai	999999
 没路	mei lu	1250
@@ -216,6 +222,7 @@ sort: by_weight
 其	qi	999999
 起止	qi zhi	50
 前端	qian duan	999999
+前后端	qian hou duan	99999
 嵌套	qian tao	999999
 潜逃	qian tao	9999
 前些天	qian xie tian	99989
@@ -247,6 +254,7 @@ sort: by_weight
 试了下	shi le xia	999999
 失了智	shi le zhi	999
 使我	shi wo	999999
+是一个	shi yi ge	999999
 实在	shi zai	999999
 实在是	shi zai shi	99999
 兽交	shou jiao	999999
@@ -368,6 +376,7 @@ sort: by_weight
 早都	zao dou	999999
 占比	zhan bi	999999
 战损	zhan sun	999999
+长草	zhang cao	999
 找不到	zhao bu dao	999999
 找了	zhao le	999999
 折叠屏	zhe die ping	99999
