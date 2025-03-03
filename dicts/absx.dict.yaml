@@ -32,12 +32,15 @@ sort: by_weight
 补全	bu quan	999999
 不容易	bu rong yi	999999
 不是	bu shi	9999999
+不适合	bu shi he	999999
 不玩了	bu wan le	999999
 不希望	bu xi wang	999999
 不新鲜	bu xin xian	99999
 不需要	bu xu yao	999999
 不也	bu ye	999999
 草	cao	9999999
+差分	cha fen	999999
+查分	cha fen	9999
 查文档	cha wen dang	9999
 查资料	cha zi liao	999999
 长按	chang an	999999
@@ -47,6 +50,7 @@ sort: by_weight
 诚意	cheng yi	999999
 吃的	chi de	999999
 吃啥	chi sha	999999
+臭鱼烂虾	chou yu lan xia	99999
 传值	chuan zhi	9999
 纯	chun	999999
 词频	ci pin	70000
@@ -68,12 +72,14 @@ sort: by_weight
 等会	deng hui	9999999
 等量	deng liang	999999
 登录	deng lu	999999
+等腰	deng yao	999999
 第二个	di er ge	999999
 底力	di li	500
 第三个	di san ge	999999
 第四个	di si ge	999999
 低延迟	di yan chi	9999
 第一个	di yi ge	999999
+点一下	dian yi xia	9999
 东方绀珠传	dong fang gan zhu zhuan	999999
 独立	du li	999999
 独立开发	du li kai fa	999999
@@ -122,11 +128,14 @@ sort: by_weight
 回来了	hui lai le	9999
 挥拍	hui pai	9999
 混用	hun yong	99999
+活到最后	huo dao zui hou	99
 及	ji	999999
 几点	ji dian	999999
 几分钟	ji fen zhong	999999
 寄寄	ji ji	950
 几块钱	ji kuai qian	99999
+寄了	ji le	999999
+急了	ji le	999998
 即食	ji shi	999999
 既视	ji shi	10000
 既视感	ji shi gan	999999
@@ -138,6 +147,7 @@ sort: by_weight
 捡垃圾	jian la ji	999999
 简评	jian ping	999999
 降序	jiang xu	999999
+降智	jiang zhi	999999
 基操	jicao	999999
 惊喜	jing xi	999999
 静置	jing zhi	999
@@ -170,6 +180,7 @@ sort: by_weight
 流向	liu xiang	10000
 录播	lu bo	999999
 乱交	luan jiao	50000
+轮播	lun bo	9999
 萝莉	luo li	50000
 落絮	luo xu	999999
 吗	ma	999999
@@ -294,9 +305,11 @@ sort: by_weight
 未知原因	wei zhi yuan yin	999
 问个	wen ge	999999
 我	wo	999999
+我嘞个	wo lei ge	9999
 无奖竞猜	wu jiang jing cai	999999
 无脑	wu nao	999999
 无糖	wu tang	999999
+吸溜	xi liu	999999
 洗盘子	xi pan zi	10000
 洗碗	xi wan	999999
 洗洗睡	xi xi shui	99999
@@ -331,6 +344,7 @@ sort: by_weight
 也算	ye suan	999999
 已存在	yi cun zai	9999
 移动端	yi dong duan	999999
+一堆人	yi dui ren	999999
 一个	yi ge	999999
 异格	yi ge	10000
 异或	yi huo	999999
@@ -350,6 +364,7 @@ sort: by_weight
 引体	yin ti	999999
 音游	yin you	999999
 硬控	ying kong	999999
+赢了	ying le	999999
 用	yong	999999
 用了	yong le	99999
 永乐	yong le	50
@@ -364,6 +379,7 @@ sort: by_weight
 有栈协程	you zhan xie cheng	999999
 余额宝	yu e bao	999999
 余数	yu shu	999999
+原谅我	yuan liang wo	999
 原神	yuan shen	999999
 原题	yuan ti	999999
 原味鸡	yuan wei ji	999999
