@@ -17,6 +17,7 @@ sort: by_weight
 摆烂	bai lan	999999
 白毛	bai mao	4000
 爆仓	bao cang	999999
+包浆	bao jiang	999999
 倍速	bei su	999999
 哔哔	bi bi	999999
 哔哩哔哩	bi li	9990
@@ -24,6 +25,8 @@ sort: by_weight
 编译	bian yi	999999
 变异	bian yi	8000
 贬义	bian yi	5000
+标志	biao zhi	999999
+标致	biao zhi	99999
 并发	bing fa	999999
 波粒二象性	bo li er xiang xing	999999
 不会	bu hui	9999999
@@ -94,6 +97,7 @@ sort: by_weight
 翻牌	fan pai	99999
 反杀	fan sha	999999
 泛用	fan yong	999999
+匪家	fei jia	999
 分割	fen ge	999999
 分隔	fen ge	70000
 赋分	fu fen	999999
@@ -124,6 +128,8 @@ sort: by_weight
 互斥	hu chi	99999
 华东	hua dong	999999
 花了	hua le	999999
+话说	hua shuo	9999999
+华硕	hua shuo	999
 会啊	hui a	999999
 回来了	hui lai le	9999
 挥拍	hui pai	9999
@@ -197,7 +203,7 @@ sort: by_weight
 没一个	mei yi ge	10000
 萌娘	meng niang	999999
 面试题	mian shi ti	999999
-喵	miao	500000
+喵	miao	50000000
 妙	miao	50000
 摸金	mo jin	999999
 魔禁	mo jin	99999
@@ -213,6 +219,7 @@ sort: by_weight
 纳尼	na ni	8000
 那我	na wo	999999
 那行	na xing	999999
+难绷	nan beng	999999
 难用	nan yong	999999
 男主	nan zhu	999999
 脑补	nao bu	999999
@@ -256,6 +263,7 @@ sort: by_weight
 塞牙	sai ya	999999
 三件套	san jian tao	9999
 三食堂	san shi tang	999
+沙鹰	sha ying	999999
 删了	shan le	999999
 身兼多职	shen jian duo zhi	99
 声明	sheng ming	999999
@@ -357,8 +365,11 @@ sort: by_weight
 依托答辩	yi tuo da bian
 一万步	yi wan bu	999999
 以为	yi wei	999999
+疑问	yi wen	999999
+译文	yi wen	99999
 一下	yi xia	999999
 以下	yi xia	50000
+一下午	yi xia wu	999999
 音游	yi yong	999999
 一直	yi zhi	99999
 引体	yin ti	999999
@@ -376,11 +387,13 @@ sort: by_weight
 有用	you yong	999999
 由于	you yu	999999
 犹豫 	you yu	80000
+鱿鱼圈	you yu quan	99999
 有栈协程	you zhan xie cheng	999999
 余额宝	yu e bao	999999
 余数	yu shu	999999
 原谅我	yuan liang wo	999
 原神	yuan shen	999999
+原生	yuan sheng	999999
 原题	yuan ti	999999
 原味鸡	yuan wei ji	999999
 云备份	yun bei fen	999999
@@ -411,6 +424,7 @@ sort: by_weight
 知道	zhi dao	999999
 直到	zhi dao	50000
 指导	zhi dao	3333
+知乎	zhi hu	999999
 制卡	zhi ka	88
 止盈	zhi ying	999
 至于	zhi yu	999999
