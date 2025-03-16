@@ -105,6 +105,7 @@ sort: by_weight
 复试	fu shi	99999
 负相关	fu xiang guan	999999
 父元素	fu yuan su	999999
+感到	gan dao	999999
 刚	gang	99999
 搞个	gao ge	9999990
 个	ge	999999
@@ -119,6 +120,7 @@ sort: by_weight
 怪猎	guai lie	999999
 管培	guan pei	9999
 管培生	guan pei sheng	9999
+硅脂	gui zhi	999999
 还以为	hai yi wei	999999
 好早	hao zao	99999
 横评	heng ping	999999
@@ -142,10 +144,16 @@ sort: by_weight
 几块钱	ji kuai qian	99999
 寄了	ji le	999999
 急了	ji le	999998
+及其	ji qi	999999
+机器	ji qi	599999
+极其	ji qi	399999
+集齐	ji qi	299999
 即食	ji shi	999999
 既视	ji shi	10000
 既视感	ji shi gan	999999
 记为	ji wei	99
+寄修	ji xiu	999999
+及以上	ji yi shang	999999
 加一个	jia yi ge	9999
 简笔	jian bi	999999
 简单易用	jian dan yi yong	9999
@@ -181,7 +189,13 @@ sort: by_weight
 立直	li zhi	200
 立直棒	li zhi bang	999999
 联机	lian ji	999999
-量级	liang ji	9999
+量级	liang ji	99999
+亮机	liang ji	59999
+两极	liang ji	9999
+两集	liang ji	1999
+良机	liang ji	999
+亮机卡	liang ji ka	999999
+劣质	lie zhi	999999
 流式	liu shi	99999
 流向	liu xiang	10000
 录播	lu bo	999999
@@ -239,6 +253,7 @@ sort: by_weight
 拼手速	pin shou su	200
 评价	ping jia	999999
 平价	ping jia	8000
+评论区	ping lun qu	999999
 其	qi	999999
 起止	qi zhi	50
 前端	qian duan	999999
@@ -262,6 +277,7 @@ sort: by_weight
 入坑	ru keng	999999
 塞牙	sai ya	999999
 三件套	san jian tao	9999
+散片	san pian	999999
 三食堂	san shi tang	999
 沙鹰	sha ying	999999
 删了	shan le	999999
@@ -275,6 +291,7 @@ sort: by_weight
 史莱姆	shi lai mu	9999999
 试了下	shi le xia	999999
 失了智	shi le zhi	999
+时停	shi ting	999999
 使我	shi wo	999999
 是一个	shi yi ge	999999
 实在	shi zai	999999
@@ -321,6 +338,7 @@ sort: by_weight
 洗盘子	xi pan zi	10000
 洗碗	xi wan	999999
 洗洗睡	xi xi shui	99999
+下饭	xia fan	999999
 瞎写	xia xie	999999
 限流	xian liu	999999
 闲鱼	xian yu	999999
