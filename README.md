@@ -15,7 +15,7 @@
   删除所有 `japanese` 开头的 yaml 文件与 `dicts-jap` 即可。
 </details>
 
-## 安装
+## 使用本方案
 
 第一步是安装 Rime 在对应平台上的替代品。
 
@@ -25,7 +25,7 @@
   - 下载[小企鹅输入法](https://github.com/fcitx5-android/fcitx5-android/releases) 和链接下面的 `plugin.rime`。注意：不要安装 Google Play 上的小企鹅输入法版本。和插件不兼容。
 - MacOS：本人没有 mac 设备，此配置未在 mac 上测试，不保证可用性。
 
-第二步，进入到配置文件夹（的父级文件夹），直接 clone 该仓库内容即可。这一份配置可以跨多平台，不需要任何修改：
+第二步，进入到配置文件夹的**父级文件夹**，直接 clone 该仓库内容即可。这一份配置可以跨平台，不需要做适配性的修改：
 
 ```sh
 git clone https://github.com/lxl66566/rime.git --recursive
@@ -36,6 +36,8 @@ git clone https://github.com/lxl66566/rime.git --recursive
 - Linux：`~/.local/share/fcitx5/rime/`
 - Windows：`C:\Users\<user_name>\AppData\Roaming\Rime`
 - Andriod（fcitx5 for Andriod）：`/Android/data/org.fcitx.fcitx5.android/files/data/rime`
+
+第三步，删除本人的私人词库：删除 `dicts/absx-personal.dict.yaml.zst.enc`，并在 `chinese.dict.yaml` 里删除该词库对应条目。我的私人词库使用 [git-simple-encrypt](https://github.com/lxl66566/git-simple-encrypt) 加密，密码为复杂型。
 
 ## 其他
 

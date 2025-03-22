@@ -7,7 +7,9 @@ version: "2023-08-28"
 
 import_tables:
   # 我自己的词库
-  - dicts/absx # 我的词库
+  - dicts/absx # 我的手记词库
+  - dicts/absx-formal # 我的初高中个人词库
+  - dicts/absx-personal # 我的人名与专业名词记录，如果你需要使用我的词库，请删除此行。
 
   # 覆盖词频
   - dicts/simp # 最小拼音词典
