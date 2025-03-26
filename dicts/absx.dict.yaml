@@ -17,8 +17,11 @@ sort: by_weight
 摆烂	bai lan	999999
 白毛	bai mao	4000
 爆仓	bao cang	999999
+报复	bao fu	999999
+饱腹	bao fu	999
 包浆	bao jiang	999999
 倍速	bei su	999999
+本质上	ben zhi shang	999999
 哔哔	bi bi	999999
 哔哩哔哩	bi li	9990
 变量名	bian liang ming	999999
@@ -53,6 +56,7 @@ sort: by_weight
 诚意	cheng yi	999999
 吃的	chi de	999999
 吃啥	chi sha	999999
+重定向	chong ding xiang	89999
 臭鱼烂虾	chou yu lan xia	99999
 传值	chuan zhi	9999
 纯	chun	999999
@@ -66,6 +70,7 @@ sort: by_weight
 大小核	da xiao he	999999
 大赢特赢	da ying te ying	999999
 大语言	da yu yan	99999
+逮着	dai zhe	9999
 当时	dang shi	999999
 到岗	dao gang	8999
 倒是	dao shi	999999
@@ -181,6 +186,7 @@ sort: by_weight
 可言	ke yan	9994
 口语化	kou yu hua	9999
 快递站	kuai di zhan	99999
+快乐食间	kuai le shi jian	99
 老早	lao zao	999999
 了	le	999999
 樂	le	999999
@@ -277,6 +283,7 @@ sort: by_weight
 日轻	ri qing	999999
 入参	ru can	5000
 入坑	ru keng	999999
+软塌塌	ruan ta ta	99999
 塞牙	sai ya	999999
 三件套	san jian tao	9999
 散片	san pian	999999
@@ -368,6 +375,7 @@ sort: by_weight
 学了	xue le	999999
 眼睛	yan jing	999999
 眼镜	yan jing	50000
+要命	yao ming	99999
 也	ye	999999
 也算	ye suan	999999
 已存在	yi cun zai	9999
@@ -393,6 +401,7 @@ sort: by_weight
 音游	yi yong	999999
 一直	yi zhi	99999
 引体	yin ti	999999
+饮用水	yin yong shui	999999
 音游	yin you	999999
 硬控	ying kong	999999
 赢了	ying le	999999
