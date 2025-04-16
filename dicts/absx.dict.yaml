@@ -20,6 +20,7 @@ sort: by_weight
 报复	bao fu	999999
 饱腹	bao fu	999
 包浆	bao jiang	999999
+爆睡	bao shui	599
 倍速	bei su	999999
 本质上	ben zhi shang	999999
 哔哔	bi bi	999999
@@ -110,6 +111,8 @@ sort: by_weight
 分割	fen ge	999999
 分隔	fen ge	70000
 粉毛	fen mao	999999
+封包	feng bao	999999
+风暴	feng bao	999995
 赋分	fu fen	999999
 附身	fu shen	999
 复试	fu shi	99999
@@ -130,6 +133,8 @@ sort: by_weight
 怪猎	guai lie	999999
 管培	guan pei	9999
 管培生	guan pei sheng	9999
+归宿	gui su	999999
+龟速	gui su	9999
 硅脂	gui zhi	999999
 还以为	hai yi wei	999999
 好早	hao zao	99999
@@ -141,6 +146,7 @@ sort: by_weight
 华东	hua dong	999999
 花了	hua le	999999
 话说	hua shuo	9999999
+话说	hua shuo	999999
 华硕	hua shuo	999
 会啊	hui a	999999
 回来了	hui lai le	9999
@@ -151,6 +157,7 @@ sort: by_weight
 几点	ji dian	999999
 几分钟	ji fen zhong	999999
 寄寄	ji ji	950
+寄件	ji jian	9999
 几块钱	ji kuai qian	99999
 寄了	ji le	999999
 急了	ji le	999998
@@ -352,6 +359,7 @@ sort: by_weight
 问个	wen ge	999999
 我	wo	999999
 我嘞个	wo lei ge	9999
+误工费	wu gong fei	999999
 无奖竞猜	wu jiang jing cai	999999
 无脑	wu nao	999999
 无糖	wu tang	999999
@@ -389,6 +397,8 @@ sort: by_weight
 眼睛	yan jing	999999
 眼镜	yan jing	50000
 要命	yao ming	99999
+要是	yao shi	999999
+钥匙	yao shi	99999
 也	ye	999999
 也算	ye suan	999999
 已存在	yi cun zai	9999
@@ -424,6 +434,7 @@ sort: by_weight
 有	you	999999
 又	you	50000
 有迹可循	you ji ke xun	999999
+有吗	you ma	999999
 有吗	you ma	999999
 有权限	you quan xian	9999
 有用	you yong	999999
@@ -484,3 +495,4 @@ sort: by_weight
 字典序	zi dian xu	999999
 总之	zong zhi	999999
 最近邻	zui jin lin	999999
+作业站	zuo ye zhan	999999
