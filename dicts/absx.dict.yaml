@@ -9,6 +9,7 @@ version: "2024-11-21"
 sort: by_weight
 ...
 
+阿苯达唑	a ben da cuo	999999
 爱心屋	ai xin wu	999999
 吧	ba	999999
 把	ba	999990
@@ -98,6 +99,7 @@ sort: by_weight
 独立开发	du li kai fa	999999
 对的	dui de	99999
 对齐	dui qi	999999
+对其	dui qi	999
 多说无益	duo shuo wu yi	99999
 多项式	duo xiang shi	999999
 而	er	99999
@@ -165,8 +167,12 @@ sort: by_weight
 机器	ji qi	599999
 极其	ji qi	399999
 集齐	ji qi	299999
-即食	ji shi	999999
+即使	ji shi	999999
+及时	ji shi	999900
+几十	ji shi	999800
+即食	ji shi	999500
 既视	ji shi	10000
+积食	ji shi	99
 既视感	ji shi gan	999999
 记为	ji wei	99
 寄修	ji xiu	999999
