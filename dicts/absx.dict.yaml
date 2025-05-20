@@ -119,6 +119,7 @@ sort: by_weight
 粉毛	fen mao	999999
 封包	feng bao	999999
 风暴	feng bao	999995
+复辟	fu bi	99
 赋分	fu fen	999999
 附身	fu shen	999
 复试	fu shi	99999
@@ -130,6 +131,7 @@ sort: by_weight
 个	ge	999999
 个人线	ge ren xian	9999
 格子	ge zi	2500
+攻速	gong su	999999
 共通线	gong tong xian	99999
 共通线	gong tong xian	9999
 勾八	gou ba	999999
@@ -191,6 +193,7 @@ sort: by_weight
 降序	jiang xu	999999
 降智	jiang zhi	999999
 基操	jicao	999999
+截胡	jie hu	999999
 禁止	jin zhi	999999
 惊喜	jing xi	999999
 静置	jing zhi	999
@@ -227,10 +230,12 @@ sort: by_weight
 两集	liang ji	1999
 良机	liang ji	999
 亮机卡	liang ji ka	999999
+两位小数	liang wei xiao shu	99999
 劣质	lie zhi	999999
 流式	liu shi	99999
 流向	liu xiang	10000
 录播	lu bo	999999
+乱炖	luan dun	99999
 乱交	luan jiao	50000
 轮播	lun bo	9999
 萝莉	luo li	50000
@@ -287,6 +292,7 @@ sort: by_weight
 评价	ping jia	999999
 平价	ping jia	8000
 评论区	ping lun qu	999999
+谱面	pu mian	999999
 其	qi	999999
 起止	qi zhi	50
 前端	qian duan	999999
@@ -296,6 +302,7 @@ sort: by_weight
 前些天	qian xie tian	99989
 嵌字	qian zi	99999
 切分	qie fen	999999
+切后排	qie hou pai	999999
 切图	qie tu	999999
 青柠	qing ning	999999
 区块链	qu kuai lian	9999999
@@ -350,6 +357,8 @@ sort: by_weight
 太惨	tai can	99999
 太吵	tai chao	999999
 谈薪	tan xin	9999
+提出	ti chu	999999
+剔除	ti chu	99
 题解	ti jie	999999
 填饱	tian bao	999999
 填报	tian bao	70000
@@ -484,6 +493,7 @@ sort: by_weight
 振荡	zhen dang	999999
 真高	zhen gao	99999
 真伤	zhen shang	999999
+整出来	zheng chu lai	99999
 整明白	zheng ming bai	999999
 正式工	zheng shi gong	999999
 只	zhi	9999999
