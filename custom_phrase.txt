@@ -12,7 +12,7 @@
 吧	b	999999
 并	bk	9999999
 草	cc	9999999
-的	d	999999
+的	d	99999999
 呃	e	999999
 额	e	5000
 而	er	999999
@@ -49,6 +49,7 @@ IPv4	ipv	1001
 IPv6	ipv	1000
 Java	java
 loli	loli	999999
+pnpm	pnpm	999999
 Rime	rime	999999
 Ruby	ruby
 rust	rust	999999
