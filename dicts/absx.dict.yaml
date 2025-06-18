@@ -58,6 +58,7 @@ sort: by_weight
 长按	chang an	999999
 尝鲜	chang xian	999999
 超短篇	chao duan pian	99999
+超高校级	chao gao xiao ji	9999
 抄作业	chao zuo ye	889999
 诚意	cheng yi	999999
 吃的	chi de	999999
@@ -114,6 +115,7 @@ sort: by_weight
 翻牌	fan pai	99999
 反杀	fan sha	999999
 泛用	fan yong	999999
+房补	fang bu	999999
 匪家	fei jia	999
 分割	fen ge	999999
 分隔	fen ge	70000
@@ -155,7 +157,6 @@ sort: by_weight
 华东	hua dong	999999
 花了	hua le	999999
 话说	hua shuo	9999999
-话说	hua shuo	999999
 华硕	hua shuo	999
 会啊	hui a	999999
 回来了	hui lai le	9999
@@ -195,6 +196,8 @@ sort: by_weight
 降智	jiang zhi	999999
 基操	jicao	999999
 截胡	jie hu	999999
+仅限	jin xian	999999
+尽显	jin xian	999
 禁止	jin zhi	999999
 惊喜	jing xi	999999
 静置	jing zhi	999
@@ -303,6 +306,7 @@ sort: by_weight
 潜逃	qian tao	9999
 前些天	qian xie tian	99989
 嵌字	qian zi	99999
+翘班	qiao ban	99
 切分	qie fen	999999
 切后排	qie hou pai	999999
 切图	qie tu	999999
@@ -369,6 +373,8 @@ sort: by_weight
 挺满意	ting man yi	999999
 同一个	tong yi ge	999999
 吐槽	tu cao	999999
+哇	wa	9999999
+五瓦	wa	99
 外放	wai fang	99999
 弯弯绕绕	wan wan rao rao	999999
 玩意	wan yi	999999
@@ -395,6 +401,7 @@ sort: by_weight
 下拉列表	xia la lie biao	999999
 瞎写	xia xie	999999
 限流	xian liu	999999
+仙术杯	xian shu bei	99
 闲鱼	xian yu	999999
 相同	xiang tong	99999
 相性	xiang xing	99999
@@ -419,6 +426,7 @@ sort: by_weight
 薛定谔	xue ding e	999999
 学了	xue le	999999
 学术性	xue shu xing	999999
+押一付一	ya yi fu yi	99
 眼睛	yan jing	999999
 眼镜	yan jing	50000
 要命	yao ming	99999
