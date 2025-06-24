@@ -14,7 +14,7 @@ import_tables:
   # 覆盖词频
   - dicts/simp # 最小拼音词典
   - dicts/simp-ext # 原字表中除单字外部分
-  
+
   - dicts/zhwiki- # 维基百科精简
   - dicts/CEDICT # CEDICT
   - dicts/Galgame

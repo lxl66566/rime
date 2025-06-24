@@ -17,6 +17,7 @@ sort: by_weight
 把握	ba wo	5000
 摆烂	bai lan	999999
 白毛	bai mao	4000
+办宽带	ban kuan dai	99999
 爆仓	bao cang	999999
 报复	bao fu	999999
 饱腹	bao fu	999
@@ -199,6 +200,7 @@ sort: by_weight
 仅限	jin xian	999999
 尽显	jin xian	999
 禁止	jin zhi	999999
+精钢	jing gang	99999
 惊喜	jing xi	999999
 静置	jing zhi	999
 巨根	ju gen	99999
@@ -210,11 +212,13 @@ sort: by_weight
 卡死	ka si	9999999
 卡死	ka si	999999
 卡死	ka si	999999
+开题	kai ti	99999
 看番	kan fan	999999
 课设	ke she	8888
 科研	ke yan	9999
 可言	ke yan	9994
 刻章	ke zhang	99
+空的	kong de	9999
 口语化	kou yu hua	9999
 快递站	kuai di zhan	99999
 快乐食间	kuai le shi jian	99
@@ -344,6 +348,7 @@ sort: by_weight
 是一个	shi yi ge	999999
 实在	shi zai	999999
 实在是	shi zai shi	99999
+手搓	shou cuo	9999
 收集	shou ji	999999
 手机	shou ji	999997
 兽交	shou jiao	999999
@@ -366,6 +371,7 @@ sort: by_weight
 提出	ti chu	999999
 剔除	ti chu	99
 题解	ti jie	999999
+提示词	ti shi ci	999999
 填饱	tian bao	999999
 填报	tian bao	70000
 天下武功	tian xia wu gong	9999
@@ -409,6 +415,7 @@ sort: by_weight
 相应	xiang ying	50000
 笑掉	xiao diao	999999
 小鹤双拼	xiao he shuang pin	999999
+小红书	xiao hong shu	99999
 小姐姐	xiao jie jie	999999
 小时	xiao shi	999999
 消失	xiao shi	50000
@@ -444,6 +451,8 @@ sort: by_weight
 一时爽	yi shi shuang	999999
 一食堂	yi shi tang	999
 已失效	yi shi xiao	99999
+意思	yi si	999999
+疑似	yi si	99999
 移速	yi su	99999
 异瞳	yi tong	89
 依托答辩	yi tuo da bian
@@ -529,4 +538,5 @@ sort: by_weight
 字典序	zi dian xu	999999
 总之	zong zhi	999999
 最近邻	zui jin lin	999999
+做卫生	zuo wei sheng	99999
 作业站	zuo ye zhan	999999
