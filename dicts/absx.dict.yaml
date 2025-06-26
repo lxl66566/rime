@@ -38,6 +38,7 @@ sort: by_weight
 标致	biao zhi	99999
 并发	bing fa	999999
 波粒二象性	bo li er xiang xing	999999
+不放假	bu fang jia	999
 不会	bu hui	9999999
 不兼容	bu jian rong	999999
 不介意	bu jie yi	999999
@@ -298,6 +299,7 @@ sort: by_weight
 偏特化	pian te hua	999999
 偏置	pian zhi	20000
 拼手速	pin shou su	200
+平板	ping ban	9999999
 评价	ping jia	999999
 平价	ping jia	8000
 评论区	ping lun qu	999999
@@ -379,6 +381,8 @@ sort: by_weight
 挺满意	ting man yi	999999
 同一个	tong yi ge	999999
 吐槽	tu cao	999999
+退出	tui chu	999999
+推出	tui chu	99999
 哇	wa	9999999
 五瓦	wa	99
 外放	wai fang	99999
@@ -386,6 +390,7 @@ sort: by_weight
 玩意	wan yi	999999
 万一	wan yi	50000
 未读	wei du	40000
+未敢	wei gan	99999
 未经测试	wei jing ce shi	99
 伪随机	wei sui ji	999999
 未完结	wei wan jie	9999
