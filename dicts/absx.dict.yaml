@@ -74,6 +74,7 @@ sort: by_weight
 大版本	da ban ben	999999
 达到	da dao	999999
 打得过	da de guo	100000
+大肥猪	da fei zhu	999999
 大满足	da man zu	999999
 大冒险	da mao xian	999999
 大模型	da mo xing	999999
@@ -153,6 +154,7 @@ sort: by_weight
 好早	hao zao	99999
 横评	heng ping	999999
 红温	hong wen	999999
+厚底	hou di	999999
 后文	hou wen	999999
 候选项	hou xuan xiang	999999
 互斥	hu chi	99999
@@ -160,6 +162,7 @@ sort: by_weight
 花了	hua le	999999
 话说	hua shuo	9999999
 华硕	hua shuo	999
+黄桃	huang tao	999999
 会啊	hui a	999999
 回来了	hui lai le	9999
 挥拍	hui pai	9999
@@ -188,6 +191,8 @@ sort: by_weight
 寄修	ji xiu	999999
 及以上	ji yi shang	999999
 家宽	jia kuan	9999
+假设	jia she	9999999
+架设	jia she	9999
 加一个	jia yi ge	9999
 简笔	jian bi	999999
 简单易用	jian dan yi yong	9999
@@ -213,6 +218,7 @@ sort: by_weight
 卡死	ka si	9999999
 卡死	ka si	999999
 卡死	ka si	999999
+开卷考	kai juan kao	999999
 开题	kai ti	99999
 看番	kan fan	999999
 课设	ke she	8888
@@ -396,7 +402,10 @@ sort: by_weight
 未完结	wei wan jie	9999
 微信	wei xin	999999
 未知原因	wei zhi yuan yin	999
+闻到	wen dao	999999
 问个	wen ge	999999
+文字	wen zi	999999
+蚊子	wen zi	99999
 我	wo	999999
 我嘞个	wo lei ge	9999
 误工费	wu gong fei	999999
@@ -438,6 +447,7 @@ sort: by_weight
 薛定谔	xue ding e	999999
 学了	xue le	999999
 学术性	xue shu xing	999999
+寻线仪	xun xian yi	999999
 押一付一	ya yi fu yi	99
 眼睛	yan jing	999999
 眼镜	yan jing	50000
@@ -447,6 +457,7 @@ sort: by_weight
 也	ye	999999
 也算	ye suan	999999
 已存在	yi cun zai	9999
+移动	yi dong	999999
 移动端	yi dong duan	999999
 一堆人	yi dui ren	999999
 一个	yi ge	999999
@@ -536,6 +547,9 @@ sort: by_weight
 中心化	zhong xin hua	999999
 主观	zhu guan	999999
 助记	zhu ji
+注释	zhu shi	999999
+注视	zhu shi	99999
+主食	zhu shi	59999
 注音	zhu yin	999999
 装个	zhuang ge	1000
 桌面端	zhuo mian duan	999999
