@@ -53,6 +53,7 @@ sort: by_weight
 不需要	bu xu yao	999999
 不也	bu ye	999999
 草	cao	9999999
+侧键	ce jian	99999
 差分	cha fen	999999
 查分	cha fen	9999
 查文档	cha wen dang	9999
@@ -65,6 +66,7 @@ sort: by_weight
 诚意	cheng yi	999999
 吃的	chi de	999999
 吃啥	chi sha	999999
+赤铁石	chi tie shi	99
 重定向	chong ding xiang	89999
 臭鱼烂虾	chou yu lan xia	99999
 传值	chuan zhi	9999
@@ -157,6 +159,7 @@ sort: by_weight
 厚底	hou di	999999
 后文	hou wen	999999
 候选项	hou xuan xiang	999999
+互不关联	hu bu guan lian	9
 互斥	hu chi	99999
 华东	hua dong	999999
 花了	hua le	999999
@@ -201,6 +204,7 @@ sort: by_weight
 简评	jian ping	999999
 降序	jiang xu	999999
 降智	jiang zhi	999999
+椒麻	jiao ma	999999
 基操	jicao	999999
 截胡	jie hu	999999
 仅限	jin xian	999999
@@ -258,6 +262,7 @@ sort: by_weight
 吗	ma	999999
 嘛 	ma	80000
 码 	ma	20000
+没法	mei fa	999999
 没改	mei gai	999999
 没讲	mei jiang	9000
 没开	mei kai	999999
@@ -348,6 +353,7 @@ sort: by_weight
 升序	sheng xu	999999
 是的	shi de	999999
 试过了	shi guo le	999999
+侍酒	shi jiu	995
 史莱姆	shi lai mu	9999999
 试了下	shi le xia	999999
 失了智	shi le zhi	999
@@ -523,8 +529,10 @@ sort: by_weight
 长草	zhang cao	999
 找不到	zhao bu dao	999999
 找了	zhao le	999999
+这才	zhe cai	999999
 折叠屏	zhe die ping	99999
 这玩意	zhe wan yi	999999
+这也	zhe ye	999999
 这只是	zhe zhi shi	999999
 针不辍	zhen bu chuo	999999
 振荡	zhen dang	999999
