@@ -43,6 +43,7 @@ sort: by_weight
 不兼容	bu jian rong	999999
 不介意	bu jie yi	999999
 补课班	bu ke ban	8999
+不聊了	bu liao le	99999
 补全	bu quan	999999
 不容易	bu rong yi	999999
 不是	bu shi	9999999
@@ -227,6 +228,8 @@ sort: by_weight
 卡死	ka si	999999
 开卷考	kai juan kao	999999
 开题	kai ti	99999
+看成	kan cheng	999999
+堪称	kan cheng	9999
 看番	kan fan	999999
 课设	ke she	8888
 科研	ke yan	9999
@@ -245,6 +248,7 @@ sort: by_weight
 戾气	li qi	50000
 立直	li zhi	200
 立直棒	li zhi bang	999999
+例子	li zi	999999
 联机	lian ji	999999
 量级	liang ji	99999
 亮机	liang ji	59999
@@ -262,6 +266,7 @@ sort: by_weight
 轮播	lun bo	9999
 萝莉	luo li	50000
 落絮	luo xu	999999
+略过	lve guo	999999
 吗	ma	999999
 嘛 	ma	80000
 码 	ma	20000
@@ -403,6 +408,7 @@ sort: by_weight
 推出	tui chu	99999
 哇	wa	9999999
 五瓦	wa	99
+外部库	wai bu ku	999999
 外放	wai fang	99999
 弯弯绕绕	wan wan rao rao	999999
 玩意	wan yi	999999
@@ -522,6 +528,7 @@ sort: by_weight
 原题	yuan ti	999999
 原味鸡	yuan wei ji	999999
 云备份	yun bei fen	999999
+云服务	yun fu wu	999999
 运维	yun wei	999999
 运维	yun wei	99999
 韵味	yun wei	50000
