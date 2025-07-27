@@ -74,6 +74,7 @@ sort: by_weight
 传值	chuan zhi	9999
 纯	chun	999999
 词频	ci pin	70000
+次卧	ci wo	99999
 磁轴	ci zhou	8888
 大版本	da ban ben	999999
 达到	da dao	999999
@@ -214,6 +215,7 @@ sort: by_weight
 椒麻	jiao ma	999999
 基操	jicao	999999
 截胡	jie hu	999999
+筋头巴脑	jin tou ba nao	999999
 仅限	jin xian	999999
 尽显	jin xian	999
 禁止	jin zhi	999999
@@ -242,6 +244,7 @@ sort: by_weight
 口语化	kou yu hua	9999
 快递站	kuai di zhan	99999
 快乐食间	kuai le shi jian	99
+窥见	kui jian	999999
 老早	lao zao	999999
 了	le	999999
 樂	le	999999
@@ -312,6 +315,7 @@ sort: by_weight
 内射	nei she	9999
 内设	nei she	350
 你去	ni qu	999999
+你群	ni qun	999
 你校	ni xiao	999999
 酿成大祸	niang cheng da huo	9999
 牛客	niu ke	9999
@@ -327,6 +331,9 @@ sort: by_weight
 评论区	ping lun qu	999999
 谱面	pu mian	999999
 其	qi	999999
+其实	qi shi	9999999
+歧视	qi shi	99999
+气势	qi shi	99990
 起止	qi zhi	50
 前端	qian duan	999999
 前后端	qian hou duan	99999
@@ -448,6 +455,7 @@ sort: by_weight
 仙术杯	xian shu bei	99
 闲鱼	xian yu	999999
 相同	xiang tong	99999
+相同条件	xiang tong tiao jian	999999
 相性	xiang xing	99999
 响应	xiang ying	999999
 相应	xiang ying	50000
@@ -577,6 +585,7 @@ sort: by_weight
 注释	zhu shi	999999
 注视	zhu shi	99999
 主食	zhu shi	59999
+主卧	zhu wo	99999
 注音	zhu yin	999999
 装个	zhuang ge	1000
 桌面端	zhuo mian duan	999999

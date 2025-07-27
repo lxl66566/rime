@@ -65,6 +65,7 @@ Apple	apple
 Clash	clash
 Linux	linux
 MySQL	mysql
+Nginx	nginx
 NixOS	nixos	999999
 Pixel	pixel
 Stash	stash
