@@ -175,6 +175,7 @@ sort: by_weight
 花了	hua le	999999
 话说	hua shuo	9999999
 华硕	hua shuo	999
+还原点	huan yuan dian	999
 黄桃	huang tao	999999
 会啊	hui a	999999
 回来了	hui lai le	9999
@@ -219,6 +220,7 @@ sort: by_weight
 基操	jicao	999999
 截胡	jie hu	999999
 筋头巴脑	jin tou ba nao	999999
+进系统	jin xi tong	999999
 仅限	jin xian	999999
 尽显	jin xian	999
 禁止	jin zhi	999999
@@ -381,6 +383,7 @@ sort: by_weight
 史莱姆	shi lai mu	9999999
 试了下	shi le xia	999999
 失了智	shi le zhi	999
+试没试	shi mei shi	99
 时停	shi ting	999999
 使我	shi wo	999999
 是一个	shi yi ge	999999
@@ -537,6 +540,7 @@ sort: by_weight
 鱿鱼圈	you yu quan	99999
 有栈协程	you zhan xie cheng	999999
 余额宝	yu e bao	999999
+预发	yu fa	99999
 余数	yu shu	999999
 原谅我	yuan liang wo	999
 原神	yuan shen	999999
@@ -590,6 +594,8 @@ sort: by_weight
 注视	zhu shi	99999
 主食	zhu shi	59999
 主卧	zhu wo	99999
+主页	zhu ye	999999
+主业	zhu ye	99999
 注音	zhu yin	999999
 装个	zhuang ge	1000
 桌面端	zhuo mian duan	999999
