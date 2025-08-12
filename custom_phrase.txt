@@ -47,6 +47,7 @@ CSS	css
 GBK	gbk
 git	git	999999
 iOS	ios
+key	key
 Mac	mac
 SQL	sql
 bash	bash	999999
@@ -76,6 +77,7 @@ Stash	stash
 Surge	surge
 Swift	swift
 UTF-8	utfba
+value	value
 Wi-Fi	wifi
 X-Ray	xray
 Docker	docker

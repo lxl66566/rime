@@ -19,6 +19,7 @@ sort: by_weight
 白毛	bai mao	4000
 办公网	ban gong wang	999999
 办宽带	ban kuan dai	99999
+褒贬不一	bao bian bu yi	999999
 爆仓	bao cang	999999
 报复	bao fu	999999
 饱腹	bao fu	999
@@ -33,6 +34,7 @@ sort: by_weight
 本质上	ben zhi shang	999999
 哔哔	bi bi	999999
 哔哩哔哩	bi li	9990
+变多	bian duo	999999
 变量名	bian liang ming	999999
 编译	bian yi	999999
 变异	bian yi	8000
@@ -500,6 +502,7 @@ sort: by_weight
 钥匙	yao shi	99999
 也	ye	999999
 也算	ye suan	999999
+业务方	ye wu fang	999999
 已存在	yi cun zai	9999
 移动	yi dong	999999
 移动端	yi dong duan	999999
@@ -588,6 +591,8 @@ sort: by_weight
 指导	zhi dao	3333
 知乎	zhi hu	999999
 制卡	zhi ka	88
+只能	zhi neng	999999
+智能	zhi neng	9999
 止盈	zhi ying	999
 至于	zhi yu	999999
 治愈	zhi yu	999999
