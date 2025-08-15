@@ -89,6 +89,7 @@ sort: by_weight
 大满足	da man zu	999999
 大冒险	da mao xian	999999
 大模型	da mo xing	999999
+大失败	da shi bai	999999
 大小核	da xiao he	999999
 大赢特赢	da ying te ying	999999
 大语言	da yu yan	99999
@@ -255,6 +256,7 @@ sort: by_weight
 快递站	kuai di zhan	99999
 快乐食间	kuai le shi jian	99
 窥见	kui jian	999999
+来点	lai dian	999999
 老早	lao zao	999999
 了	le	999999
 樂	le	999999
@@ -286,6 +288,9 @@ sort: by_weight
 吗	ma	999999
 嘛 	ma	80000
 码 	ma	20000
+卖家	mai jia	999999
+买家	mai jia	999998
+没懂	mei dong	999999
 没法	mei fa	999999
 没改	mei gai	999999
 没讲	mei jiang	9000
@@ -377,6 +382,7 @@ sort: by_weight
 三食堂	san shi tang	999
 沙鹰	sha ying	999999
 删了	shan le	999999
+上新闻	shang xin wen	99999
 身兼多职	shen jian duo zhi	99
 声明	sheng ming	999999
 生命	sheng ming	50000
@@ -475,6 +481,7 @@ sort: by_weight
 笑掉	xiao diao	999999
 小鹤双拼	xiao he shuang pin	999999
 小红书	xiao hong shu	99999
+小黄鱼	xiao huang yu	999999
 小姐姐	xiao jie jie	999999
 小时	xiao shi	999999
 消失	xiao shi	50000
@@ -574,6 +581,7 @@ sort: by_weight
 找了	zhao le	999999
 这才	zhe cai	999999
 折叠屏	zhe die ping	99999
+这就	zhe jiu	999999
 这玩意	zhe wan yi	999999
 这也	zhe ye	999999
 这只是	zhe zhi shi	999999
