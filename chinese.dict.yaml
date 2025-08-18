@@ -10,6 +10,7 @@ import_tables:
   - dicts/absx # 我的手记词库
   - dicts/absx-formal # 我的初高中个人词库
   - dicts/absx-personal # 我的人名与专业名词记录，如果你需要使用我的词库，请删除此行。
+  - dicts/emoji # 我常用的 emoji
 
   # 覆盖词频
   - dicts/simp # 最小拼音词典

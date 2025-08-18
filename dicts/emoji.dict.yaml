@@ -1,0 +1,33 @@
+# Rime dictionary
+# encoding: utf-8
+# 我个人常用的 emoji
+# 详情：https://github.com/lxl66566/rime
+
+---
+name: absx
+version: "2025-08-17"
+sort: by_weight
+...
+
+😁	emoji	200000
+😅	emoji	100000
+😄	emoji	91000
+🤣	emoji	90000
+😝	emoji	80000
+🤔	emoji	70000
+😭	emoji	60000
+🤯	emoji	50000
+🥰	emoji	40000
+🤡	emoji	30000
+🤮	emoji	20000
+🤗	emoji	10000
+🤨	emoji	9000
+😓	emoji	8000
+😡	emoji	7000
+😂	emoji	6000
+😈	emoji	5000
+💩	emoji	4000
+🥵	emoji	3000
+👻	emoji	2000
+🧐	emoji	1000
+😰	emoji	900
