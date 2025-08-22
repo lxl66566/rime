@@ -67,6 +67,7 @@ rust	rust	999999
 Rust	rust
 Xbox	xbox
 Apple	apple
+Cargo	cargo
 Clash	clash
 Linux	linux
 MySQL	mysql

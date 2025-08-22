@@ -101,6 +101,7 @@ sort: by_weight
 到岗	dao gang	8999
 倒是	dao shi	999999
 到时候	dao shi hou	999999
+道心	dao xin	999
 打字	dazi	999999
 的	de	999999
 等不到	deng bu dao	99999
@@ -377,6 +378,7 @@ sort: by_weight
 软塌塌	ruan ta ta	99999
 洒洒水	sa sa shui	999999
 塞牙	sai ya	999999
+三方库	san fang ku	999999
 三件套	san jian tao	9999
 散片	san pian	999999
 三食堂	san shi tang	999
@@ -534,7 +536,9 @@ sort: by_weight
 以下	yi xia	50000
 一下午	yi xia wu	999999
 音游	yi yong	999999
-一直	yi zhi	99999
+一直	yi zhi	999999
+已知	yi zhi	99999
+一致	yi zhi	99990
 引体	yin ti	999999
 饮用水	yin yong shui	999999
 音游	yin you	999999
