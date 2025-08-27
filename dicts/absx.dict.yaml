@@ -170,6 +170,8 @@ sort: by_weight
 龟速	gui su	9999
 硅脂	gui zhi	999999
 还以为	hai yi wei	999999
+好吗	hao ma	999999
+号码	hao ma	909999
 好早	hao zao	99999
 横评	heng ping	999999
 红温	hong wen	999999
@@ -347,6 +349,8 @@ sort: by_weight
 评论区	ping lun qu	999999
 谱面	pu mian	999999
 其	qi	999999
+气氛	qi fen	999999
+气愤	qi fen	99999
 其实	qi shi	9999999
 歧视	qi shi	99999
 气势	qi shi	99990
@@ -447,6 +451,7 @@ sort: by_weight
 未读	wei du	40000
 未敢	wei gan	99999
 未经测试	wei jing ce shi	99
+未授权	wei shou quan	999999
 伪随机	wei sui ji	999999
 未完结	wei wan jie	9999
 微信	wei xin	999999
@@ -539,6 +544,7 @@ sort: by_weight
 一直	yi zhi	999999
 已知	yi zhi	99999
 一致	yi zhi	99990
+音高	yin gao	999999
 引体	yin ti	999999
 饮用水	yin yong shui	999999
 音游	yin you	999999
@@ -577,6 +583,7 @@ sort: by_weight
 暂存区	zan cun qu	999
 脏东西	zang dong xi	8999999
 早都	zao dou	999999
+造轮子	zao lun zi	999999
 摘花	zhai hua	999999
 占比	zhan bi	999999
 战损	zhan sun	999999
