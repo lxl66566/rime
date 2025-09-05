@@ -97,6 +97,7 @@ sort: by_weight
 逮着	dai zhe	9999
 但凡	dan fan	999999
 单反	dan fan	99999
+单位时间	dan wei shi jian	999999
 当时	dang shi	999999
 到岗	dao gang	8999
 倒是	dao shi	999999
@@ -283,6 +284,7 @@ sort: by_weight
 流向	liu xiang	10000
 录播	lu bo	999999
 乱炖	luan dun	99999
+乱放	luan fang	99
 乱交	luan jiao	50000
 轮播	lun bo	9999
 萝莉	luo li	50000
@@ -425,6 +427,7 @@ sort: by_weight
 算啥	suan sha	999999
 酸汤	suan tang	999999
 锁屏	suo pin	999999
+缩容	suo rong	9999
 太惨	tai can	99999
 太吵	tai chao	999999
 谈薪	tan xin	9999
@@ -436,6 +439,7 @@ sort: by_weight
 填报	tian bao	70000
 天下武功	tian xia wu gong	9999
 挺好用	ting hao yong	999999
+挺慢	ting man	899999
 挺满意	ting man yi	999999
 同一个	tong yi ge	999999
 吐槽	tu cao	999999
@@ -551,6 +555,7 @@ sort: by_weight
 硬控	ying kong	999999
 赢了	ying le	999999
 用	yong	999999
+咏唱	yong chang	999999
 用了	yong le	99999
 永乐	yong le	50
 有	you	999999
