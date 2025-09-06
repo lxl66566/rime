@@ -142,6 +142,7 @@ sort: by_weight
 分割	fen ge	999999
 分隔	fen ge	70000
 粉毛	fen mao	999999
+分线器	fen xian qi	999999
 封包	feng bao	999999
 风暴	feng bao	999995
 复辟	fu bi	99
@@ -264,6 +265,7 @@ sort: by_weight
 老早	lao zao	999999
 了	le	999999
 樂	le	999999
+乐呵乐呵	le he le he	999999
 累了	lei le	99999
 类名	lei ming	9999
 力气	li qi	999999
@@ -337,6 +339,7 @@ sort: by_weight
 你去	ni qu	999999
 你群	ni qun	999
 你校	ni xiao	999999
+年化	nian hua	99999
 酿成大祸	niang cheng da huo	9999
 牛客	niu ke	9999
 牛肋条	niu lei tiao	9999
@@ -377,6 +380,8 @@ sort: by_weight
 全拼	quan pin	999999
 全栈	quan zhan	999999
 群友	qun you	999999
+任务	ren wu	999999
+人物	ren wu	599999
 日轻	ri qing	999999
 入参	ru can	5000
 入坑	ru keng	999999
@@ -510,6 +515,7 @@ sort: by_weight
 选择器	xuan ze qi	9999
 薛定谔	xue ding e	999999
 学了	xue le	999999
+学妹	xue mei	999999
 学术性	xue shu xing	999999
 寻线仪	xun xian yi	999999
 押一付一	ya yi fu yi	99
@@ -617,6 +623,7 @@ sort: by_weight
 制卡	zhi ka	88
 只能	zhi neng	999999
 智能	zhi neng	9999
+知识盲区	zhi shi mang qu	999999
 止盈	zhi ying	999
 至于	zhi yu	999999
 治愈	zhi yu	999999
@@ -631,6 +638,7 @@ sort: by_weight
 主页	zhu ye	999999
 主业	zhu ye	99999
 注音	zhu yin	999999
+赚币	zhuan bi	999
 装个	zhuang ge	1000
 桌面端	zhuo mian duan	999999
 子弹	zi dan	999999
