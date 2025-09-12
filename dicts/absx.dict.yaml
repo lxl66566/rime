@@ -265,6 +265,7 @@ sort: by_weight
 老早	lao zao	999999
 了	le	999999
 樂	le	999999
+乐呵	le he	999999
 乐呵乐呵	le he le he	999999
 累了	lei le	99999
 类名	lei ming	9999
@@ -527,6 +528,7 @@ sort: by_weight
 也	ye	999999
 也算	ye suan	999999
 业务方	ye wu fang	999999
+以此类推	yi ci lei tui	999999
 已存在	yi cun zai	9999
 移动	yi dong	999999
 移动端	yi dong duan	999999
@@ -550,6 +552,7 @@ sort: by_weight
 一下	yi xia	999999
 以下	yi xia	50000
 一下午	yi xia wu	999999
+一血	yi xie	99999
 音游	yi yong	999999
 一直	yi zhi	999999
 已知	yi zhi	99999
