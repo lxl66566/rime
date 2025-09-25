@@ -23,6 +23,7 @@ sort: by_weight
 爆仓	bao cang	999999
 报复	bao fu	999999
 饱腹	bao fu	999
+保护期	bao hu qi	999999
 包浆	bao jiang	999999
 爆睡	bao shui	599
 爆汁	bao zhi	9999
@@ -253,6 +254,7 @@ sort: by_weight
 看成	kan cheng	999999
 堪称	kan cheng	9999
 看番	kan fan	999999
+可复用	ke fu yong	999999
 课设	ke she	8888
 科研	ke yan	9999
 可言	ke yan	9994
@@ -649,6 +651,7 @@ sort: by_weight
 子弹	zi dan	999999
 字典序	zi dian xu	999999
 总之	zong zhi	999999
+走吗	zou ma	99999
 最近邻	zui jin lin	999999
 做卫生	zuo wei sheng	99999
 作业站	zuo ye zhan	999999
