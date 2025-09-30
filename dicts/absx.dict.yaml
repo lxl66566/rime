@@ -138,6 +138,7 @@ sort: by_weight
 反杀	fan sha	999999
 泛用	fan yong	999999
 房补	fang bu	999999
+放行	fang xing	999999
 匪家	fei jia	999
 肥牛	fei niu	999999
 分代	fen dai	99
@@ -239,6 +240,8 @@ sort: by_weight
 禁止	jin zhi	999999
 精钢	jing gang	99999
 惊喜	jing xi	999999
+镜像	jing xiang	999999
+景象	jing xiang	99999
 静置	jing zhi	999
 巨根	ju gen	99999
 句末	ju muo
@@ -363,6 +366,7 @@ sort: by_weight
 其实	qi shi	9999999
 歧视	qi shi	99999
 气势	qi shi	99990
+启示	qi shi	9999
 起止	qi zhi	50
 前端	qian duan	999999
 前后端	qian hou duan	99999
@@ -400,6 +404,7 @@ sort: by_weight
 三食堂	san shi tang	999
 沙鹰	sha ying	999999
 删了	shan le	999999
+↑	shang	999
 上新闻	shang xin wen	99999
 身兼多职	shen jian duo zhi	99
 声明	sheng ming	999999
@@ -433,6 +438,8 @@ sort: by_weight
 私货	si huo	8000
 思路	si lu	999999
 四食堂	si shi tang	999
+死锁	si suo	999999
+思索	si suo	9999
 算力	suan li	9999999
 算啥	suan sha	999999
 酸汤	suan tang	999999
@@ -485,6 +492,7 @@ sort: by_weight
 洗盘子	xi pan zi	10000
 洗碗	xi wan	999999
 洗洗睡	xi xi shui	99999
+↓	xia	999
 下标	xia biao	999999
 下表	xia biao	99999
 下饭	xia fan	999999
@@ -493,6 +501,7 @@ sort: by_weight
 限流	xian liu	999999
 仙术杯	xian shu bei	99
 闲鱼	xian yu	999999
+相对于	xiang dui yu	999999
 详情	xiang qing	999999
 相同	xiang tong	99999
 相同条件	xiang tong tiao jian	999999
@@ -556,6 +565,7 @@ sort: by_weight
 一下	yi xia	999999
 以下	yi xia	50000
 一下午	yi xia wu	999999
+一些	yi xie	9999999
 一血	yi xie	99999
 音游	yi yong	999999
 一直	yi zhi	999999
@@ -573,6 +583,7 @@ sort: by_weight
 永乐	yong le	50
 有	you	999999
 又	you	50000
+→	you	999
 有迹可循	you ji ke xun	999999
 有吗	you ma	999999
 有吗	you ma	999999
@@ -653,5 +664,6 @@ sort: by_weight
 总之	zong zhi	999999
 走吗	zou ma	99999
 最近邻	zui jin lin	999999
+←	zuo	999
 做卫生	zuo wei sheng	99999
 作业站	zuo ye zhan	999999
