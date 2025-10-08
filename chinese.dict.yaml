@@ -18,7 +18,8 @@ import_tables:
 
   - dicts/zhwiki- # 维基百科精简
   - dicts/CEDICT # CEDICT
-  - dicts/Galgame
+  - dicts/galgame
+  - dicts/galgame_name
 
   - dicts/thuocl_animal # 动物
   - dicts/thuocl_caijing # 财经
