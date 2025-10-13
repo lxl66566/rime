@@ -9,6 +9,7 @@ version: "2024-11-21"
 sort: by_weight
 ...
 
+银装素裹 yin zhuang su guo	999999
 阿苯达唑	a ben da cuo	999999
 爱心屋	ai xin wu	999999
 吧	ba	999999
@@ -50,6 +51,7 @@ sort: by_weight
 不兼容	bu jian rong	999999
 不介意	bu jie yi	999999
 补课班	bu ke ban	8999
+不例外	bu li wai	99999999
 不聊了	bu liao le	99999
 补全	bu quan	999999
 不容易	bu rong yi	999999
@@ -608,6 +610,7 @@ sort: by_weight
 原生	yuan sheng	999999
 原题	yuan ti	999999
 原味鸡	yuan wei ji	999999
+原先	yuan xian	999999
 云备份	yun bei fen	999999
 云服务	yun fu wu	999999
 运维	yun wei	999999
