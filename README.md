@@ -38,7 +38,8 @@ git clone https://github.com/lxl66566/rime.git --recursive
 - Windows：`C:\Users\<user_name>\AppData\Roaming\Rime`
 - Andriod（fcitx5 for Andriod）：`/storage/emulated/0/Android/data/org.fcitx.fcitx5.android/files/data/rime`
 - Andriod（同文输入法）：自定义
-  - 当然，在 Android 上用 git **非常麻烦**（需要 root，并且 termux 要玩 git 简直是地狱级难度），建议直接把整个配置文件夹从电脑上拷过去。
+
+当然，在 Android 上用 git **非常麻烦**（需要 root，并且 termux 要玩 git 简直是地狱级难度），建议直接把整个配置文件夹从电脑上拷过去。
 
 第三步，删除本人的私人词库：删除 `dicts/absx-personal.dict.yaml.zst.enc`，并在 `chinese.dict.yaml` 里删除该词库对应条目。我的私人词库使用 [git-simple-encrypt](https://github.com/lxl66566/git-simple-encrypt) 加密，密码为复杂型。
 

@@ -9,7 +9,6 @@ version: "2024-11-21"
 sort: by_weight
 ...
 
-银装素裹 yin zhuang su guo	999999
 阿苯达唑	a ben da cuo	999999
 爱心屋	ai xin wu	999999
 吧	ba	999999
@@ -57,12 +56,14 @@ sort: by_weight
 不容易	bu rong yi	999999
 不是	bu shi	9999999
 不适合	bu shi he	999999
+不太熟	bu tai shu	999999
 不玩了	bu wan le	999999
 不希望	bu xi wang	999999
 不新鲜	bu xin xian	99999
 不需要	bu xu yao	999999
 不也	bu ye	999999
 草	cao	9999999
+测好	ce hao	999
 侧键	ce jian	99999
 差分	cha fen	999999
 查分	cha fen	9999
@@ -125,6 +126,8 @@ sort: by_weight
 都有	dou you	999999
 独立	du li	999999
 独立开发	du li kai fa	999999
+独自	du zi	999999
+肚子	du zi	999990
 断肢	duan zhi	9999
 对的	dui de	99999
 对齐	dui qi	999999
@@ -180,6 +183,7 @@ sort: by_weight
 好吗	hao ma	999999
 号码	hao ma	909999
 好早	hao zao	99999
+合适	he shi	9999999
 横评	heng ping	999999
 红温	hong wen	999999
 厚底	hou di	999999
@@ -220,6 +224,7 @@ sort: by_weight
 记为	ji wei	99
 寄修	ji xiu	999999
 及以上	ji yi shang	999999
+加白	jia bai	999
 家宽	jia kuan	9999
 嘉立创	jia li chuang	9999999
 假设	jia she	9999999
@@ -309,6 +314,7 @@ sort: by_weight
 吗	ma	999999
 嘛 	ma	80000
 码 	ma	20000
+马丁格尔	ma ding ge er	999999
 卖家	mai jia	999999
 买家	mai jia	999998
 没懂	mei dong	999999
@@ -467,6 +473,7 @@ sort: by_weight
 挺好用	ting hao yong	999999
 挺慢	ting man	899999
 挺满意	ting man yi	999999
+通话	tong hua	999999
 同一个	tong yi ge	999999
 吐槽	tu cao	999999
 退出	tui chu	999999
@@ -584,6 +591,7 @@ sort: by_weight
 引体	yin ti	999999
 饮用水	yin yong shui	999999
 音游	yin you	999999
+银装素裹	yin zhuang su guo	999999
 硬控	ying kong	999999
 赢了	ying le	999999
 用	yong	999999
@@ -594,6 +602,7 @@ sort: by_weight
 又	you	50000
 →	you	999
 有迹可循	you ji ke xun	999999
+有来有回	you lai you hui	999999
 有吗	you ma	999999
 有吗	you ma	999999
 有权限	you quan xian	9999
