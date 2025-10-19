@@ -23,15 +23,15 @@ switches:
   - name: traditionalization
     # reset: 0 # 默认状态: 0 简体 1 繁体
     states: [简, 繁]
-  - name: emoji_suggestion
-    # reset: 1 # 默认状态: 0 关闭 1 开启
-    states: [🈚️️, 🈶️]
+  # - name: emoji_suggestion
+  #   # reset: 1 # 默认状态: 0 关闭 1 开启
+  #   states: [🈚️️, 🈶️]
 
 engine:
   processors:
     - ascii_composer # Windows 用户请解除此行注释，否则将会无法切换到英文输入
     - recognizer
-    - lua_processor@select_character # lua 选词扩展，如需关闭请注释
+    -  # lua_processor@select_character # lua 选词扩展，如需关闭请注释
     - key_binder
     - speller
     - selector
@@ -51,7 +51,7 @@ engine:
     - table_translator@custom_phrase # 用户自定义词典
     - script_translator
   filters:
-    - simplifier@emoji_suggestion
+    # - simplifier@emoji_suggestion
     - simplifier@traditionalize # 简繁转化
     - uniquifier # 去重
     # - lua_filter@long_phrase_first # 最长词组和单字在先
@@ -63,10 +63,10 @@ traditionalize:
   opencc_config: s2t.json # s2t.json | s2hk.json | s2tw.json | s2twp.json
   tips: none # 转换提示: all 显示 | char 仅单字显示 | none 不显示。
 
-emoji_suggestion:
-  opencc_config: emoji.json
-  option_name: emoji_suggestion
-  tips: false
+# emoji_suggestion:
+#   opencc_config: emoji.json
+#   option_name: emoji_suggestion
+#   tips: false
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba/
@@ -135,7 +135,7 @@ speller:
 
 translator:
   dictionary: chinese
-  contextual_suggestions: true
+  contextual_suggestions: false
   enable_completion: false
   max_homophones: 7
 
@@ -144,6 +144,8 @@ translator:
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
     # - xform/ // # 去掉上屏字符间空格
+
+  enable_user_dict: false
 
 grammar:
   language: zh-hans-t-essay-bgw
@@ -162,5 +164,5 @@ custom_phrase:
   user_dict: custom_phrase
   db_class: stabledb
   enable_completion: false
-  enable_sentence: true
+  enable_sentence: false
   initial_quality: 1

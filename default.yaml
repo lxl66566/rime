@@ -15,7 +15,7 @@ switcher:
     - full_shape
     - ascii_punct
     - traditionalization
-    - emoji_suggestion
+    # - emoji_suggestion
   fold_options: true
   abbreviate_options: true
   option_list_separator: "/"
@@ -28,6 +28,7 @@ punctuator:
     __include: lufs_symbols:/punctuator/full_shape
   half_shape:
     __include: lufs_symbols:/punctuator/half_shape
+  digit_separators: ""
 
 recognizer:
   patterns:

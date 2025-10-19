@@ -2,7 +2,9 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/lxl66566/rime)
 
-自用 rime 配置：fork 自 <https://github.com/LufsX/rime> ，并添加自己的设置，方案，词库。Rime 的部署教程网上到处都是，我这里就不说得太详细了。
+自用 rime 配置：fork 自 <https://github.com/LufsX/rime> ，并爆改设置，方案，词库，包含了[我个人的大量习惯](#我的习惯)，仅供参考，不建议直接使用。
+
+Rime 的部署教程网上到处都是，我这里就不说得太详细了。
 
 本配置支持的方案（切换方案请按 F1 键）：
 
@@ -54,5 +56,12 @@ sed -i '/- dicts\/absx-personal/d' "chinese.dict.yaml"
 - 每次更改配置后需要 _重新部署_ 才会生效。
 - 更改词库可以用 vscode + [Rime formatter](https://github.com/lxl66566/rime-formatter)，我自己写的，非常好用。
 - 本配置已经包含了我做的几个其他特定领域词库：[rime-dict2](https://github.com/lxl66566/rime-dict2)。
-- 我使用 git 在多设备之间同步词库；这种方法忽略了 userdb，因此我尽可能将我的习惯手动记录到 [absx.dict.yaml](dicts/absx.dict.yaml) 以保持同步。
-  - 不使用官方同步功能的原因是我不太信任第三方的同步服务，然后 syncthing 又[很难用](https://t.me/withabsolutex/2090)。
+
+## 我的习惯与更改
+
+- 禁止自动建议 emoji。如果我要打 emoji，我会在拼音下输入 `emoji` 后手动选择。（配置：`dicts/emoji.dict.yaml`）
+- 在数字后输入全角符号，不要自动转换为半角。（配置：`lufs_symbols.yaml punctuator/digit_separators`，[相关 issue](https://github.com/rime/librime/issues/972)）
+- 禁止上下文自动建议：质量太差了。（配置：`enable_sentence: false`，[相关 issue](https://github.com/rime/home/issues/1133)）
+- 禁用 userdb 个人词库：我选择将我的词语权重手动记录到 [dicts/absx.dict.yaml](dicts/absx.dict.yaml)、dicts/absx-personal.dict.yaml 和 [custom_phrase.txt](custom_phrase.txt)，通过 git 同步。（配置：`translator/enable_user_dict: false`，[相关 issue](https://github.com/rime/weasel/issues/1290)）
+  - 我不太信任第三方的同步服务，然后 syncthing 又[很难用](https://t.me/withabsolutex/2090)。
+  - 我个人不喜欢历史词频决定权重的方式。

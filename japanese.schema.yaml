@@ -84,6 +84,7 @@ translator:
     - "xlit|q|ー|"
   preedit_format:
     - "xlit|q|ー|"
+  enable_user_dict: false
 
 putonghua_to_kanji_lookup:
   tag: putonghua_to_kanji_lookup
