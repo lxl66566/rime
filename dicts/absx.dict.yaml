@@ -139,6 +139,7 @@ sort: by_weight
 二刷	er shua	999999
 发给我	fa gei wo	9999999
 发给我	fa gei wo	9999
+返回码	fan hui ma	999999
 翻牌	fan pai	99999
 反杀	fan sha	999999
 泛用	fan yong	999999
@@ -150,11 +151,16 @@ sort: by_weight
 分割	fen ge	999999
 分隔	fen ge	70000
 粉毛	fen mao	999999
+分桶	fen tong	9999
 分线器	fen xian qi	999999
 封包	feng bao	999999
 风暴	feng bao	999995
 复辟	fu bi	99
 赋分	fu fen	999999
+符合	fu he	999999
+复合	fu he	99999
+负荷	fu he	99990
+附和	fu he	9998
 附身	fu shen	999
 复试	fu shi	99999
 负相关	fu xiang guan	999999
@@ -485,6 +491,7 @@ sort: by_weight
 弯弯绕绕	wan wan rao rao	999999
 玩意	wan yi	999999
 万一	wan yi	50000
+维度	wei du	999999
 未读	wei du	40000
 未敢	wei gan	99999
 未经测试	wei jing ce shi	99
@@ -656,6 +663,10 @@ sort: by_weight
 知道	zhi dao	999999
 直到	zhi dao	50000
 指导	zhi dao	3333
+指定	zhi ding	999999
+制定	zhi ding	99999
+置顶	zhi ding	99998
+制订	zhi ding	9999
 知乎	zhi hu	999999
 制卡	zhi ka	88
 只能	zhi neng	999999
@@ -680,6 +691,7 @@ sort: by_weight
 桌面端	zhuo mian duan	999999
 子弹	zi dan	999999
 字典序	zi dian xu	999999
+字符串	zi fu chuan	999999
 总之	zong zhi	999999
 走吗	zou ma	99999
 最近邻	zui jin lin	999999
