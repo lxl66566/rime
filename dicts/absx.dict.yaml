@@ -50,6 +50,7 @@ sort: by_weight
 不兼容	bu jian rong	999999
 不介意	bu jie yi	999999
 补课班	bu ke ban	8999
+不可控	bu ke kong	999999
 不例外	bu li wai	99999999
 不聊了	bu liao le	99999
 补全	bu quan	999999
@@ -98,6 +99,8 @@ sort: by_weight
 大小核	da xiao he	999999
 大赢特赢	da ying te ying	999999
 大语言	da yu yan	99999
+带宽	dai kuan	999999
+贷款	dai kuan	9999
 带了	dai le	999999
 逮着	dai zhe	9999
 但凡	dan fan	999999
@@ -190,6 +193,7 @@ sort: by_weight
 号码	hao ma	909999
 好早	hao zao	99999
 合适	he shi	9999999
+何意味	he yi wei	99999
 横评	heng ping	999999
 红温	hong wen	999999
 厚底	hou di	999999
@@ -228,6 +232,8 @@ sort: by_weight
 积食	ji shi	99
 既视感	ji shi gan	999999
 记为	ji wei	99
+绩效	ji xiao	999999
+技校	ji xiao	9999
 寄修	ji xiu	999999
 及以上	ji yi shang	999999
 加白	jia bai	999
@@ -474,6 +480,8 @@ sort: by_weight
 填饱	tian bao	999999
 填报	tian bao	70000
 天材地宝	tian cai di bao	999999
+添加	tian jia	999999
+天价	tian jia	99999
 天下武功	tian xia wu gong	9999
 跳脸	tiao lian	999999
 挺好用	ting hao yong	999999
@@ -511,6 +519,7 @@ sort: by_weight
 无脑	wu nao	999999
 无糖	wu tang	999999
 无役	wu yi	99
+乌贼	wu zei	999999
 吸溜	xi liu	999999
 洗盘子	xi pan zi	10000
 洗碗	xi wan	999999
@@ -605,8 +614,6 @@ sort: by_weight
 咏唱	yong chang	999999
 用了	yong le	99999
 永乐	yong le	50
-有	you	999999
-又	you	50000
 →	you	999
 有迹可循	you ji ke xun	999999
 有来有回	you lai you hui	999999
@@ -639,6 +646,7 @@ sort: by_weight
 脏东西	zang dong xi	8999999
 早都	zao dou	999999
 造轮子	zao lun zi	999999
+凿墙	zao qiang	9999
 摘花	zhai hua	999999
 占比	zhan bi	999999
 战损	zhan sun	999999
@@ -655,6 +663,9 @@ sort: by_weight
 振荡	zhen dang	999999
 真高	zhen gao	99999
 真伤	zhen shang	999999
+真实	zhen shi	999999
+真是	zhen shi	999990
+阵势	zhen shi	89999
 整出来	zheng chu lai	99999
 整明白	zheng ming bai	999999
 正式工	zheng shi gong	999999
