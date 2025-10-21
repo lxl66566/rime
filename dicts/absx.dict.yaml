@@ -91,6 +91,7 @@ sort: by_weight
 大版本	da ban ben	999999
 达到	da dao	999999
 打得过	da de guo	100000
+打点	da dian	9999
 大肥猪	da fei zhu	999999
 大满足	da man zu	999999
 大冒险	da mao xian	999999
@@ -253,6 +254,8 @@ sort: by_weight
 基操	jicao	999999
 截胡	jie hu	999999
 桀桀桀	jie jie jie	999999
+接入	jie ru	999999
+介入	jie ru	99999
 筋头巴脑	jin tou ba nao	999999
 进系统	jin xi tong	999999
 仅限	jin xian	999999
@@ -274,6 +277,7 @@ sort: by_weight
 卡死	ka si	999999
 开卷考	kai juan kao	999999
 开题	kai ti	99999
+开源	kai yuan	999999
 看成	kan cheng	999999
 堪称	kan cheng	9999
 看番	kan fan	999999
@@ -402,6 +406,7 @@ sort: by_weight
 翘班	qiao ban	99
 切分	qie fen	999999
 切后排	qie hou pai	999999
+切流	qie liu	99999
 切图	qie tu	999999
 清除	qing chu	999999
 清楚	qing chu	999990
@@ -432,6 +437,8 @@ sort: by_weight
 ↑	shang	999
 上新闻	shang xin wen	99999
 身兼多职	shen jian duo zhi	99
+深色	shen se	999999
+神色	shen se	9999
 声明	sheng ming	999999
 生命	sheng ming	50000
 省赛	sheng sai	99999
@@ -455,6 +462,8 @@ sort: by_weight
 手速	shou su	999999
 熟了	shu le	999999
 数位板	shu wei ban	999999
+输血	shu xie	99
+数学	shu xue	9999999
 书源	shu yuan	10000
 双缝干涉	shuang feng gan she	999999
 睡了	shui le	9999999
@@ -465,6 +474,8 @@ sort: by_weight
 四食堂	si shi tang	999
 死锁	si suo	999999
 思索	si suo	9999
+素材	su cai	999999
+素菜	su cai	99999
 算力	suan li	9999999
 算啥	suan sha	999999
 酸汤	suan tang	999999
@@ -499,6 +510,9 @@ sort: by_weight
 弯弯绕绕	wan wan rao rao	999999
 玩意	wan yi	999999
 万一	wan yi	50000
+网关	wang guan	999999
+王冠	wang guan	99999
+网管	wang guan	9999
 维度	wei du	999999
 未读	wei du	40000
 未敢	wei gan	99999
@@ -581,6 +595,9 @@ sort: by_weight
 一个	yi ge	999999
 异格	yi ge	10000
 异或	yi huo	999999
+依赖	yi lai	999999
+以来	yi lai	999990
+一来	yi lai	9999
 一上午	yi shang wu	999999
 一时爽	yi shi shuang	999999
 一食堂	yi shi tang	999
@@ -703,8 +720,12 @@ sort: by_weight
 子弹	zi dan	999999
 字典序	zi dian xu	999999
 字符串	zi fu chuan	999999
+子句	zi ju	999999
+自举	zi ju	999990
 总之	zong zhi	999999
 走吗	zou ma	99999
+组件	zu jian	999999
+组建	zu jian	59999
 最近邻	zui jin lin	999999
 ←	zuo	999
 做卫生	zuo wei sheng	99999
