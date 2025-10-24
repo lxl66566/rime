@@ -36,6 +36,7 @@ sort: by_weight
 哔哔	bi bi	999999
 哔哩哔哩	bi li	9990
 变多	bian duo	999999
+变高	bian gao	999999
 变量名	bian liang ming	999999
 编译	bian yi	999999
 变异	bian yi	8000
@@ -183,6 +184,8 @@ sort: by_weight
 够了	gou le	9999999
 固源岩	gu yuan yan	9999
 挂了	gua le	999999
+怪怪	guai guai	999999
+乖乖	guai guai	9999
 怪猎	guai lie	999999
 管培	guan pei	9999
 管培生	guan pei sheng	9999
@@ -440,6 +443,7 @@ sort: by_weight
 删了	shan le	999999
 ↑	shang	999
 上新闻	shang xin wen	99999
+少有	shao you	999999
 身兼多职	shen jian duo zhi	99
 深色	shen se	999999
 神色	shen se	9999
@@ -460,8 +464,11 @@ sort: by_weight
 实在	shi zai	999999
 实在是	shi zai shi	99999
 手搓	shou cuo	9999
+手机	shou ji	999999
 收集	shou ji	999999
 手机	shou ji	999997
+收集	shou ji	99999
+首级	shou ji	9999
 兽交	shou jiao	999999
 手速	shou su	999999
 熟了	shu le	999999
@@ -547,6 +554,8 @@ sort: by_weight
 下表	xia biao	99999
 下饭	xia fan	999999
 下拉列表	xia la lie biao	999999
+下线	xia xian	999999
+下限	xia xian	999990
 瞎写	xia xie	999999
 限流	xian liu	999999
 仙术杯	xian shu bei	99
@@ -580,6 +589,8 @@ sort: by_weight
 行了	xing le	90000
 醒了	xing le	80000
 兴趣班	xing qu ban	9999
+虚表	xu biao	999999
+虚标	xu biao	999990
 选择器	xuan ze qi	9999
 薛定谔	xue ding e	999999
 学了	xue le	999999
@@ -730,6 +741,9 @@ sort: by_weight
 字符串	zi fu chuan	999999
 子句	zi ju	999999
 自举	zi ju	999990
+自慰	zi wei	999999
+滋味	zi wei	99999
+自卫	zi wei	99990
 总之	zong zhi	999999
 走吗	zou ma	99999
 组件	zu jian	999999
