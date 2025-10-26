@@ -29,6 +29,7 @@ sort: by_weight
 爆汁	bao zhi	9999
 背景	bei jing	999999
 北京	bei jing	99999
+倍率	bei lv	999999
 倍速	bei su	999999
 被我	bei wo	999999
 被窝	bei wo	9999
@@ -89,6 +90,8 @@ sort: by_weight
 词频	ci pin	70000
 次卧	ci wo	99999
 磁轴	ci zhou	8888
+存世	cun shi	999999
+存世量	cun shi liang	999999
 大版本	da ban ben	999999
 达到	da dao	999999
 打得过	da de guo	100000
@@ -170,6 +173,7 @@ sort: by_weight
 复试	fu shi	99999
 负相关	fu xiang guan	999999
 父元素	fu yuan su	999999
+改配置	gai pei zhi	999999
 感到	gan dao	999999
 刚	gang	99999
 搞个	gao ge	9999990
@@ -202,6 +206,7 @@ sort: by_weight
 横评	heng ping	999999
 红温	hong wen	999999
 厚底	hou di	999999
+后人	hou ren	999999
 后文	hou wen	999999
 候选项	hou xuan xiang	999999
 互不关联	hu bu guan lian	9
@@ -243,6 +248,7 @@ sort: by_weight
 及以上	ji yi shang	999999
 加白	jia bai	999
 家宽	jia kuan	9999
+加了	jia le	999999
 嘉立创	jia li chuang	9999999
 假设	jia she	9999999
 架设	jia she	9999
@@ -477,6 +483,7 @@ sort: by_weight
 收集	shou ji	99999
 首级	shou ji	9999
 兽交	shou jiao	999999
+首屏	shou ping	99999
 手速	shou su	999999
 熟了	shu le	999999
 数位板	shu wei ban	999999
