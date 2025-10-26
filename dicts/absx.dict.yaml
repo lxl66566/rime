@@ -177,6 +177,7 @@ sort: by_weight
 个人线	ge ren xian	9999
 格子	ge zi	2500
 更合适	geng he shi	999999
+工程实践	gong cheng shi jian	999999
 攻速	gong su	999999
 共通线	gong tong xian	99999
 共通线	gong tong xian	9999
@@ -273,6 +274,9 @@ sort: by_weight
 静置	jing zhi	999
 巨根	ju gen	99999
 句末	ju muo
+居中	ju zhong	999999
+聚众	ju zhong	99999
+举重	ju zhong	99998
 居中	ju zhong	500
 卷王	juan wang	99999
 卡顿	ka dun	9999999
@@ -337,6 +341,7 @@ sort: by_weight
 吗	ma	999999
 嘛 	ma	80000
 码 	ma	20000
+妈的	ma de	9999999
 马丁格尔	ma ding ge er	999999
 卖家	mai jia	999999
 买家	mai jia	999998
@@ -447,6 +452,8 @@ sort: by_weight
 身兼多职	shen jian duo zhi	99
 深色	shen se	999999
 神色	shen se	9999
+声道	sheng dao	999999
+省道	sheng dao	999
 声明	sheng ming	999999
 生命	sheng ming	50000
 省赛	sheng sai	99999
@@ -487,6 +494,7 @@ sort: by_weight
 思索	si suo	9999
 素材	su cai	999999
 素菜	su cai	99999
+溯源	su yuan	999999
 算力	suan li	9999999
 算啥	suan sha	999999
 酸汤	suan tang	999999
@@ -600,6 +608,8 @@ sort: by_weight
 押一付一	ya yi fu yi	99
 眼睛	yan jing	999999
 眼镜	yan jing	50000
+验证	yan zheng	999999
+炎症	yan zheng	99999
 要命	yao ming	99999
 要是	yao shi	999999
 钥匙	yao shi	99999
@@ -670,6 +680,8 @@ sort: by_weight
 原题	yuan ti	999999
 原味鸡	yuan wei ji	999999
 原先	yuan xian	999999
+原样	yuan yang	999999
+鸳鸯	yuan yang	9999
 云备份	yun bei fen	999999
 云服务	yun fu wu	999999
 运维	yun wei	999999
