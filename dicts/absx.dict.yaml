@@ -11,8 +11,6 @@ sort: by_weight
 
 阿苯达唑	a ben da cuo	999999
 爱心屋	ai xin wu	999999
-吧	ba	999999
-把	ba	999990
 把我	ba wo	99999
 把握	ba wo	5000
 摆烂	bai lan	999999
@@ -148,6 +146,7 @@ sort: by_weight
 发给我	fa gei wo	9999999
 发给我	fa gei wo	9999
 返回码	fan hui ma	999999
+反爬	fan pa	999999
 翻牌	fan pai	99999
 反杀	fan sha	999999
 泛用	fan yong	999999
@@ -182,6 +181,9 @@ sort: by_weight
 格子	ge zi	2500
 更合适	geng he shi	999999
 工程实践	gong cheng shi jian	999999
+攻击	gong ji	999999
+公鸡	gong ji	99999
+供给	gong ji	99990
 攻速	gong su	999999
 共通线	gong tong xian	99999
 共通线	gong tong xian	9999
@@ -284,6 +286,8 @@ sort: by_weight
 聚众	ju zhong	99999
 举重	ju zhong	99998
 居中	ju zhong	500
+橘子	ju zi	999999
+句子	ju zi	999998
 卷王	juan wang	99999
 卡顿	ka dun	9999999
 卡了	ka le	999999
@@ -397,6 +401,8 @@ sort: by_weight
 酿成大祸	niang cheng da huo	9999
 牛客	niu ke	9999
 牛肋条	niu lei tiao	9999
+哦哦	o o	999999
+噢噢	o o	999998
 披萨	pi sa	999999
 偏多	pian duo	99999
 偏特化	pian te hua	999999
@@ -450,6 +456,7 @@ sort: by_weight
 三件套	san jian tao	9999
 散片	san pian	999999
 三食堂	san shi tang	999
+沙糖橘	sha tang ju	999999
 沙鹰	sha ying	999999
 删了	shan le	999999
 ↑	shang	999
