@@ -24,6 +24,7 @@ sort: by_weight
 保护期	bao hu qi	999999
 包浆	bao jiang	999999
 爆睡	bao shui	599
+鲍伊猎刀	bao yi lie dao	999999
 爆汁	bao zhi	9999
 背景	bei jing	999999
 北京	bei jing	99999
@@ -274,6 +275,7 @@ sort: by_weight
 进系统	jin xi tong	999999
 仅限	jin xian	999999
 尽显	jin xian	999
+禁用	jin yong	999999
 禁止	jin zhi	999999
 精钢	jing gang	99999
 惊喜	jing xi	999999
@@ -441,6 +443,8 @@ sort: by_weight
 全篇	quan pian	999999
 全拼	quan pin	999999
 全栈	quan zhan	999999
+确实	que shi	999999
+缺失	que shi	999998
 群友	qun you	999999
 任务	ren wu	999999
 人物	ren wu	599999
@@ -638,6 +642,9 @@ sort: by_weight
 一个	yi ge	999999
 异格	yi ge	10000
 异或	yi huo	999999
+意见	yi jian	999999
+一键	yi jian	999990
+一件	yi jian	999989
 依赖	yi lai	999999
 以来	yi lai	999990
 一来	yi lai	9999
@@ -711,6 +718,8 @@ sort: by_weight
 凿墙	zao qiang	9999
 摘花	zhai hua	999999
 占比	zhan bi	999999
+展示	zhan shi	999999
+战士	zhan shi	99999
 战损	zhan sun	999999
 长草	zhang cao	999
 找不到	zhao bu dao	999999
