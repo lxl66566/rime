@@ -107,6 +107,7 @@ sort: by_weight
 贷款	dai kuan	9999
 带了	dai le	999999
 逮着	dai zhe	9999
+单测	dan ce	999999
 但凡	dan fan	999999
 单反	dan fan	99999
 单位时间	dan wei shi jian	999999
@@ -135,6 +136,7 @@ sort: by_weight
 独立开发	du li kai fa	999999
 独自	du zi	999999
 肚子	du zi	999990
+短时间	duan shi jian	999999
 断肢	duan zhi	9999
 对的	dui de	99999
 对齐	dui qi	999999
@@ -172,6 +174,7 @@ sort: by_weight
 附身	fu shen	999
 复试	fu shi	99999
 负相关	fu xiang guan	999999
+浮盈	fu ying	999999
 父元素	fu yuan su	999999
 改配置	gai pei zhi	999999
 感到	gan dao	999999
@@ -261,6 +264,8 @@ sort: by_weight
 简化	jian hua	999999
 捡垃圾	jian la ji	999999
 简评	jian ping	999999
+鉴权	jian quan	999999
+健全	jian quan	99999
 降序	jiang xu	999999
 降智	jiang zhi	999999
 椒麻	jiao ma	999999
@@ -302,12 +307,14 @@ sort: by_weight
 看成	kan cheng	999999
 堪称	kan cheng	9999
 看番	kan fan	999999
+可复现	ke fu xian	999999
 可复用	ke fu yong	999999
 课设	ke she	8888
 科研	ke yan	9999
 可言	ke yan	9994
 刻章	ke zhang	99
 空的	kong de	9999
+口吐白沫	kou tu bai mo	999999
 口语化	kou yu hua	9999
 快递站	kuai di zhan	99999
 快乐食间	kuai le shi jian	99
@@ -348,6 +355,7 @@ sort: by_weight
 乱交	luan jiao	50000
 轮播	lun bo	9999
 萝莉	luo li	50000
+啰嗦	luo suo	999999
 落絮	luo xu	999999
 略过	lve guo	999999
 吗	ma	999999
@@ -380,6 +388,10 @@ sort: by_weight
 墨水瓶	mo shui ping	25000
 摸一下	mo yi xia	8999
 暮年	mu nian	999999
+摸鱼	muo yu	999999
+魔芋	muo yu	99999
+墨鱼	muo yu	9999
+魔芋爽	muo yu shuang	999999
 那	na	999999
 哪	na	90000
 拿	na	50000
@@ -429,6 +441,8 @@ sort: by_weight
 潜逃	qian tao	9999
 前些天	qian xie tian	99989
 嵌字	qian zi	99999
+抢到	qiang dao	999999
+强盗	qiang dao	99999
 翘班	qiao ban	99
 切分	qie fen	999999
 切后排	qie hou pai	999999
@@ -442,10 +456,13 @@ sort: by_weight
 全连接	quan lian jie	999999
 全篇	quan pian	999999
 全拼	quan pin	999999
+全是	quan shi	9999999
+全市	quan shi	99999
 全栈	quan zhan	999999
 确实	que shi	999999
 缺失	que shi	999998
 群友	qun you	999999
+人机	ren ji	999999
 任务	ren wu	999999
 人物	ren wu	599999
 日轻	ri qing	999999
@@ -544,6 +561,7 @@ sort: by_weight
 五瓦	wa	99
 外部库	wai bu ku	999999
 外放	wai fang	99999
+玩家	wan jia	999999
 弯弯绕绕	wan wan rao rao	999999
 玩意	wan yi	999999
 万一	wan yi	50000
@@ -584,6 +602,12 @@ sort: by_weight
 下限	xia xian	999990
 瞎写	xia xie	999999
 限流	xian liu	999999
+显示	xian shi	999999
+现实	xian shi	999998
+限时	xian shi	999990
+现世	xian shi	999
+仙逝	xian shi	98
+仙食	xian shi	97
 仙术杯	xian shu bei	99
 闲鱼	xian yu	999999
 限制	xian zhi	999999
@@ -671,6 +695,8 @@ sort: by_weight
 已知	yi zhi	99999
 一致	yi zhi	99990
 音高	yin gao	999999
+隐式	yin shi	999999
+饮食	yin shi	999998
 引体	yin ti	999999
 饮用水	yin yong shui	999999
 音游	yin you	999999
