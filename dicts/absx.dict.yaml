@@ -103,6 +103,7 @@ sort: by_weight
 大小核	da xiao he	999999
 大赢特赢	da ying te ying	999999
 大语言	da yu yan	99999
+待发布	dai fa bu	999999
 带宽	dai kuan	999999
 贷款	dai kuan	9999
 带了	dai le	999999
@@ -173,6 +174,9 @@ sort: by_weight
 附和	fu he	9998
 附身	fu shen	999
 复试	fu shi	99999
+复现	fu xian	999999
+浮现	fu xian	99999
+付现	fu xian	5999
 负相关	fu xiang guan	999999
 浮盈	fu ying	999999
 父元素	fu yuan su	999999
@@ -222,6 +226,8 @@ sort: by_weight
 花了	hua le	999999
 话说	hua shuo	9999999
 华硕	hua shuo	999
+环节	huan jie	999999
+缓解	huan jie	99999
 还原点	huan yuan dian	999
 黄桃	huang tao	999999
 会啊	hui a	999999
@@ -267,6 +273,7 @@ sort: by_weight
 简评	jian ping	999999
 鉴权	jian quan	999999
 健全	jian quan	99999
+建议	jian yi	999999
 降序	jiang xu	999999
 降智	jiang zhi	999999
 椒麻	jiao ma	999999
@@ -288,6 +295,7 @@ sort: by_weight
 镜像	jing xiang	999999
 景象	jing xiang	99999
 静置	jing zhi	999
+久旱逢甘霖	jiu han feng gan lin	999999
 巨根	ju gen	99999
 句末	ju muo
 居中	ju zhong	999999
@@ -409,6 +417,9 @@ sort: by_weight
 内敛	nei lian	50000
 内射	nei she	9999
 内设	nei she	350
+你把	ni ba	999999
+你爸	ni ba	99999
+泥巴	ni ba	99998
 你去	ni qu	999999
 你群	ni qun	999
 你校	ni xiao	999999
@@ -653,6 +664,8 @@ sort: by_weight
 眼镜	yan jing	50000
 验证	yan zheng	999999
 炎症	yan zheng	99999
+样例	yang li	999999
+阳历	yang li	9999
 要命	yao ming	99999
 要是	yao shi	999999
 钥匙	yao shi	99999
@@ -812,5 +825,7 @@ sort: by_weight
 组建	zu jian	59999
 最近邻	zui jin lin	999999
 ←	zuo	999
+做完	zuo wan	999999
+昨晚	zuo wan	99999
 做卫生	zuo wei sheng	99999
 作业站	zuo ye zhan	999999
