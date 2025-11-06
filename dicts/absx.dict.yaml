@@ -81,6 +81,8 @@ sort: by_weight
 吃啥	chi sha	999999
 赤铁石	chi tie shi	99
 重定向	chong ding xiang	89999
+充实	chong shi	999999
+重试	chong shi	999997
 臭鱼烂虾	chou yu lan xia	99999
 出场率	chu chang lv	999999
 出师未捷	chu shi wei jie	999999
@@ -91,6 +93,7 @@ sort: by_weight
 磁轴	ci zhou	8888
 存世	cun shi	999999
 存世量	cun shi liang	999999
+错误码	cuo wu ma	999999
 大版本	da ban ben	999999
 达到	da dao	999999
 打得过	da de guo	100000
@@ -236,6 +239,7 @@ sort: by_weight
 混用	hun yong	99999
 活到最后	huo dao zui hou	99
 及	ji	999999
+几百行	ji bai hang	999999
 几点	ji dian	999999
 几分钟	ji fen zhong	999999
 寄寄	ji ji	950
@@ -498,6 +502,9 @@ sort: by_weight
 身兼多职	shen jian duo zhi	99
 深色	shen se	999999
 神色	shen se	9999
+神游	shen you	999999
+生成	sheng cheng	999999
+声称	sheng cheng	999998
 声道	sheng dao	999999
 省道	sheng dao	999
 声明	sheng ming	999999
@@ -510,6 +517,10 @@ sort: by_weight
 史莱姆	shi lai mu	9999999
 试了下	shi le xia	999999
 失了智	shi le zhi	999
+实例	shi li	999999
+示例	shi li	99999
+实力	shi li	99997
+视力	shi li	9999
 试没试	shi mei shi	99
 时停	shi ting	999999
 使我	shi wo	999999
@@ -598,6 +609,7 @@ sort: by_weight
 误工费	wu gong fei	999999
 无奖竞猜	wu jiang jing cai	999999
 无脑	wu nao	999999
+午睡	wu shui	999999
 无糖	wu tang	999999
 无役	wu yi	99
 乌贼	wu zei	999999
