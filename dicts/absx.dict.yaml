@@ -24,6 +24,7 @@ sort: by_weight
 保护期	bao hu qi	999999
 包浆	bao jiang	999999
 爆睡	bao shui	599
+爆体	bao ti	9999
 鲍伊猎刀	bao yi lie dao	999999
 爆汁	bao zhi	9999
 背景	bei jing	999999
@@ -75,6 +76,7 @@ sort: by_weight
 查资料	cha zi liao	999999
 长按	chang an	999999
 尝鲜	chang xian	999999
+炒币	chao bi	999999
 超大杯	chao da bei	999999
 超短篇	chao duan pian	99999
 超高校级	chao gao xiao ji	9999
@@ -129,6 +131,7 @@ sort: by_weight
 等会	deng hui	9999999
 等级	deng ji	999999
 登记	deng ji	999998
+等价物	deng jia wu	9999999
 等量	deng liang	999999
 登录	deng lu	999999
 等腰	deng yao	999999
@@ -138,6 +141,7 @@ sort: by_weight
 第四个	di si ge	999999
 低延迟	di yan chi	9999
 第一个	di yi ge	999999
+电商	dian shang	999999
 点一下	dian yi xia	9999
 东方绀珠传	dong fang gan zhu zhuan	999999
 都有	dou you	999999
@@ -192,6 +196,8 @@ sort: by_weight
 感到	gan dao	999999
 刚	gang	99999
 搞个	gao ge	9999990
+高情商	gao qing shang	999999
+搞完了	gao wan le	999999
 个	ge	999999
 个人线	ge ren xian	9999
 格子	ge zi	2500
@@ -279,16 +285,25 @@ sort: by_weight
 简单易用	jian dan yi yong	9999
 简化	jian hua	999999
 捡垃圾	jian la ji	999999
+建立	jian li	999999
+简历	jian li	999990
+尖利	jian li	9999
+建连	jian lian	999999
 简评	jian ping	999999
 鉴权	jian quan	999999
 健全	jian quan	99999
 建议	jian yi	999999
+降级	jiang ji	999999
 降序	jiang xu	999999
 降智	jiang zhi	999999
 椒麻	jiao ma	999999
 叫你	jiao ni	999999
 教你	jiao ni	99999
+校验	jiao yan	999999
+椒盐	jiao yan	99999
 基操	jicao	999999
+解法	jie fa	999999
+揭发	jie fa	99999
 截胡	jie hu	999999
 桀桀桀	jie jie jie	999999
 接入	jie ru	999999
@@ -572,6 +587,8 @@ sort: by_weight
 提出	ti chu	999999
 剔除	ti chu	99
 题解	ti jie	999999
+体量	ti liang	999999
+体谅	ti liang	99999
 提示词	ti shi ci	999999
 填饱	tian bao	999999
 填报	tian bao	70000
@@ -583,9 +600,12 @@ sort: by_weight
 挺好用	ting hao yong	999999
 挺慢	ting man	899999
 挺满意	ting man yi	999999
+停止	ting zhi	999999
+停滞	ting zhi	99999
 通话	tong hua	999999
 同一个	tong yi ge	999999
 吐槽	tu cao	999999
+退避	tui bi	999999
 退出	tui chu	999999
 推出	tui chu	99999
 哇	wa	9999999
@@ -693,6 +713,8 @@ sort: by_weight
 也	ye	999999
 也算	ye suan	999999
 业务方	ye wu fang	999999
+异常	yi chang	999999
+一场	yi chang	99999
 以此类推	yi ci lei tui	999999
 已存在	yi cun zai	9999
 移动	yi dong	999999
