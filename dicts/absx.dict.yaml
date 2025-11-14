@@ -59,6 +59,7 @@ sort: by_weight
 不容易	bu rong yi	999999
 不是	bu shi	9999999
 不适合	bu shi he	999999
+部署区	bu shu qu	999999
 不太熟	bu tai shu	999999
 不玩了	bu wan le	999999
 不希望	bu xi wang	999999
@@ -173,6 +174,8 @@ sort: by_weight
 分代	fen dai	99
 分割	fen ge	999999
 分隔	fen ge	70000
+分解	fen jie	999999
+分界	fen jie	9999
 粉毛	fen mao	999999
 分桶	fen tong	9999
 分线器	fen xian qi	999999
@@ -221,6 +224,10 @@ sort: by_weight
 归宿	gui su	999999
 龟速	gui su	9999
 硅脂	gui zhi	999999
+过时	guo shi	999999
+果实	guo shi	999998
+过世	guo shi	999990
+过失	guo shi	99999
 还以为	hai yi wei	999999
 好吗	hao ma	999999
 号码	hao ma	909999
@@ -258,8 +265,8 @@ sort: by_weight
 几块钱	ji kuai qian	99999
 寄了	ji le	999999
 急了	ji le	999998
-及其	ji qi	999999
-机器	ji qi	599999
+机器	ji qi	999999
+及其	ji qi	899999
 极其	ji qi	399999
 集齐	ji qi	299999
 即使	ji shi	999999
@@ -316,6 +323,8 @@ sort: by_weight
 禁止	jin zhi	999999
 精钢	jing gang	99999
 惊喜	jing xi	999999
+惊喜	jing xi	999999
+精细	jing xi	999990
 镜像	jing xiang	999999
 景象	jing xiang	99999
 静置	jing zhi	999
@@ -550,6 +559,8 @@ sort: by_weight
 实在	shi zai	999999
 实在是	shi zai shi	99999
 手搓	shou cuo	9999
+收回	shou hui	999999
+受贿	shou hui	999990
 手机	shou ji	999999
 收集	shou ji	999999
 手机	shou ji	999997
