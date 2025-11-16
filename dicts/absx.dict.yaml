@@ -35,6 +35,7 @@ sort: by_weight
 被窝	bei wo	9999
 本质上	ben zhi shang	999999
 哔哔	bi bi	999999
+比例	bi li	999999
 哔哩哔哩	bi li	9990
 变多	bian duo	999999
 变高	bian gao	999999
@@ -331,6 +332,8 @@ sort: by_weight
 久旱逢甘霖	jiu han feng gan lin	999999
 巨根	ju gen	99999
 句末	ju muo
+剧透	ju tou	999999
+巨头	ju tou	99999
 居中	ju zhong	999999
 聚众	ju zhong	99999
 举重	ju zhong	99998
@@ -695,6 +698,7 @@ sort: by_weight
 消消乐	xiao xiao le	999999
 校园卡	xiao yuan ka	999999
 校招	xiao zhao	999999
+协程	xie cheng	999999
 写代码	xie dai ma	999999
 写代码	xie dai ma	9999
 信工	xin gong	999999
