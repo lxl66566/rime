@@ -82,6 +82,9 @@ sort: by_weight
 超大杯	chao da bei	999999
 超短篇	chao duan pian	99999
 超高校级	chao gao xiao ji	9999
+超时	chao shi	999999
+超市	chao shi	999990
+潮湿	chao shi	99999
 抄作业	chao zuo ye	889999
 诚意	cheng yi	999999
 吃的	chi de	999999
@@ -121,6 +124,7 @@ sort: by_weight
 单测	dan ce	999999
 但凡	dan fan	999999
 单反	dan fan	99999
+单节点	dan jie dian	999999
 单位时间	dan wei shi jian	999999
 当时	dang shi	999999
 到岗	dao gang	8999
@@ -235,6 +239,8 @@ sort: by_weight
 好早	hao zao	99999
 合适	he shi	9999999
 何意味	he yi wei	99999
+黑五	hei wu	999999
+黑屋	hei wu	999990
 横评	heng ping	999999
 红温	hong wen	999999
 厚底	hou di	999999
@@ -694,6 +700,7 @@ sort: by_weight
 小红书	xiao hong shu	99999
 小黄鱼	xiao huang yu	999999
 小姐姐	xiao jie jie	999999
+小妙招	xiao miao zhao	999999
 小时	xiao shi	999999
 消失	xiao shi	50000
 笑死了	xiao si le	999999
