@@ -19,6 +19,7 @@ sort: by_weight
 办宽带	ban kuan dai	99999
 褒贬不一	bao bian bu yi	999999
 爆仓	bao cang	999999
+保持一致	bao chi yi zhi	999999
 报复	bao fu	999999
 饱腹	bao fu	999
 保护期	bao hu qi	999999
@@ -155,7 +156,9 @@ sort: by_weight
 独立开发	du li kai fa	999999
 独自	du zi	999999
 肚子	du zi	999990
+端内	duan nei	999999
 短时间	duan shi jian	999999
+端外	duan wai	999999
 断肢	duan zhi	9999
 对的	dui de	99999
 对齐	dui qi	999999
@@ -373,6 +376,7 @@ sort: by_weight
 快乐食间	kuai le shi jian	99
 窥见	kui jian	999999
 来点	lai dian	999999
+老年	lao nian	99999
 老早	lao zao	999999
 了	le	999999
 樂	le	999999
@@ -501,6 +505,7 @@ sort: by_weight
 抢到	qiang dao	999999
 强盗	qiang dao	99999
 抢饭	qiang fan	999999
+强鉴权	qiang jian quan	999999
 翘班	qiao ban	99
 切分	qie fen	999999
 切后排	qie hou pai	999999
@@ -675,6 +680,7 @@ sort: by_weight
 下线	xia xian	999999
 下限	xia xian	999990
 瞎写	xia xie	999999
+线程	xian cheng	999999
 限流	xian liu	999999
 显示	xian shi	999999
 现实	xian shi	999998
@@ -815,6 +821,7 @@ sort: by_weight
 运维	yun wei	999999
 运维	yun wei	99999
 韵味	yun wei	50000
+咋了	za le	999999
 在	zai	999999
 再	zai	99999
 在干嘛	zai gan ma	99999
@@ -852,6 +859,8 @@ sort: by_weight
 知道	zhi dao	999999
 直到	zhi dao	50000
 指导	zhi dao	3333
+指的	zhi de	999999
+值得	zhi de	999990
 指定	zhi ding	999999
 制定	zhi ding	99999
 置顶	zhi ding	99998
@@ -866,6 +875,7 @@ sort: by_weight
 治愈	zhi yu	999999
 致郁	zhi yu	50000
 中心化	zhong xin hua	999999
+主备	zhu bei	999999
 主观	zhu guan	999999
 助记	zhu ji
 注释	zhu shi	999999
