@@ -65,3 +65,4 @@ sed -i '/- dicts\/absx-personal/d' "chinese.dict.yaml"
 - 禁用 userdb 个人词库：我选择将我的词语权重手动记录到 [dicts/absx.dict.yaml](dicts/absx.dict.yaml)、dicts/absx-personal.dict.yaml 和 [custom_phrase.txt](custom_phrase.txt)，通过 git 同步。（配置：`translator/enable_user_dict: false`，[相关 issue](https://github.com/rime/weasel/issues/1290)）
   - 我不太信任第三方的同步服务，然后 syncthing 又[很难用](https://t.me/withabsolutex/2090)。
   - 我个人不喜欢历史词频决定权重的方式。
+  - userdb 有[一些问题](https://github.com/rime/librime/issues/1097)。

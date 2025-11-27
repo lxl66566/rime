@@ -48,6 +48,7 @@ sort: by_weight
 标致	biao zhi	99999
 并发	bing fa	999999
 波粒二象性	bo li er xiang xing	999999
+不都	bu dou	999999
 不发音	bu fa yin	999999
 不放假	bu fang jia	999
 不会	bu hui	9999999
@@ -174,6 +175,9 @@ sort: by_weight
 反爬	fan pa	999999
 翻牌	fan pai	99999
 反杀	fan sha	999999
+泛型	fan xing	999999
+反省	fan xing	999998
+繁星	fan xing	9999
 泛用	fan yong	999999
 房补	fang bu	999999
 放行	fang xing	999999
@@ -212,6 +216,7 @@ sort: by_weight
 个	ge	999999
 个人线	ge ren xian	9999
 格子	ge zi	2500
+根因	gen yin	999999
 更合适	geng he shi	999999
 工程实践	gong cheng shi jian	999999
 攻击	gong ji	999999
@@ -444,6 +449,7 @@ sort: by_weight
 墨水屏	mo shui ping	35000
 墨水瓶	mo shui ping	25000
 摸一下	mo yi xia	8999
+模板	mu ban	999999
 暮年	mu nian	999999
 摸鱼	muo yu	999999
 魔芋	muo yu	99999
@@ -808,6 +814,7 @@ sort: by_weight
 余额宝	yu e bao	999999
 预发	yu fa	99999
 余数	yu shu	999999
+鱼鱼蒸	yu yu zheng	9999
 原谅我	yuan liang wo	999
 原神	yuan shen	999999
 原生	yuan sheng	999999
@@ -818,6 +825,7 @@ sort: by_weight
 鸳鸯	yuan yang	9999
 云备份	yun bei fen	999999
 云服务	yun fu wu	999999
+晕了	yun le	999999
 运维	yun wei	999999
 运维	yun wei	99999
 韵味	yun wei	50000

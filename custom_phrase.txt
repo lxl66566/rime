@@ -76,6 +76,7 @@ iOS	ios
 key	key
 Mac	mac
 SQL	sql
+yak	yak	999999
 bash	bash	999999
 HTML	html
 iMac	imac
