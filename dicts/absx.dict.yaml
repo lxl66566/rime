@@ -54,6 +54,8 @@ sort: by_weight
 不会	bu hui	9999999
 不兼容	bu jian rong	999999
 不介意	bu jie yi	999999
+不就	bu jiu	999999
+不久	bu jiu	99999
 补课班	bu ke ban	8999
 不可控	bu ke kong	999999
 不例外	bu li wai	99999999
@@ -262,13 +264,18 @@ sort: by_weight
 花了	hua le	999999
 话说	hua shuo	9999999
 华硕	hua shuo	999
+花样	hua yang	999999
 环节	huan jie	999999
 缓解	huan jie	999998
 还原点	huan yuan dian	999
 黄桃	huang tao	999999
 会啊	hui a	999999
+会话	hui hua	999999
+绘画	hui hua	99999
 回来了	hui lai le	9999
 挥拍	hui pai	9999
+混音	hun yin	999999
+婚姻	hun yin	99999
 混用	hun yong	99999
 活到最后	huo dao zui hou	99
 及	ji	999999
@@ -330,6 +337,7 @@ sort: by_weight
 桀桀桀	jie jie jie	999999
 接入	jie ru	999999
 介入	jie ru	99999
+进而	jin er	999999
 筋头巴脑	jin tou ba nao	999999
 进系统	jin xi tong	999999
 仅限	jin xian	999999
@@ -484,6 +492,7 @@ sort: by_weight
 哦哦	o o	999999
 噢噢	o o	999998
 派系	pai xi	999999
+判据	pan ju	999999
 披萨	pi sa	999999
 偏多	pian duo	99999
 偏特化	pian te hua	999999
@@ -532,8 +541,8 @@ sort: by_weight
 缺失	que shi	999998
 群友	qun you	999999
 人机	ren ji	999999
-人物	ren wu	999999
-任务	ren wu	999990
+任务	ren wu	999999
+人物	ren wu	999990
 日轻	ri qing	999999
 入参	ru can	5000
 入坑	ru keng	999999
@@ -749,6 +758,7 @@ sort: by_weight
 也	ye	999999
 也算	ye suan	999999
 业务方	ye wu fang	999999
+一餐	yi can	999999
 异常	yi chang	999999
 一场	yi chang	99999
 以此类推	yi ci lei tui	999999
@@ -862,6 +872,7 @@ sort: by_weight
 整出来	zheng chu lai	99999
 整明白	zheng ming bai	999999
 正式工	zheng shi gong	999999
+阵仗	zheng zhang	9999
 只	zhi	9999999
 指出来	zhi chu lai	88888
 知道	zhi dao	999999
