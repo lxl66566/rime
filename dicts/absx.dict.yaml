@@ -113,6 +113,7 @@ sort: by_weight
 打得过	da de guo	100000
 打点	da dian	9999
 大肥猪	da fei zhu	999999
+大会员	da hui yuan	999999
 大满足	da man zu	999999
 大冒险	da mao xian	999999
 大模型	da mo xing	999999
@@ -168,6 +169,7 @@ sort: by_weight
 对其	dui qi	999
 对头	dui tou	999999
 队头	dui tou	99999
+多活	duo huo	999999
 多说无益	duo shuo wu yi	99999
 多项式	duo xiang shi	999999
 而	er	99999
@@ -183,6 +185,7 @@ sort: by_weight
 反省	fan xing	999998
 繁星	fan xing	9999
 泛用	fan yong	999999
+反直觉	fan zhi jue	999999
 房补	fang bu	999999
 放行	fang xing	999999
 匪家	fei jia	999
@@ -315,6 +318,7 @@ sort: by_weight
 加一个	jia yi ge	9999
 简笔	jian bi	999999
 简单易用	jian dan yi yong	9999
+减法	jian fa	999999
 简化	jian hua	999999
 捡垃圾	jian la ji	999999
 建立	jian li	999999
@@ -532,6 +536,7 @@ sort: by_weight
 清除	qing chu	999999
 清楚	qing chu	999990
 青柠	qing ning	999999
+求值	qiu zhi	999999
 区块链	qu kuai lian	9999999
 全彩	quan cai	999999
 全连接	quan lian jie	999999
@@ -618,6 +623,7 @@ sort: by_weight
 四食堂	si shi tang	999
 死锁	si suo	999999
 思索	si suo	9999
+斯咏	si yong	999999
 素材	su cai	999999
 素菜	su cai	99999
 溯源	su yuan	999999
@@ -636,6 +642,7 @@ sort: by_weight
 体量	ti liang	999999
 体谅	ti liang	99999
 提示词	ti shi ci	999999
+提问	ti wen	999999
 填饱	tian bao	999999
 填报	tian bao	70000
 天材地宝	tian cai di bao	999999
@@ -700,6 +707,7 @@ sort: by_weight
 下限	xia xian	999990
 瞎写	xia xie	999999
 线程	xian cheng	999999
+现成	xian cheng	999990
 限流	xian liu	999999
 显示	xian shi	999999
 现实	xian shi	999998
@@ -889,9 +897,12 @@ sort: by_weight
 置顶	zhi ding	99998
 制订	zhi ding	9999
 知乎	zhi hu	999999
+直觉	zhi jue	999999
 制卡	zhi ka	88
 只能	zhi neng	999999
 智能	zhi neng	9999
+只是	zhi shi	999999
+知识	zhi shi	999998
 知识盲区	zhi shi mang qu	999999
 止盈	zhi ying	999
 至于	zhi yu	999999
