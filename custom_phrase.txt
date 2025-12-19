@@ -118,6 +118,7 @@ iTunes	itunes
 jQuery	jquery
 Magisk	magisk
 Python	python
+vscode	vscode
 WeChat	wechat
 Android	android
 Dropbox	dropbox
