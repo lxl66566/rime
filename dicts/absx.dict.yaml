@@ -81,6 +81,7 @@ sort: by_weight
 查文档	cha wen dang	9999
 查资料	cha zi liao	999999
 长按	chang an	999999
+长篇	chang pian	999999
 尝鲜	chang xian	999999
 炒币	chao bi	999999
 超大杯	chao da bei	999999
@@ -252,6 +253,7 @@ sort: by_weight
 好吗	hao ma	999999
 号码	hao ma	909999
 好早	hao zao	99999
+合集	he ji	999999
 合适	he shi	9999999
 何意味	he yi wei	99999
 黑五	hei wu	999999
@@ -328,6 +330,9 @@ sort: by_weight
 简评	jian ping	999999
 鉴权	jian quan	999999
 健全	jian quan	99999
+减小	jian xiao	999999
+见效	jian xiao	999990
+见笑	jian xiao	99999
 建议	jian yi	999999
 降级	jiang ji	999999
 降序	jiang xu	999999
@@ -614,6 +619,8 @@ sort: by_weight
 输血	shu xie	99
 数学	shu xue	9999999
 书源	shu yuan	10000
+爽吃	shuang chi	999999
+双持	shuang chi	99999
 双缝干涉	shuang feng gan she	999999
 睡了	shui le	9999999
 说一说	shuo yi shuo	9999
@@ -743,7 +750,9 @@ sort: by_weight
 协程	xie cheng	999999
 写代码	xie dai ma	999999
 写代码	xie dai ma	9999
+写进	xie jin	999999
 信工	xin gong	999999
+心跳	xin tiao	999999
 信噪比	xin zao bi	999999
 行了	xing le	90000
 醒了	xing le	80000
