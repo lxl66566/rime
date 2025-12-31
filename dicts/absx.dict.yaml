@@ -273,6 +273,7 @@ sort: by_weight
 话说	hua shuo	9999999
 华硕	hua shuo	999
 花样	hua yang	999999
+花样	hua yang	999999
 环节	huan jie	999999
 缓解	huan jie	999998
 还原点	huan yuan dian	999
@@ -393,6 +394,7 @@ sort: by_weight
 课设	ke she	8888
 科研	ke yan	9999
 可言	ke yan	9994
+可以开始	ke yi kai shi	999999
 刻章	ke zhang	99
 空的	kong de	9999
 口吐白沫	kou tu bai mo	999999
@@ -600,6 +602,11 @@ sort: by_weight
 试没试	shi mei shi	99
 时停	shi ting	999999
 使我	shi wo	999999
+实验	shi yan	999999
+试验	shi yan	999998
+时延	shi yan	999950
+食盐	shi yan	900000
+饰演	shi yan	90000
 是一个	shi yi ge	999999
 实在	shi zai	999999
 实在是	shi zai shi	99999
@@ -843,6 +850,7 @@ sort: by_weight
 鱿鱼圈	you yu quan	99999
 有栈协程	you zhan xie cheng	999999
 余额宝	yu e bao	999999
+语法	yu fa	999999
 预发	yu fa	99999
 余数	yu shu	999999
 鱼鱼蒸	yu yu zheng	9999
@@ -858,7 +866,6 @@ sort: by_weight
 云服务	yun fu wu	999999
 晕了	yun le	999999
 运维	yun wei	999999
-运维	yun wei	99999
 韵味	yun wei	50000
 咋了	za le	999999
 在	zai	999999
