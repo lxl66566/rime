@@ -507,6 +507,7 @@ sort: by_weight
 噢噢	o o	999998
 派系	pai xi	999999
 判据	pan ju	999999
+癖好	pi hao	999999
 披萨	pi sa	999999
 偏多	pian duo	99999
 偏特化	pian te hua	999999
@@ -577,6 +578,7 @@ sort: by_weight
 ↑	shang	999
 上新闻	shang xin wen	99999
 少有	shao you	999999
+舍友	she you	999999
 身兼多职	shen jian duo zhi	99
 深色	shen se	999999
 神色	shen se	9999
@@ -680,6 +682,7 @@ sort: by_weight
 外部库	wai bu ku	999999
 外放	wai fang	99999
 玩家	wan jia	999999
+玩脱了	wan tuo le	999999
 弯弯绕绕	wan wan rao rao	999999
 玩意	wan yi	999999
 万一	wan yi	50000
@@ -829,6 +832,10 @@ sort: by_weight
 隐式	yin shi	999999
 饮食	yin shi	999998
 引体	yin ti	999999
+隐性	yin xing	999999
+阴性	yin xing	999998
+隐形	yin xing	999997
+音形	yin xing	99999
 饮用水	yin yong shui	999999
 音游	yin you	999999
 银装素裹	yin zhuang su guo	999999
