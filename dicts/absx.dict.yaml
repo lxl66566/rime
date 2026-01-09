@@ -80,6 +80,7 @@ sort: by_weight
 查分	cha fen	9999
 查文档	cha wen dang	9999
 查资料	cha zi liao	999999
+拆箱	chai xiang	999999
 长按	chang an	999999
 长篇	chang pian	999999
 尝鲜	chang xian	999999
@@ -118,6 +119,7 @@ sort: by_weight
 大满足	da man zu	999999
 大冒险	da mao xian	999999
 大模型	da mo xing	999999
+大声	da sheng	999999
 大失败	da shi bai	999999
 大小核	da xiao he	999999
 大赢特赢	da ying te ying	999999
@@ -773,6 +775,7 @@ sort: by_weight
 薛定谔	xue ding e	999999
 血狼	xue lang	999999
 学了	xue le	999999
+学历	xue li	999999
 学妹	xue mei	999999
 学术性	xue shu xing	999999
 寻线仪	xun xian yi	999999
@@ -843,6 +846,8 @@ sort: by_weight
 赢了	ying le	999999
 用	yong	999999
 咏唱	yong chang	999999
+用到	yong dao	999999
+泳道	yong dao	999998
 用了	yong le	99999
 永乐	yong le	50
 →	you	999
