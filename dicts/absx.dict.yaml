@@ -11,6 +11,8 @@ sort: by_weight
 
 阿苯达唑	a ben da cuo	999999
 爱心屋	ai xin wu	999999
+按键	an jian	999999
+案件	an jian	99999
 把我	ba wo	99999
 把握	ba wo	5000
 摆烂	bai lan	999999
@@ -133,6 +135,7 @@ sort: by_weight
 但凡	dan fan	999999
 单反	dan fan	99999
 单节点	dan jie dian	999999
+单例	dan li	999999
 单位时间	dan wei shi jian	999999
 当时	dang shi	999999
 到岗	dao gang	8999
@@ -187,6 +190,7 @@ sort: by_weight
 泛型	fan xing	999999
 反省	fan xing	999998
 繁星	fan xing	9999
+反应	fan ying	999999
 泛用	fan yong	999999
 反直觉	fan zhi jue	999999
 房补	fang bu	999999
@@ -235,6 +239,8 @@ sort: by_weight
 攻速	gong su	999999
 共通线	gong tong xian	99999
 共通线	gong tong xian	9999
+工位	gong wei	999999
+恭维	gong wei	999990
 勾八	gou ba	999999
 够了	gou le	9999999
 固源岩	gu yuan yan	9999
@@ -463,6 +469,7 @@ sort: by_weight
 每一个	mei yi ge	999999
 没一个	mei yi ge	10000
 萌娘	meng niang	999999
+迷惑性	mi huo xing	999999
 面试题	mian shi ti	999999
 免俗	mian su	9999
 喵	miao	50000000
@@ -578,6 +585,8 @@ sort: by_weight
 沙鹰	sha ying	999999
 删了	shan le	999999
 ↑	shang	999
+上午	shang wu	999999
+商务	shang wu	99999
 上新闻	shang xin wen	99999
 少有	shao you	999999
 舍友	she you	999999
@@ -653,6 +662,7 @@ sort: by_weight
 缩容	suo rong	9999
 太惨	tai can	99999
 太吵	tai chao	999999
+弹框	tan kuang	99
 谈薪	tan xin	9999
 提出	ti chu	999999
 剔除	ti chu	99
@@ -679,6 +689,7 @@ sort: by_weight
 退避	tui bi	999999
 退出	tui chu	999999
 推出	tui chu	99999
+推导	tui dao	999999
 哇	wa	9999999
 五瓦	wa	99
 外部库	wai bu ku	999999
@@ -729,7 +740,8 @@ sort: by_weight
 现成	xian cheng	999990
 限流	xian liu	999999
 显示	xian shi	999999
-现实	xian shi	999998
+显式	xian shi	999998
+现实	xian shi	999997
 限时	xian shi	999990
 现世	xian shi	999
 仙逝	xian shi	98
@@ -948,6 +960,7 @@ sort: by_weight
 主业	zhu ye	99999
 注音	zhu yin	999999
 赚币	zhuan bi	999
+转岗	zhuan gang	999999
 装个	zhuang ge	1000
 桌面端	zhuo mian duan	999999
 子弹	zi dan	999999
