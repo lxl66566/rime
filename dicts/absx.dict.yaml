@@ -221,6 +221,7 @@ sort: by_weight
 负相关	fu xiang guan	999999
 浮盈	fu ying	999999
 父元素	fu yuan su	999999
+改进项	gai jin xiang	999999
 改配置	gai pei zhi	999999
 感到	gan dao	999999
 刚	gang	99999
@@ -253,6 +254,7 @@ sort: by_weight
 归宿	gui su	999999
 龟速	gui su	9999
 硅脂	gui zhi	999999
+过期	guo qi	999999
 过时	guo shi	999999
 果实	guo shi	999998
 过世	guo shi	999990
@@ -287,6 +289,7 @@ sort: by_weight
 还原点	huan yuan dian	999
 黄桃	huang tao	999999
 会啊	hui a	999999
+灰度	hui du	999999
 会话	hui hua	999999
 绘画	hui hua	99999
 回来了	hui lai le	9999
@@ -298,6 +301,7 @@ sort: by_weight
 及	ji	999999
 几百行	ji bai hang	999999
 几点	ji dian	999999
+机翻	ji fan	999999
 几分钟	ji fen zhong	999999
 寄寄	ji ji	950
 寄件	ji jian	9999
@@ -521,6 +525,8 @@ sort: by_weight
 偏多	pian duo	99999
 偏特化	pian te hua	999999
 偏置	pian zhi	20000
+品控	pin kong	999999
+频控	pin kong	99999
 拼手速	pin shou su	200
 平板	ping ban	9999999
 评价	ping jia	999999
@@ -887,6 +893,7 @@ sort: by_weight
 原样	yuan yang	999999
 鸳鸯	yuan yang	9999
 云备份	yun bei fen	999999
+云厂商	yun chang shang	999999
 云服务	yun fu wu	999999
 晕了	yun le	999999
 运维	yun wei	999999
