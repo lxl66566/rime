@@ -117,6 +117,7 @@ sort: by_weight
 打得过	da de guo	100000
 打点	da dian	9999
 大肥猪	da fei zhu	999999
+打挂	da gua	999999
 大会员	da hui yuan	999999
 大满足	da man zu	999999
 大冒险	da mao xian	999999
@@ -254,6 +255,7 @@ sort: by_weight
 归宿	gui su	999999
 龟速	gui su	9999
 硅脂	gui zhi	999999
+过会	guo hui	999999
 过期	guo qi	999999
 过时	guo shi	999999
 果实	guo shi	999998
@@ -343,6 +345,7 @@ sort: by_weight
 简评	jian ping	999999
 鉴权	jian quan	999999
 健全	jian quan	99999
+监视	jian shi	999999
 减小	jian xiao	999999
 见效	jian xiao	999990
 见笑	jian xiao	99999
@@ -423,6 +426,7 @@ sort: by_weight
 乐呵乐呵	le he le he	999999
 累了	lei le	99999
 类名	lei ming	9999
+立绘	li hui	999999
 力气	li qi	999999
 戾气	li qi	50000
 立直	li zhi	200
@@ -804,6 +808,7 @@ sort: by_weight
 炎症	yan zheng	99999
 样例	yang li	999999
 阳历	yang li	9999
+样式	yang shi	999999
 要命	yao ming	99999
 要是	yao shi	999999
 钥匙	yao shi	99999
@@ -956,6 +961,7 @@ sort: by_weight
 治愈	zhi yu	999999
 致郁	zhi yu	50000
 中心化	zhong xin hua	999999
+周会	zhou hui	999999
 主备	zhu bei	999999
 主观	zhu guan	999999
 助记	zhu ji
