@@ -31,6 +31,8 @@ sort: by_weight
 鲍伊猎刀	bao yi lie dao	999999
 爆汁	bao zhi	9999
 背景	bei jing	999999
+背景	bei jing	999999
+北京	bei jing	99999
 北京	bei jing	99999
 倍率	bei lv	999999
 倍速	bei su	999999
@@ -54,6 +56,7 @@ sort: by_weight
 不发音	bu fa yin	999999
 不放假	bu fang jia	999
 不会	bu hui	9999999
+不急	bu ji	999999
 不兼容	bu jian rong	999999
 不介意	bu jie yi	999999
 不就	bu jiu	999999
@@ -524,6 +527,8 @@ sort: by_weight
 噢噢	o o	999998
 派系	pai xi	999999
 判据	pan ju	999999
+配重	pei zhong	999999
+配种	pei zhong	999990
 癖好	pi hao	999999
 披萨	pi sa	999999
 偏多	pian duo	99999
@@ -560,8 +565,8 @@ sort: by_weight
 切后排	qie hou pai	999999
 切流	qie liu	99999
 切图	qie tu	999999
-清除	qing chu	999999
-清楚	qing chu	999990
+清楚	qing chu	999999
+清除	qing chu	999990
 青柠	qing ning	999999
 求值	qiu zhi	999999
 区块链	qu kuai lian	9999999
@@ -736,6 +741,7 @@ sort: by_weight
 乌贼	wu zei	999999
 吸溜	xi liu	999999
 洗盘子	xi pan zi	10000
+熄屏	xi ping	999999
 洗碗	xi wan	999999
 洗洗睡	xi xi shui	99999
 ↓	xia	999
@@ -779,6 +785,7 @@ sort: by_weight
 消失	xiao shi	50000
 笑死了	xiao si le	999999
 消消乐	xiao xiao le	999999
+小写	xiao xie	999999
 校园卡	xiao yuan ka	999999
 校招	xiao zhao	999999
 协程	xie cheng	999999
@@ -879,6 +886,7 @@ sort: by_weight
 有吗	you ma	999999
 有吗	you ma	999999
 有权限	you quan xian	9999
+有线网	you xian wang	999999
 有用	you yong	999999
 由于	you yu	999999
 犹豫 	you yu	80000
@@ -969,6 +977,7 @@ sort: by_weight
 注视	zhu shi	99999
 主食	zhu shi	59999
 主卧	zhu wo	99999
+主线	zhu xian	999999
 主页	zhu ye	999999
 主业	zhu ye	99999
 注音	zhu yin	999999
