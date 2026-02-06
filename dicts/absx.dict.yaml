@@ -26,6 +26,8 @@ sort: by_weight
 饱腹	bao fu	999
 保护期	bao hu qi	999999
 包浆	bao jiang	999999
+暴力	bao li	999999
+暴利	bao li	999990
 爆睡	bao shui	599
 爆体	bao ti	9999
 鲍伊猎刀	bao yi lie dao	999999
@@ -199,8 +201,10 @@ sort: by_weight
 反直觉	fan zhi jue	999999
 房补	fang bu	999999
 放行	fang xing	999999
+废案	fei an	999999
 匪家	fei jia	999
 肥牛	fei niu	999999
+分词	fen ci	999999
 分代	fen dai	99
 分割	fen ge	999999
 分隔	fen ge	70000
@@ -429,6 +433,7 @@ sort: by_weight
 乐呵乐呵	le he le he	999999
 累了	lei le	99999
 类名	lei ming	9999
+里层	li ceng	999999
 立绘	li hui	999999
 力气	li qi	999999
 戾气	li qi	50000
@@ -944,6 +949,7 @@ sort: by_weight
 整出来	zheng chu lai	99999
 整明白	zheng ming bai	999999
 正式工	zheng shi gong	999999
+正戏	zheng xi	999999
 阵仗	zheng zhang	9999
 只	zhi	9999999
 指出来	zhi chu lai	88888
@@ -983,6 +989,7 @@ sort: by_weight
 注音	zhu yin	999999
 赚币	zhuan bi	999
 转岗	zhuan gang	999999
+转职	zhuan zhi	999999
 装个	zhuang ge	1000
 桌面端	zhuo mian duan	999999
 子弹	zi dan	999999
