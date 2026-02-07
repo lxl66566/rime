@@ -40,7 +40,7 @@ recognizer:
     # url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$" # URL 输入
 
     # 响应功能
-    punct: "^/([0-9]0?|[A-Za-z]+)$" # 响应 lufs_symbols.yaml 内的输入
+    punct: "^i([A-Z|a-z]*|[0-9]|10)$" # TODO：按下 / 不能直接上屏，当前解法未知。
     unicode: "^U[a-f0-9]+" # 响应 Unicode
 
 ascii_composer:
