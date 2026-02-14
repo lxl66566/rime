@@ -109,6 +109,9 @@ sort: by_weight
 重定向	chong ding xiang	89999
 充实	chong shi	999999
 重试	chong shi	999997
+抽出	chou chu	999999
+抽搐	chou chu	999998
+踌躇	chou chu	999997
 臭鱼烂虾	chou yu lan xia	99999
 出场率	chu chang lv	999999
 出师未捷	chu shi wei jie	999999
@@ -158,6 +161,7 @@ sort: by_weight
 等级	deng ji	999999
 登记	deng ji	999998
 等价物	deng jia wu	9999999
+等阶	deng jie	999999
 等量	deng liang	999999
 登录	deng lu	999999
 等腰	deng yao	999999
@@ -190,6 +194,7 @@ sort: by_weight
 而	er	99999
 二食堂	er shi tang	999
 二刷	er shua	999999
+发布中	fa bu zhong	999999
 发给我	fa gei wo	9999999
 发给我	fa gei wo	9999
 返回码	fan hui ma	999999
@@ -203,6 +208,7 @@ sort: by_weight
 泛用	fan yong	999999
 反直觉	fan zhi jue	999999
 房补	fang bu	999999
+放假	fang jia	999999
 放行	fang xing	999999
 废案	fei an	999999
 匪家	fei jia	999
@@ -254,6 +260,7 @@ sort: by_weight
 工位	gong wei	999999
 恭维	gong wei	999990
 勾八	gou ba	999999
+够好	gou hao	999999
 够了	gou le	9999999
 固源岩	gu yuan yan	9999
 挂了	gua le	999999
@@ -283,6 +290,7 @@ sort: by_weight
 很适合	hen shi he	999999
 横评	heng ping	999999
 红温	hong wen	999999
+候补	hou bu	999999
 厚底	hou di	999999
 后人	hou ren	999999
 后文	hou wen	999999
@@ -296,6 +304,7 @@ sort: by_weight
 华硕	hua shuo	999
 花样	hua yang	999999
 花样	hua yang	999999
+花在	hua zai	999999
 环节	huan jie	999999
 缓解	huan jie	999998
 还原点	huan yuan dian	999
@@ -439,6 +448,7 @@ sort: by_weight
 类名	lei ming	9999
 里层	li ceng	999999
 立绘	li hui	999999
+立即	li ji	999999
 力气	li qi	999999
 戾气	li qi	50000
 立直	li zhi	200
@@ -494,6 +504,7 @@ sort: by_weight
 免俗	mian su	9999
 喵	miao	50000000
 妙	miao	50000
+摸	mo	999999
 摸金	mo jin	999999
 魔禁	mo jin	99999
 默认情况	mo ren qing kuang	999999
@@ -550,6 +561,7 @@ sort: by_weight
 评价	ping jia	999999
 平价	ping jia	8000
 评论区	ping lun qu	999999
+泼了一瓢冷水	po le yi piao leng shui	999999
 谱面	pu mian	999999
 其	qi	999999
 气氛	qi fen	999999
@@ -565,6 +577,7 @@ sort: by_weight
 潜逃	qian tao	9999
 前些天	qian xie tian	99989
 嵌字	qian zi	99999
+抢不到	qiang bu dao	899999
 抢到	qiang dao	999999
 强盗	qiang dao	99999
 抢饭	qiang fan	999999
@@ -802,6 +815,7 @@ sort: by_weight
 协程	xie cheng	999999
 写代码	xie dai ma	999999
 写代码	xie dai ma	9999
+写到	xie dao	999999
 写进	xie jin	999999
 信工	xin gong	999999
 心跳	xin tiao	999999
@@ -811,6 +825,7 @@ sort: by_weight
 兴趣班	xing qu ban	9999
 虚表	xu biao	999999
 虚标	xu biao	999990
+需求单	xu qiu dan	999999
 选择器	xuan ze qi	9999
 薛定谔	xue ding e	999999
 血狼	xue lang	999999
@@ -880,6 +895,7 @@ sort: by_weight
 阴性	yin xing	999998
 隐形	yin xing	999997
 音形	yin xing	99999
+引以为豪	yin yi wei hao	999999
 饮用水	yin yong shui	999999
 音游	yin you	999999
 银装素裹	yin zhuang su guo	999999
@@ -931,12 +947,14 @@ sort: by_weight
 早都	zao dou	999999
 造轮子	zao lun zi	999999
 凿墙	zao qiang	9999
+榨干	zha gan	999999
 摘花	zhai hua	999999
 占比	zhan bi	999999
 展示	zhan shi	999999
 战士	zhan shi	99999
 战损	zhan sun	999999
 长草	zhang cao	999
+章节	zhang jie	999999
 找不到	zhao bu dao	999999
 找了	zhao le	999999
 这才	zhe cai	999999
@@ -956,9 +974,11 @@ sort: by_weight
 整明白	zheng ming bai	999999
 正式工	zheng shi gong	999999
 正戏	zheng xi	999999
+睁眼说瞎话	zheng yan shuo xia hua	999999
 阵仗	zheng zhang	9999
 只	zhi	9999999
 指出来	zhi chu lai	88888
+直达	zhi da	999999
 知道	zhi dao	999999
 直到	zhi dao	50000
 指导	zhi dao	3333
@@ -1008,6 +1028,7 @@ sort: by_weight
 自卫	zi wei	99990
 总之	zong zhi	999999
 走吗	zou ma	99999
+组合技	zu he ji	999999
 组件	zu jian	999999
 组建	zu jian	59999
 最近邻	zui jin lin	999999

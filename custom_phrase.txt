@@ -69,6 +69,7 @@
 给我	gww	20000
 产品	ijp	999999
 买的	mdd	999999
+没有	mwy	999999
 
 CSS	css
 GBK	gbk
