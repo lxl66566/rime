@@ -32,9 +32,7 @@ sort: by_weight
 爆体	bao ti	9999
 鲍伊猎刀	bao yi lie dao	999999
 爆汁	bao zhi	9999
-背景	bei jing	999999
-背景	bei jing	999999
-北京	bei jing	99999
+背景	bei jing	99999999
 北京	bei jing	99999
 倍率	bei lv	999999
 倍速	bei su	999999
@@ -57,6 +55,7 @@ sort: by_weight
 不大	bu da	999999
 不打	bu da	599999
 不搭	bu da	99999
+补档	bu dang	999999
 不都	bu dou	999999
 不发音	bu fa yin	999999
 不放假	bu fang jia	999
@@ -92,6 +91,7 @@ sort: by_weight
 查资料	cha zi liao	999999
 拆箱	chai xiang	999999
 长按	chang an	999999
+畅吃	chang chi	999999
 长篇	chang pian	999999
 尝鲜	chang xian	999999
 炒币	chao bi	999999
@@ -305,6 +305,7 @@ sort: by_weight
 花样	hua yang	999999
 花样	hua yang	999999
 花在	hua zai	999999
+坏了	huai le	999999
 环节	huan jie	999999
 缓解	huan jie	999998
 还原点	huan yuan dian	999
@@ -495,6 +496,7 @@ sort: by_weight
 没路	mei lu	1250
 煤炉	mei lu	990
 没网	mei wang	8888
+美颜	mei yan	999999
 媚药	mei yao	999999
 每一个	mei yi ge	999999
 没一个	mei yi ge	10000
@@ -552,6 +554,8 @@ sort: by_weight
 癖好	pi hao	999999
 披萨	pi sa	999999
 偏多	pian duo	99999
+片方	pian fang	999999
+偏方	pian fang	999998
 偏特化	pian te hua	999999
 偏置	pian zhi	20000
 品控	pin kong	999999
@@ -689,6 +693,7 @@ sort: by_weight
 死锁	si suo	999999
 思索	si suo	9999
 斯咏	si yong	999999
+私域	si yu	999999
 素材	su cai	999999
 素菜	su cai	99999
 溯源	su yuan	999999
@@ -714,6 +719,7 @@ sort: by_weight
 天材地宝	tian cai di bao	999999
 添加	tian jia	999999
 天价	tian jia	99999
+天堂	tian tang	999999
 天下武功	tian xia wu gong	9999
 跳脸	tiao lian	999999
 挺好用	ting hao yong	999999
@@ -778,6 +784,7 @@ sort: by_weight
 线程	xian cheng	999999
 现成	xian cheng	999990
 限流	xian liu	999999
+鲜切肉	xian qie rou	999999
 显示	xian shi	999999
 显式	xian shi	999998
 现实	xian shi	999997
@@ -839,6 +846,10 @@ sort: by_weight
 眼镜	yan jing	50000
 验证	yan zheng	999999
 炎症	yan zheng	99999
+颜值	yan zhi	999999
+研制	yan zhi	99999
+腌制	yan zhi	99998
+胭脂	yan zhi	9999
 样例	yang li	999999
 阳历	yang li	9999
 样式	yang shi	999999
