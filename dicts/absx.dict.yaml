@@ -13,6 +13,7 @@ sort: by_weight
 爱心屋	ai xin wu	999999
 按键	an jian	999999
 案件	an jian	99999
+拗口	ao kou	999999
 把我	ba wo	99999
 把握	ba wo	5000
 摆烂	bai lan	999999
@@ -104,6 +105,7 @@ sort: by_weight
 抄作业	chao zuo ye	889999
 诚意	cheng yi	999999
 吃的	chi de	999999
+吃满	chi man	999999
 吃啥	chi sha	999999
 赤铁石	chi tie shi	99
 重定向	chong ding xiang	89999
@@ -116,6 +118,8 @@ sort: by_weight
 出场率	chu chang lv	999999
 出师未捷	chu shi wei jie	999999
 传值	chuan zhi	9999
+创办	chuang ban	999999
+床板	chuang ban	99999
 纯	chun	999999
 词频	ci pin	70000
 次卧	ci wo	99999
@@ -290,6 +294,7 @@ sort: by_weight
 很适合	hen shi he	999999
 横评	heng ping	999999
 红温	hong wen	999999
+虹吸	hong xi	899999
 候补	hou bu	999999
 厚底	hou di	999999
 后人	hou ren	999999
@@ -330,6 +335,7 @@ sort: by_weight
 几块钱	ji kuai qian	99999
 寄了	ji le	999999
 急了	ji le	999998
+寂寞	ji mo	999999
 机器	ji qi	999999
 及其	ji qi	899999
 极其	ji qi	399999
@@ -377,6 +383,7 @@ sort: by_weight
 椒麻	jiao ma	999999
 叫你	jiao ni	999999
 教你	jiao ni	99999
+叫醒	jiao xing	999999
 校验	jiao yan	999999
 椒盐	jiao yan	99999
 基操	jicao	999999
@@ -469,6 +476,7 @@ sort: by_weight
 良机	liang ji	999
 亮机卡	liang ji ka	999999
 两位小数	liang wei xiao shu	99999
+晾在一边	liang zai yi bian	999999
 劣质	lie zhi	999999
 流式	liu shi	99999
 流向	liu xiang	10000
@@ -558,6 +566,7 @@ sort: by_weight
 偏方	pian fang	999998
 偏特化	pian te hua	999999
 偏置	pian zhi	20000
+品鉴	pin jian	999999
 品控	pin kong	999999
 频控	pin kong	99999
 拼手速	pin shou su	200
@@ -728,6 +737,7 @@ sort: by_weight
 停止	ting zhi	999999
 停滞	ting zhi	99999
 通话	tong hua	999999
+同频	tong pin	999999
 同一个	tong yi ge	999999
 吐槽	tu cao	999999
 退避	tui bi	999999
@@ -805,6 +815,7 @@ sort: by_weight
 相性	xiang xing	99999
 响应	xiang ying	999999
 相应	xiang ying	50000
+小凳子	xiao deng zi	999999
 笑掉	xiao diao	999999
 小鹤	xiao he	999999
 小鹤双拼	xiao he shuang pin	999999
@@ -867,6 +878,7 @@ sort: by_weight
 移动	yi dong	999999
 移动端	yi dong duan	999999
 一堆人	yi dui ren	999999
+一发	yi fa	999999
 一个	yi ge	999999
 异格	yi ge	10000
 异或	yi huo	999999
@@ -898,6 +910,7 @@ sort: by_weight
 一直	yi zhi	999999
 已知	yi zhi	99999
 一致	yi zhi	99990
+一桌	yi zhuo	999999
 音高	yin gao	999999
 隐式	yin shi	999999
 饮食	yin shi	999998
