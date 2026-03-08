@@ -251,6 +251,7 @@ sort: by_weight
 搞个	gao ge	9999990
 高情商	gao qing shang	999999
 搞完了	gao wan le	999999
+搞笑	gao xiao	999999
 个	ge	999999
 个人线	ge ren xian	9999
 格子	ge zi	2500
@@ -266,6 +267,7 @@ sort: by_weight
 共通线	gong tong xian	9999
 工位	gong wei	999999
 恭维	gong wei	999990
+公主连结	gong zhu lian jie	999999
 勾八	gou ba	999999
 够好	gou hao	999999
 够了	gou le	9999999
@@ -435,6 +437,7 @@ sort: by_weight
 看番	kan fan	999999
 考验	kao yan	999999
 考研	kao yan	99999
+克服	ke fu	999999
 可复现	ke fu xian	999999
 可复用	ke fu yong	999999
 课设	ke she	8888
@@ -472,6 +475,7 @@ sort: by_weight
 联机	lian ji	999999
 连接	lian jie	999999
 链接	lian jie	99999
+练琴	lian qin	9999
 量级	liang ji	99999
 亮机	liang ji	59999
 两极	liang ji	9999
@@ -511,6 +515,7 @@ sort: by_weight
 媚药	mei yao	999999
 每一个	mei yi ge	999999
 没一个	mei yi ge	10000
+梦回	meng hui	999999
 萌娘	meng niang	999999
 迷惑性	mi huo xing	999999
 面试题	mian shi ti	999999
@@ -764,6 +769,7 @@ sort: by_weight
 维度	wei du	999999
 未读	wei du	40000
 未敢	wei gan	99999
+为敬	wei jing	999999
 未经测试	wei jing ce shi	99
 未授权	wei shou quan	999999
 伪随机	wei sui ji	999999
@@ -800,6 +806,7 @@ sort: by_weight
 现成	xian cheng	999990
 限流	xian liu	999999
 鲜切肉	xian qie rou	999999
+羡煞我也	xian sha wo ye	999999
 显示	xian shi	999999
 显式	xian shi	999998
 现实	xian shi	999997
@@ -982,6 +989,7 @@ sort: by_weight
 占比	zhan bi	999999
 展示	zhan shi	999999
 战士	zhan shi	99999
+粘鼠板	zhan shu ban	999999
 战损	zhan sun	999999
 长草	zhang cao	999
 章节	zhang jie	999999
@@ -1019,6 +1027,7 @@ sort: by_weight
 置顶	zhi ding	99998
 制订	zhi ding	9999
 知乎	zhi hu	999999
+只会	zhi hui	999999
 直觉	zhi jue	999999
 制卡	zhi ka	88
 只能	zhi neng	999999
@@ -1026,6 +1035,7 @@ sort: by_weight
 只是	zhi shi	999999
 知识	zhi shi	999998
 知识盲区	zhi shi mang qu	999999
+吱哇	zhi wa	999999
 止盈	zhi ying	999
 至于	zhi yu	999999
 治愈	zhi yu	999999
@@ -1036,6 +1046,7 @@ sort: by_weight
 主备	zhu bei	999999
 主观	zhu guan	999999
 助记	zhu ji
+主频道	zhu pin dao	999999
 注释	zhu shi	999999
 注视	zhu shi	99999
 主食	zhu shi	59999
