@@ -243,6 +243,7 @@ sort: by_weight
 付现	fu xian	5999
 负相关	fu xiang guan	999999
 浮盈	fu ying	999999
+复用	fu yong	999999
 父元素	fu yuan su	999999
 改进项	gai jin xiang	999999
 改配置	gai pei zhi	999999
@@ -382,9 +383,11 @@ sort: by_weight
 见效	jian xiao	999990
 见笑	jian xiao	99999
 建议	jian yi	999999
+讲不清楚	jiang bu qing chu	999999
 降级	jiang ji	999999
 降序	jiang xu	999999
 降智	jiang zhi	999999
+较大	jiao da	999999
 椒麻	jiao ma	999999
 叫你	jiao ni	999999
 教你	jiao ni	99999
@@ -440,6 +443,7 @@ sort: by_weight
 克服	ke fu	999999
 可复现	ke fu xian	999999
 可复用	ke fu yong	999999
+可见性	ke jian xing	999999
 课设	ke she	8888
 科研	ke yan	9999
 可言	ke yan	9994
@@ -476,6 +480,8 @@ sort: by_weight
 连接	lian jie	999999
 链接	lian jie	99999
 练琴	lian qin	9999
+练习	lian xi	999999
+联系	lian xi	99999
 量级	liang ji	99999
 亮机	liang ji	59999
 两极	liang ji	9999
@@ -725,6 +731,8 @@ sort: by_weight
 太吵	tai chao	999999
 太难	tai nan	999999
 弹框	tan kuang	99
+弹琴	tan qin	999999
+探亲	tan qin	99999
 谈薪	tan xin	9999
 提出	ti chu	999999
 剔除	ti chu	99
