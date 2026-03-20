@@ -128,6 +128,8 @@ sort: by_weight
 存世量	cun shi liang	999999
 错误码	cuo wu ma	999999
 大版本	da ban ben	999999
+大便	da bian	999999
+答辩	da bian	999990
 达到	da dao	999999
 打得过	da de guo	100000
 打点	da dian	9999
@@ -251,6 +253,7 @@ sort: by_weight
 刚	gang	99999
 搞个	gao ge	9999990
 高情商	gao qing shang	999999
+搞完	gao wan	999999
 搞完了	gao wan le	999999
 搞笑	gao xiao	999999
 个	ge	999999
@@ -282,6 +285,7 @@ sort: by_weight
 归宿	gui su	999999
 龟速	gui su	9999
 硅脂	gui zhi	999999
+过后	guo hou	999999
 过会	guo hui	999999
 过期	guo qi	999999
 过时	guo shi	999999
@@ -409,9 +413,15 @@ sort: by_weight
 禁用	jin yong	999999
 禁止	jin zhi	999999
 精钢	jing gang	99999
+精力	jing li	999999
+经历	jing li	99999
+经理	jing li	9999
+惊喜	jing xi	999999
 惊喜	jing xi	999999
 惊喜	jing xi	999999
 精细	jing xi	999990
+精细	jing xi	999990
+静息	jing xi	99999
 镜像	jing xiang	999999
 景象	jing xiang	99999
 静置	jing zhi	999
@@ -432,6 +442,7 @@ sort: by_weight
 卡死	ka si	9999999
 卡死	ka si	999999
 卡死	ka si	999999
+开酒店	kai jiu dian	999999
 开卷考	kai juan kao	999999
 开题	kai ti	99999
 开源	kai yuan	999999
@@ -749,6 +760,7 @@ sort: by_weight
 天堂	tian tang	999999
 天下武功	tian xia wu gong	9999
 跳脸	tiao lian	999999
+挑牙缝	tiao ya feng	999999
 挺好用	ting hao yong	999999
 挺慢	ting man	899999
 挺满意	ting man yi	999999
@@ -774,6 +786,7 @@ sort: by_weight
 网关	wang guan	999999
 王冠	wang guan	99999
 网管	wang guan	9999
+伪	wei	999
 维度	wei du	999999
 未读	wei du	40000
 未敢	wei gan	99999
@@ -959,11 +972,13 @@ sort: by_weight
 有吗	you ma	999999
 有权限	you quan xian	9999
 有线网	you xian wang	999999
+有氧	you yang	999999
 有用	you yong	999999
 由于	you yu	999999
 犹豫 	you yu	80000
 鱿鱼圈	you yu quan	99999
 有栈协程	you zhan xie cheng	999999
+柚子	you zi	999999
 余额宝	yu e bao	999999
 语法	yu fa	999999
 预发	yu fa	99999
@@ -1006,6 +1021,7 @@ sort: by_weight
 这才	zhe cai	999999
 折叠屏	zhe die ping	99999
 这就	zhe jiu	999999
+这啥	zhe sha	999999
 这玩意	zhe wan yi	999999
 这也	zhe ye	999999
 这只是	zhe zhi shi	999999
