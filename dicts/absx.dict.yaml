@@ -108,6 +108,7 @@ sort: by_weight
 吃满	chi man	999999
 吃啥	chi sha	999999
 赤铁石	chi tie shi	99
+重采样	chong cai yang	999999
 重定向	chong ding xiang	89999
 充实	chong shi	999999
 重试	chong shi	999997
@@ -475,6 +476,7 @@ sort: by_weight
 乐呵乐呵	le he le he	999999
 累了	lei le	99999
 类名	lei ming	9999
+哪里na	li	999998
 里层	li ceng	999999
 立绘	li hui	999999
 立即	li ji	999999
@@ -555,6 +557,7 @@ sort: by_weight
 那	na	999999
 哪	na	90000
 拿	na	50000
+那里	na li	999999
 那你	na ni	9999
 纳尼	na ni	8000
 那我	na wo	999999
@@ -582,6 +585,7 @@ sort: by_weight
 噢噢	o o	999998
 派系	pai xi	999999
 判据	pan ju	999999
+判空	pan kong	999999
 配重	pei zhong	999999
 配种	pei zhong	999990
 癖好	pi hao	999999
@@ -848,6 +852,7 @@ sort: by_weight
 相性	xiang xing	99999
 响应	xiang ying	999999
 相应	xiang ying	50000
+小馋猫	xiao chan mao	999999
 小凳子	xiao deng zi	999999
 笑掉	xiao diao	999999
 小鹤	xiao he	999999
@@ -1050,6 +1055,11 @@ sort: by_weight
 制定	zhi ding	99999
 置顶	zhi ding	99998
 制订	zhi ding	9999
+支付	zhi fu	999999
+制服	zhi fu	99999
+至福	zhi fu	9999
+致富	zhi fu	9998
+之父	zhi fu	9997
 知乎	zhi hu	999999
 只会	zhi hui	999999
 直觉	zhi jue	999999
@@ -1065,7 +1075,9 @@ sort: by_weight
 治愈	zhi yu	999999
 致郁	zhi yu	50000
 制作组	zhi zuo zu	999999
+终级	zhong ji	999999
 中心化	zhong xin hua	999999
+中转	zhong zhuan	999999
 周会	zhou hui	999999
 主备	zhu bei	999999
 主观	zhu guan	999999
