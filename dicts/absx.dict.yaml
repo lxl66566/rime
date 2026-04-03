@@ -252,6 +252,7 @@ sort: by_weight
 改配置	gai pei zhi	999999
 感到	gan dao	999999
 刚	gang	99999
+搞点	gao dian	999999
 搞个	gao ge	9999990
 高情商	gao qing shang	999999
 搞完	gao wan	999999
@@ -316,6 +317,7 @@ sort: by_weight
 华东	hua dong	999999
 画风	hua feng	999999
 花了	hua le	999999
+花名	hua ming	999999
 话说	hua shuo	9999999
 华硕	hua shuo	999
 花样	hua yang	999999
@@ -339,6 +341,7 @@ sort: by_weight
 及	ji	999999
 几百行	ji bai hang	999999
 几点	ji dian	999999
+技多不压身	ji duo bu ya shen	999999
 机翻	ji fan	999999
 几分钟	ji fen zhong	999999
 寄寄	ji ji	950
@@ -526,6 +529,8 @@ sort: by_weight
 没法	mei fa	999999
 没改	mei gai	999999
 没讲	mei jiang	9000
+枚举	mei ju	999999
+枚举值	mei ju zhi	999999
 没开	mei kai	999999
 没路	mei lu	1250
 煤炉	mei lu	990
@@ -595,6 +600,7 @@ sort: by_weight
 偏方	pian fang	999998
 偏特化	pian te hua	999999
 偏置	pian zhi	20000
+漂移	piao yi	999999
 品鉴	pin jian	999999
 品控	pin kong	999999
 频控	pin kong	99999
@@ -679,6 +685,8 @@ sort: by_weight
 声称	sheng cheng	999998
 声道	sheng dao	999999
 省道	sheng dao	999
+剩了	sheng le	999999
+省了	sheng le	99999
 声明	sheng ming	999999
 生命	sheng ming	50000
 省赛	sheng sai	99999
@@ -852,6 +860,7 @@ sort: by_weight
 相性	xiang xing	99999
 响应	xiang ying	999999
 相应	xiang ying	50000
+小被叽	xiao bei ji	999999
 小馋猫	xiao chan mao	999999
 小凳子	xiao deng zi	999999
 笑掉	xiao diao	999999
@@ -1055,6 +1064,8 @@ sort: by_weight
 制定	zhi ding	99999
 置顶	zhi ding	99998
 制订	zhi ding	9999
+只读	zhi du	999999
+制度	zhi du	99999
 支付	zhi fu	999999
 制服	zhi fu	99999
 至福	zhi fu	9999
